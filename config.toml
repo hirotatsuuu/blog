@@ -1,3 +1,32 @@
-baseURL = "http://example.org/"
-languageCode = "en-us"
-title = "My New Hugo Site"
+baseurl = "https://example.com/"
+title = "世界のひろたつから"
+theme = "hugo_theme_robust"
+
+googleAnalytics = "UA-XXXXXXXX-XX" # Optional
+disqusShortname = "XYW"
+
+[params]
+description = ""
+dateformat = "Jan 2, 2006" # Optional
+# Fonts settings.
+googlefonts = "https://fonts.googleapis.com/css?family=Lobster|Lato:400,700" # Optional, Include google fonts.
+fontfamily = "Lato,YuGothic,'Hiragino Kaku Gothic Pro',Meiryo,sans-serif" # Optional, Override body font family.
+logofontfamily = "Lobster, cursive" # Optional, Override logo font.
+
+[params.author]
+thumbnail = "images/author.jpg"
+name = "ひろたつ"
+description = "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit</p><p>sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>"
+instagram = "https://www.facebook.com/daisuke.tsuji.735"
+twitter = "https://twitter.com/dim0627"
+youtube = "https://github.com/dim0627"
+
+[outputs]
+page = [ "HTML", "AMP" ] # if you want AMP enable.
+
+[taxonomies]
+tag = "tags"
+category = "categories"
+series = "series"
+
+hasCJKLanguage = true
