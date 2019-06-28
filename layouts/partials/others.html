@@ -2,10 +2,10 @@
   <header>OTHERS</header>
   <div>
     <div class="articles sm">
-      {{ with .Site.GetPage "pages" "about.md" }}
+      {{ with .Site.GetPage "pages" "privacy-policy.md" }}
       {{ .Render "li_sm" }}
       {{ end }}
-      {{ with .Site.GetPage "pages" "privacy-policy.md" }}
+      {{ with .Site.GetPage "pages" "disclaimer.md" }}
       {{ .Render "li_sm" }}
       {{ end }}
     </div>
