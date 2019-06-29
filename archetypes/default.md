@@ -1,10 +1,12 @@
 ---
 title: "{{ replace .Name "-" " " | title }}"
 date: {{ .Date }}
-draft: true
+thumbnail: "images/posts/thumbnail.jpg"
+toc: true
 categorie:
   - ""
 tags:
   - ""
+draft: true
 ---
 

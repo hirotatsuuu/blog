@@ -1,13 +1,13 @@
-baseurl = "https://example.com/"
+baseurl = "https://hirotatsu.me/"
 title = "世界のひろたつから"
 theme = "hugo_theme_robust"
 
 googleAnalytics = "UA-XXXXXXXX-XX" # Optional
-disqusShortname = "XYW"
+disqusShortname = ""
 
 [params]
 description = ""
-dateformat = "Jan 2, 2006" # Optional
+dateformat = "2006/01/02" # Optional
 # Fonts settings.
 googlefonts = "https://fonts.googleapis.com/css?family=Lobster|Lato:400,700" # Optional, Include google fonts.
 fontfamily = "Lato,YuGothic,'Hiragino Kaku Gothic Pro',Meiryo,sans-serif" # Optional, Override body font family.
@@ -16,9 +16,9 @@ logofontfamily = "Lobster, cursive" # Optional, Override logo font.
 [params.author]
 thumbnail = "images/author.jpg"
 name = "ひろたつ"
-description = "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit</p><p>sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>"
+description = "<p>ニュージーランドを放浪中の24歳</p>"
 instagram = "https://www.facebook.com/daisuke.tsuji.735"
-twitter = "https://twitter.com/dim0627"
+twitter = "https://twitter.com/hirotatsuuu"
 youtube = "https://github.com/dim0627"
 
 [outputs]
