@@ -1,15 +1,7 @@
 ---
 title: 免責事項
-author: ひろたつ
-type: page
 date: 2019-01-07T08:29:39+00:00
-views:
-  - 200
-bzb_meta_robots:
-  - 'a:2:{i:0;s:0:"";i:1;s:0:"";}'
-bzb_post_layout:
-  - left-content
-
+thumbnail: "images/pages/disclaimer.jpg"
 ---
 世界のひろたつから( https://hirotatsu.me ）（以下、「当サイト」とします。)における免責事項は、下記の通りです。
 

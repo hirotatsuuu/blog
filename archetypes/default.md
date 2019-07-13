@@ -1,7 +1,7 @@
 ---
 title: "{{ replace .Name "-" " " | title }}"
 date: {{ .Date }}
-thumbnail: "images/posts/thumbnail.jpg"
+thumbnail: "images/thumbnail.jpg"
 toc: true
 categorie:
   - ""

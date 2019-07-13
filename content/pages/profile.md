@@ -1,27 +1,7 @@
 ---
 title: 「ひろたつ」って何者？
-author: ひろたつ
-type: page
 date: 2018-08-01T03:37:13+00:00
-views:
-  - 951
-bzb_meta_keywords:
-  - ひろたつ
-bzb_meta_robots:
-  - 'a:2:{i:0;s:0:"";i:1;s:0:"";}'
-bzb_post_layout:
-  - left-content
-bzb_post_asset_css:
-  - |
-
-    .wp-image-996:hover {
-     opacity: 0.5 ;
-    }
-
-    .wp-image-1046:hover {
-     opacity: 0.5;
-    }
-
+thumbnail: "images/pages/profile.jpg"
 ---
 <img src="https://i0.wp.com/hirotatsu.me/wp-content/uploads/2018/11/b5053e09c15e85e31d0251ad257ca1a3.png?resize=2560%2C1440&#038;ssl=1" alt="ひろたつのプロフィール" width="2560" height="1440" class="size-full wp-image-1040" srcset="https://i0.wp.com/hirotatsu.me/wp-content/uploads/2018/11/b5053e09c15e85e31d0251ad257ca1a3.png?w=2560&ssl=1 2560w, https://i0.wp.com/hirotatsu.me/wp-content/uploads/2018/11/b5053e09c15e85e31d0251ad257ca1a3.png?resize=300%2C169&ssl=1 300w, https://i0.wp.com/hirotatsu.me/wp-content/uploads/2018/11/b5053e09c15e85e31d0251ad257ca1a3.png?resize=768%2C432&ssl=1 768w, https://i0.wp.com/hirotatsu.me/wp-content/uploads/2018/11/b5053e09c15e85e31d0251ad257ca1a3.png?resize=1024%2C576&ssl=1 1024w, https://i0.wp.com/hirotatsu.me/wp-content/uploads/2018/11/b5053e09c15e85e31d0251ad257ca1a3.png?resize=304%2C171&ssl=1 304w, https://i0.wp.com/hirotatsu.me/wp-content/uploads/2018/11/b5053e09c15e85e31d0251ad257ca1a3.png?resize=282%2C159&ssl=1 282w, https://i0.wp.com/hirotatsu.me/wp-content/uploads/2018/11/b5053e09c15e85e31d0251ad257ca1a3.png?w=2000&ssl=1 2000w" sizes="(max-width: 1000px) 100vw, 1000px" data-recalc-dims="1" />
 

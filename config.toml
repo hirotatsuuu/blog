@@ -1,4 +1,4 @@
-baseurl = "https://hirotatsuuu.github.io/blog"
+baseurl = "https://hirotatsuuu.github.io/blog/"
 title = "世界のひろたつから"
 theme = "hugo_theme_robust"
 
