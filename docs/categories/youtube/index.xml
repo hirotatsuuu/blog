@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Youtube on 世界のひろたつから</title>
-    <link>https://hirotatsu.me/categories/youtube/</link>
+    <link>https://hirotatsuuu.github.io/blog/categories/youtube/</link>
     <description>Recent content in Youtube on 世界のひろたつから</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja</language>
     <lastBuildDate>Sat, 01 Sep 2018 13:25:01 +0000</lastBuildDate>
     
-	<atom:link href="https://hirotatsu.me/categories/youtube/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://hirotatsuuu.github.io/blog/categories/youtube/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Youtubeのダークテーマ（黒い画面）の設定方法</title>
-      <link>https://hirotatsu.me/youtube-dark-settings/</link>
+      <link>https://hirotatsuuu.github.io/blog/youtube-dark-settings/</link>
       <pubDate>Sat, 01 Sep 2018 13:25:01 +0000</pubDate>
       
-      <guid>https://hirotatsu.me/youtube-dark-settings/</guid>
+      <guid>https://hirotatsuuu.github.io/blog/youtube-dark-settings/</guid>
       <description>&lt;p&gt;はいどーもー&lt;/p&gt;
 
 &lt;p&gt;ブロガーのひろたつです。&lt;/p&gt;
@@ -26,10 +26,10 @@
     
     <item>
       <title>Youtubeでサブチャンネルを簡単に作る方法</title>
-      <link>https://hirotatsu.me/youtube-sub-channel/</link>
+      <link>https://hirotatsuuu.github.io/blog/youtube-sub-channel/</link>
       <pubDate>Wed, 29 Aug 2018 19:17:06 +0000</pubDate>
       
-      <guid>https://hirotatsu.me/youtube-sub-channel/</guid>
+      <guid>https://hirotatsuuu.github.io/blog/youtube-sub-channel/</guid>
       <description>&lt;p&gt;はいどーもー&lt;/p&gt;
 
 &lt;p&gt;ブロガーのひろたつです。&lt;/p&gt;
