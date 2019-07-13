@@ -5,6 +5,9 @@ theme = "hugo_theme_robust"
 googleAnalytics = "UA-XXXXXXXX-XX" # Optional
 disqusShortname = ""
 
+languageCode = "ja"
+publishDir = "docs"
+
 [params]
 description = ""
 dateformat = "2006/01/02" # Optional

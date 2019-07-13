@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Categories on 世界のひろたつから</title>
+    <link>https://hirotatsu.me/categories/</link>
+    <description>Recent content in Categories on 世界のひろたつから</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ja</language>
+    <lastBuildDate>Mon, 06 May 2019 01:26:19 +0000</lastBuildDate>
+    
+	<atom:link href="https://hirotatsu.me/categories/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>ライフハック</title>
+      <link>https://hirotatsu.me/categories/%E3%83%A9%E3%82%A4%E3%83%95%E3%83%8F%E3%83%83%E3%82%AF/</link>
+      <pubDate>Mon, 06 May 2019 01:26:19 +0000</pubDate>
+      
+      <guid>https://hirotatsu.me/categories/%E3%83%A9%E3%82%A4%E3%83%95%E3%83%8F%E3%83%83%E3%82%AF/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ゼロ円ワーホリ</title>
+      <link>https://hirotatsu.me/categories/%E3%82%BC%E3%83%AD%E5%86%86%E3%83%AF%E3%83%BC%E3%83%9B%E3%83%AA/</link>
+      <pubDate>Tue, 15 Jan 2019 11:06:35 +0000</pubDate>
+      
+      <guid>https://hirotatsu.me/categories/%E3%82%BC%E3%83%AD%E5%86%86%E3%83%AF%E3%83%BC%E3%83%9B%E3%83%AA/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>日記</title>
+      <link>https://hirotatsu.me/categories/%E6%97%A5%E8%A8%98/</link>
+      <pubDate>Fri, 09 Nov 2018 11:22:39 +0000</pubDate>
+      
+      <guid>https://hirotatsu.me/categories/%E6%97%A5%E8%A8%98/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>WordPress</title>
+      <link>https://hirotatsu.me/categories/wordpress/</link>
+      <pubDate>Thu, 18 Oct 2018 04:44:59 +0000</pubDate>
+      
+      <guid>https://hirotatsu.me/categories/wordpress/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ヒッチハイク日本一周</title>
+      <link>https://hirotatsu.me/categories/%E3%83%92%E3%83%83%E3%83%81%E3%83%8F%E3%82%A4%E3%82%AF%E6%97%A5%E6%9C%AC%E4%B8%80%E5%91%A8/</link>
+      <pubDate>Sun, 14 Oct 2018 11:29:29 +0000</pubDate>
+      
+      <guid>https://hirotatsu.me/categories/%E3%83%92%E3%83%83%E3%83%81%E3%83%8F%E3%82%A4%E3%82%AF%E6%97%A5%E6%9C%AC%E4%B8%80%E5%91%A8/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>MacBook</title>
+      <link>https://hirotatsu.me/categories/macbook/</link>
+      <pubDate>Sun, 02 Sep 2018 15:45:04 +0000</pubDate>
+      
+      <guid>https://hirotatsu.me/categories/macbook/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Youtube</title>
+      <link>https://hirotatsu.me/categories/youtube/</link>
+      <pubDate>Sat, 01 Sep 2018 13:25:01 +0000</pubDate>
+      
+      <guid>https://hirotatsu.me/categories/youtube/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>動画編集</title>
+      <link>https://hirotatsu.me/categories/%E5%8B%95%E7%94%BB%E7%B7%A8%E9%9B%86/</link>
+      <pubDate>Thu, 09 Aug 2018 16:21:08 +0000</pubDate>
+      
+      <guid>https://hirotatsu.me/categories/%E5%8B%95%E7%94%BB%E7%B7%A8%E9%9B%86/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

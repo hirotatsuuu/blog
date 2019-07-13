@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Finder on 世界のひろたつから</title>
+    <link>https://hirotatsu.me/tags/finder/</link>
+    <description>Recent content in Finder on 世界のひろたつから</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ja</language>
+    <lastBuildDate>Thu, 09 Aug 2018 19:08:55 +0000</lastBuildDate>
+    
+	<atom:link href="https://hirotatsu.me/tags/finder/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>MacbookのFinderの再起動をアプリにする</title>
+      <link>https://hirotatsu.me/macbook-finder/</link>
+      <pubDate>Thu, 09 Aug 2018 19:08:55 +0000</pubDate>
+      
+      <guid>https://hirotatsu.me/macbook-finder/</guid>
+      <description>&lt;p&gt;はいどーもー&lt;/p&gt;
+
+&lt;p&gt;Finderの再起動コマンドをできるだけ簡単に実行したい欲求の強いひろたつです。&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Macbookの画面に変な画像が残ったときの対処法</title>
+      <link>https://hirotatsu.me/howto-macbook/</link>
+      <pubDate>Thu, 09 Aug 2018 18:50:06 +0000</pubDate>
+      
+      <guid>https://hirotatsu.me/howto-macbook/</guid>
+      <description>&lt;p&gt;はいどーもー&lt;/p&gt;
+
+&lt;p&gt;買ったばかりのMacbookの画面に変な小さな画像が残ってどうしようか困っているひろたつです。&lt;/p&gt;
+
+&lt;p&gt;今回は、そんなぼくと同じ悩みを持った人を一人でも多く救おうと思い、この記事を書いています！&lt;/p&gt;
+
+&lt;p&gt;超絶一瞬ですが、お付き合いください。ｗ&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>
