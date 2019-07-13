@@ -28,44 +28,6 @@ tags:
 ---
 <span style="color: gray; font-size: .8rem;"><br /> 「なぜぼくは生きているのか」これを探すために旅に出た。生きる意味はなんなのか。人生を通して何をすればよいのか。ぼくの今の生き方は正しい方向なのか。ぼくはわからない。だから旅を通して「ぼくが生きる意味」を見つけたい。そんな気持ちを、旅の道中にふと書き残したいなと思ったので書いています。<br /> </span>
 
-<!--more-->
-
-<div id="toc_container" class="toc_transparent no_bullets">
-  <p class="toc_title">
-    本記事の内容
-  </p>
-  
-  <ul class="toc_list">
-    <li>
-      <a href="#i"><span class="toc_number toc_depth_1">1</span> 世の中は不条理だ</a>
-    </li>
-    <li>
-      <a href="#i-2"><span class="toc_number toc_depth_1">2</span> 思考という特異性</a>
-    </li>
-    <li>
-      <a href="#i-3"><span class="toc_number toc_depth_1">3</span> 簡易化された人生</a>
-    </li>
-    <li>
-      <a href="#i-4"><span class="toc_number toc_depth_1">4</span> 新たな欲求の上に</a>
-    </li>
-    <li>
-      <a href="#i-5"><span class="toc_number toc_depth_1">5</span> 僕の人生を求めて</a>
-    </li>
-    <li>
-      <a href="#i-6"><span class="toc_number toc_depth_1">6</span> 旅人という選択肢</a>
-    </li>
-    <li>
-      <a href="#i-7"><span class="toc_number toc_depth_1">7</span> 多様な生に触れて</a>
-    </li>
-    <li>
-      <a href="#i-8"><span class="toc_number toc_depth_1">8</span> 船出は常に突然に</a>
-    </li>
-    <li>
-      <a href="#i-9"><span class="toc_number toc_depth_1">9</span> 結局わかんねぇよ</a>
-    </li>
-  </ul>
-</div>
-
 ## <span id="i">世の中は不条理だ</span>
 
 「なぜぼくは生きているのか」
@@ -79,7 +41,7 @@ tags:
 その中で、
 
 「なぜぼくは生きているのだろう」
-  
+
 「なんのために人生を前に進めているのだろう」
 
 こんなことを考えることが多いです。
@@ -101,7 +63,7 @@ tags:
 世の中は「運ゲー」ですから。
 
 ぼくはたまたま運が良く、父と母から愛を受けて生きることができました。
-  
+
 ぼくはたまたま運が良く、日本という安全安心で生きやすい世界で育つことができました。
 
 ぼくのパスポートは世界で一番強いです。
@@ -109,9 +71,9 @@ tags:
 これはぼくの努力ではなく、たまたま日本に生まれることができたという「運」に起因します。
 
 世の中は不条理です。
-  
+
 アンバランスです。
-  
+
 全く平等ではありません。
 
 たまたま生きやすい環境に生まれる人もいれば、なかなか生きづらい環境に生まれる人もいます。
@@ -217,7 +179,7 @@ tags:
 しかし、現代はボーダレスな世界が整いつつあります。
 
 インターネットにより世の中の情報のリアルタイム性や情報の量が整いました。
-  
+
 技術の発展により、移動も簡易化、効率化されています。
 
 今までばらばらだった地球が、どんどん一つになっている。
@@ -402,8 +364,6 @@ tags:
 
 ## <span id="i-9">結局わかんねぇよ</span>
 
-<img src="images/uploads/2019/05/f6c18964418a2f4dcfbae988815eb330.png?resize=1024%2C576&#038;ssl=1" alt="結局わかんねぇよ" width="1024" height="576" class="aligncenter size-large wp-image-2218" srcset="images/uploads/2019/05/f6c18964418a2f4dcfbae988815eb330.png?resize=1024%2C576&ssl=1 1024w, images/uploads/2019/05/f6c18964418a2f4dcfbae988815eb330.png?resize=300%2C169&ssl=1 300w, images/uploads/2019/05/f6c18964418a2f4dcfbae988815eb330.png?resize=768%2C432&ssl=1 768w, images/uploads/2019/05/f6c18964418a2f4dcfbae988815eb330.png?resize=304%2C171&ssl=1 304w, images/uploads/2019/05/f6c18964418a2f4dcfbae988815eb330.png?resize=282%2C159&ssl=1 282w, images/uploads/2019/05/f6c18964418a2f4dcfbae988815eb330.png?w=2000&ssl=1 2000w" sizes="(max-width: 1000px) 100vw, 1000px" data-recalc-dims="1" />
-
 最後まで読んでくださりありがとうございました。
 
 結局、「なぜぼくは生きているのか」なんてわかりませんでした。
@@ -423,6 +383,3 @@ tags:
 そんな感じ。
 
 おわり。
-
-<div style="font-size: 0px; height: 0px; line-height: 0px; margin: 0; padding: 0; clear: both;">
-</div>

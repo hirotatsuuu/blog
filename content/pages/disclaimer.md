@@ -3,6 +3,8 @@ title: 免責事項
 date: 2019-01-07T08:29:39+00:00
 thumbnail: "images/pages/disclaimer.jpg"
 ---
+
+
 世界のひろたつから( https://hirotatsu.me ）（以下、「当サイト」とします。)における免責事項は、下記の通りです。
 
 ## 1. コメントについて
@@ -39,6 +41,3 @@ thumbnail: "images/pages/disclaimer.jpg"
 2019年1月7日　策定
 
 2019年1月7日　改訂
-
-<div style="font-size: 0px; height: 0px; line-height: 0px; margin: 0; padding: 0; clear: both;">
-</div>

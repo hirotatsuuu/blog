@@ -6,77 +6,77 @@ date: 2018-11-10T10:29:31+00:00
 url: /newzealand-money-cheap/
 thumbnail: 'images/uploads/2018/11/cb46044ba987deab49e3c4a180d82d7b.png?fit=304%2C171&ssl=1'
 bzb_meta_keywords:
-  - 海外,お金,長期滞在
+- 海外,お金,長期滞在
 bzb_meta_description:
-  - お金を使わずに海外に長期滞在をするには？という疑問にお答えします。答えはWWOOFとヒッチハイクを使うことです。それによりゼロ円ワーホリを実現します。
+- お金を使わずに海外に長期滞在をするには？という疑問にお答えします。答えはWWOOFとヒッチハイクを使うことです。それによりゼロ円ワーホリを実現します。
 bzb_meta_robots:
-  - 'a:2:{i:0;s:0:"";i:1;s:0:"";}'
+- 'a:2:{i:0;s:0:"";i:1;s:0:"";}'
 bzb_post_layout:
-  - left-content
+- left-content
 bzb_cta:
-  - 'a:6:{s:9:"check_cta";s:4:"none";s:9:"org_title";s:0:"";s:9:"org_image";s:0:"";s:11:"org_content";s:0:"";s:15:"org_button_text";s:0:"";s:14:"org_button_url";s:0:"";}'
+- 'a:6:{s:9:"check_cta";s:4:"none";s:9:"org_title";s:0:"";s:9:"org_image";s:0:"";s:11:"org_content";s:0:"";s:15:"org_button_text";s:0:"";s:14:"org_button_url";s:0:"";}'
 bzb_checklists:
-  - 'a:1:{i:0;s:0:"";}'
+- 'a:1:{i:0;s:0:"";}'
 views:
-  - 127
+- 127
 categories:
-  - ゼロ円ワーホリ
+- ゼロ円ワーホリ
 tags:
-  - WWOOF
-  - ニュージーランド
-  - ヒッチハイク
-  - ワーホリ
+- WWOOF
+- ニュージーランド
+- ヒッチハイク
+- ワーホリ
 
 ---
 「**海外ってお金がかかるんでしょ？**」「**お金を使わずに海外いけないの？**」
-  
+
 という疑問にお答えします。
-  
+
 僕はお金を使わずにニュージーランドを放浪し続けています。どうやって生きているのか？
-  
+
 答えは**WWOOFとヒッチハイク**の掛け算です。WWOOFとヒッチハイクを駆使することによりお金を使わずにニュージーランドを放浪することができます。
 
 <!--more-->
 
 <div id="toc_container" class="toc_transparent no_bullets">
-  <p class="toc_title">
-    本記事の内容
-  </p>
-  
-  <ul class="toc_list">
-    <li>
-      <a href="#i"><span class="toc_number toc_depth_1">1</span> 本記事の内容</a>
-    </li>
-    <li>
-      <a href="#i-2"><span class="toc_number toc_depth_1">2</span> 住所不定無職でニュージーランドを放浪中ってホントですか？</a>
-    </li>
-    <li>
-      <a href="#i-3"><span class="toc_number toc_depth_1">3</span> お金を使わずに海外に長期滞在する方法</a><ul>
-        <li>
-          <a href="#3"><span class="toc_number toc_depth_2">3.1</span> お金を使う3つの要因</a>
-        </li>
-        <li>
-          <a href="#WWOOF"><span class="toc_number toc_depth_2">3.2</span> WWOOFってなーに？</a>
-        </li>
-        <li>
-          <a href="#i-4"><span class="toc_number toc_depth_2">3.3</span> 移動にはヒッチハイクがもってこい</a>
-        </li>
-      </ul>
-    </li>
-    
-    <li>
-      <a href="#WWOOF-2"><span class="toc_number toc_depth_1">4</span> WWOOFとヒッチハイクで無料ワーホリを実現</a>
-    </li>
-  </ul>
+<p class="toc_title">
+本記事の内容
+</p>
+
+<ul class="toc_list">
+<li>
+<a href="#i"><span class="toc_number toc_depth_1">1</span> 本記事の内容</a>
+</li>
+<li>
+<a href="#i-2"><span class="toc_number toc_depth_1">2</span> 住所不定無職でニュージーランドを放浪中ってホントですか？</a>
+</li>
+<li>
+<a href="#i-3"><span class="toc_number toc_depth_1">3</span> お金を使わずに海外に長期滞在する方法</a><ul>
+<li>
+<a href="#3"><span class="toc_number toc_depth_2">3.1</span> お金を使う3つの要因</a>
+</li>
+<li>
+<a href="#WWOOF"><span class="toc_number toc_depth_2">3.2</span> WWOOFってなーに？</a>
+</li>
+<li>
+<a href="#i-4"><span class="toc_number toc_depth_2">3.3</span> 移動にはヒッチハイクがもってこい</a>
+</li>
+</ul>
+</li>
+
+<li>
+<a href="#WWOOF-2"><span class="toc_number toc_depth_1">4</span> WWOOFとヒッチハイクで無料ワーホリを実現</a>
+</li>
+</ul>
 </div>
 
 ## <span id="i">本記事の内容</span>
 
 本記事では以下の疑問について回答を用意しています。
 
-  * お金を使わずに海外に長期滞在するにはどうすればよいか？
-  * ワーホリの費用をゼロ円に抑える方法はありますか？
-  * 住所不定無職でニュージーランドを放浪中ってホントですか？
+* お金を使わずに海外に長期滞在するにはどうすればよいか？
+* ワーホリの費用をゼロ円に抑える方法はありますか？
+* 住所不定無職でニュージーランドを放浪中ってホントですか？
 
 ## <span id="i-2">住所不定無職でニュージーランドを放浪中ってホントですか？</span>
 
@@ -106,8 +106,8 @@ tags:
 
 お金を使わずに海外に長期滞在する方法は、以下の2つを駆使することで解決できます。
 
-  * **WWOOF**
-  * **ヒッチハイク**
+* **WWOOF**
+* **ヒッチハイク**
 
 より詳しく見ていきます。（「WWOOFってなーに？」という疑問にもお答えします。）
 
@@ -117,32 +117,32 @@ tags:
 
 そして、以下の3つにお金を使っていると結論づけました。
 
-  * **生活費**
-  * **食費**
-  * **移動費**
+* **生活費**
+* **食費**
+* **移動費**
 
 <blockquote class="twitter-tweet" data-lang="ja">
-  <p lang="ja" dir="ltr">
-    僕がやっているのはこういうことです。<br />WWOOF * ヒッチハイクで下の3つのお金が掛からなくなる。<br />&#8211; 移動費<br />&#8211; 滞在費<br />&#8211; 食費<br />つまりは「お金を使わずに」ニュージーランドを放浪できるってこと。😊 <a href="https://t.co/3jtP4C44Ub">https://t.co/3jtP4C44Ub</a>
-  </p>
-  
-  <p>
-    &mdash; ひろたつ@住所不定無職でニュージーランド放浪中 (@hirotatsuuu) <a href="https://twitter.com/hirotatsuuu/status/1060322026269732864?ref_src=twsrc%5Etfw">2018年11月8日</a>
-  </p>
+<p lang="ja" dir="ltr">
+僕がやっているのはこういうことです。<br />WWOOF * ヒッチハイクで下の3つのお金が掛からなくなる。<br />&#8211; 移動費<br />&#8211; 滞在費<br />&#8211; 食費<br />つまりは「お金を使わずに」ニュージーランドを放浪できるってこと。😊 <a href="https://t.co/3jtP4C44Ub">https://t.co/3jtP4C44Ub</a>
+</p>
+
+<p>
+&mdash; ひろたつ@住所不定無職でニュージーランド放浪中 (@hirotatsuuu) <a href="https://twitter.com/hirotatsuuu/status/1060322026269732864?ref_src=twsrc%5Etfw">2018年11月8日</a>
+</p>
 </blockquote>
 
 
 
 日本には、生活の基本を漢字で簡潔にまとめて表現した「**衣食住**」という言葉がありますね？
-  
+
 衣食住とは、
 
-  1. 衣類
-  2. 食事
-  3. 住居
+1. 衣類
+2. 食事
+3. 住居
 
 上の3つの略称です。
-  
+
 そして、僕の考えでは衣類に関しては一度買えばそれで事足りるので、衣類を抜いた食事と住居にお金を使うと考えました。
 
 更に、お金を使う要因として、娯楽を除くとどこかに移動するためにお金がかかると考えました。
@@ -158,17 +158,17 @@ tags:
 WWOOFとは。
 
 簡単にお伝えしますと「ワーキングエクスチェンジ」です。
-  
+
 つまりは「**労働力と引き換えに食事と寝床をいただく**」というものです。
 
 WWOOFに関しては、労働力を使う場面が「農業」に関する事が多いです。
-  
+
 WWOOFの他にもhelpxやworkawayといったサービスも存在します。参考までに。
 
 <blockquote class="wp-embedded-content" data-secret="foG3CfZdjk">
-  <p>
-    <a href="https://hirotatsu.me/wwoof-nz/">ニュージーランドでWWOOFを使ってホームステイしてみた</a>
-  </p>
+<p>
+<a href="https://hirotatsu.me/wwoof-nz/">ニュージーランドでWWOOFを使ってホームステイしてみた</a>
+</p>
 </blockquote>
 
 <iframe class="wp-embedded-content" sandbox="allow-scripts" security="restricted" style="position: absolute; clip: rect(1px, 1px, 1px, 1px);" src="https://hirotatsu.me/wwoof-nz/embed/#?secret=foG3CfZdjk" data-secret="foG3CfZdjk" width="500" height="282" title="&#8220;ニュージーランドでWWOOFを使ってホームステイしてみた&#8221; &#8212; 世界のひろたつから" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"></iframe>
@@ -190,7 +190,7 @@ WWOOFの他にもhelpxやworkawayといったサービスも存在します。�
 皆さんはヒッチハイクしたことがありますか？
 
 僕は実は日本では「<a href="https://hirotatsu.me/hitchhike-all-around-japan-6/" rel="noopener" target="_blank">ヒッチハイク日本一周</a>」というものをしたことがあって、ヒッチハイクに対する敷居が低いのですが、
-  
+
 海外でもヒッチハイクをしましたが、日本と変わらず普通にできました。
 
 さらに、海外の方が日本よりもヒッチハイクの文化が根付いているのでヒッチハイクの難易度は下がるかと思います。
@@ -214,9 +214,9 @@ WWOOFの他にもhelpxやworkawayといったサービスも存在します。�
 最後に、以上のお話をまとめます。
 
 <div style="border: 5px solid #cccccc; padding: 10px; text-align: center;">
-  <div>
-    <span style="color: red; font-weight: bold;">WWOOFとヒッチハイクによりゼロ円ワーホリを実現します</span>
-  </div>
+<div>
+<span style="color: red; font-weight: bold;">WWOOFとヒッチハイクによりゼロ円ワーホリを実現します</span>
+</div>
 </div>
 
 
@@ -225,8 +225,8 @@ WWOOFとヒッチハイクを駆使することにより、僕は現在「**ゼ�
 
 なぜなら、
 
-  * WWOOFを使うことにより「食費」と「生活費」がゼロ円になる。
-  * ヒッチハイクをすることにより「移動費」がゼロ円になる。
+* WWOOFを使うことにより「食費」と「生活費」がゼロ円になる。
+* ヒッチハイクをすることにより「移動費」がゼロ円になる。
 
 つまり、お金を使わずに海外に長期滞在が出来る。
 
@@ -243,24 +243,24 @@ WWOOFとヒッチハイクを駆使することにより、僕は現在「**ゼ�
 「お金を使ったワーホリ」をするのか「お金を使わずにワーホリ」をするのか。
 
 僕は後者をおすすめしますよ。
-  
+
 お金を使わないデメリットは実は「経験」という考え方からするととても大きな「メリット」に置き換わるからです。
 
 皆さんはどっちの人と友だちになりたいですか？
 
-  * 普通に100万円使ってワーホリしてきた人
-  * ホームステイ先をヒッチハイクで転々してワーホリしてきた人
+* 普通に100万円使ってワーホリしてきた人
+* ホームステイ先をヒッチハイクで転々してワーホリしてきた人
 
 以上、住所不定無職でニュージーランドを放浪中のひろたつでした。
-  
+
 最後まで読んでくださり、ありがとうございました。
 
 僕がニュージーランドでワーホリをしている理由です。
 
 <blockquote class="wp-embedded-content" data-secret="eUh62kTe7F">
-  <p>
-    <a href="https://hirotatsu.me/why-english-speaking/">なぜ僕が英語を喋れるようになりたいのか？</a>
-  </p>
+<p>
+<a href="https://hirotatsu.me/why-english-speaking/">なぜ僕が英語を喋れるようになりたいのか？</a>
+</p>
 </blockquote>
 
 <iframe class="wp-embedded-content" sandbox="allow-scripts" security="restricted" style="position: absolute; clip: rect(1px, 1px, 1px, 1px);" src="https://hirotatsu.me/why-english-speaking/embed/#?secret=eUh62kTe7F" data-secret="eUh62kTe7F" width="500" height="282" title="&#8220;なぜ僕が英語を喋れるようになりたいのか？&#8221; &#8212; 世界のひろたつから" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"></iframe>

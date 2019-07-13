@@ -15,7 +15,7 @@ categories:
   <p class="toc_title">
     本記事の内容
   </p>
-  
+
   <ul class="toc_list">
     <li>
       <a href="#i"><span class="toc_number toc_depth_1">1</span> はじめに</a>
@@ -71,6 +71,3 @@ categories:
 だからしょうがない！
 
 で
-
-<div style="font-size: 0px; height: 0px; line-height: 0px; margin: 0; padding: 0; clear: both;">
-</div>

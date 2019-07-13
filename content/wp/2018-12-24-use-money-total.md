@@ -31,90 +31,10 @@ tags:
 ---
 <span style="color: gray; font-size: .9rem;">ゼロ円ワーホリでニュージーランドを放浪中のひろたつです。ヒッチハイクとボランティア(WWOOF)により移食住の費用を極限まで抑えています。しかし「ゼロ円ワーホリ」と言っても完全にゼロ円にするのは難しいです。使うときにはお金を使います。<br /> ここでは、僕がゼロ円ワーホリ中に使ったお金を一円単位で<strong>完全公開</strong>します。</span>
 
-<!--more-->
-
-<div id="toc_container" class="toc_transparent no_bullets">
-  <p class="toc_title">
-    本記事の内容
-  </p>
-  
-  <ul class="toc_list">
-    <li>
-      <a href="#i"><span class="toc_number toc_depth_1">1</span> はじめに</a>
-    </li>
-    <li>
-      <a href="#i-2"><span class="toc_number toc_depth_1">2</span> ゼロ円ワーホリとは？</a>
-    </li>
-    <li>
-      <a href="#i-3"><span class="toc_number toc_depth_1">3</span> ゼロ円ワーホリで使ったお金総額</a><ul>
-        <li>
-          <a href="#i-4"><span class="toc_number toc_depth_2">3.1</span> サービス代</a>
-        </li>
-        <li>
-          <a href="#i-5"><span class="toc_number toc_depth_2">3.2</span> ニュージーランドに入国するまで</a>
-        </li>
-        <li>
-          <a href="#i-6"><span class="toc_number toc_depth_2">3.3</span> ニュージーランドにて（移動費）</a>
-        </li>
-        <li>
-          <a href="#i-7"><span class="toc_number toc_depth_2">3.4</span> その他雑費</a>
-        </li>
-        <li>
-          <a href="#i-8"><span class="toc_number toc_depth_2">3.5</span> 当ブログのサーバ代</a>
-        </li>
-        <li>
-          <a href="#i-9"><span class="toc_number toc_depth_2">3.6</span> ニュージーランドから出国</a>
-        </li>
-        <li>
-          <a href="#i-10"><span class="toc_number toc_depth_2">3.7</span> その他</a>
-        </li>
-      </ul>
-    </li>
-    
-    <li>
-      <a href="#i-11"><span class="toc_number toc_depth_1">4</span> ゼロ円ワーホリの目標</a><ul>
-        <li>
-          <a href="#i-12"><span class="toc_number toc_depth_2">4.1</span> ゼロ円ワーホリ以外の目標</a>
-        </li>
-      </ul>
-    </li>
-    
-    <li>
-      <a href="#i-13"><span class="toc_number toc_depth_1">5</span> 現在支援して下さってる方々</a><ul>
-        <li>
-          <a href="#i-14"><span class="toc_number toc_depth_2">5.1</span> その他</a>
-        </li>
-        <li>
-          <a href="#i-15"><span class="toc_number toc_depth_2">5.2</span> 現在の金額</a>
-        </li>
-        <li>
-          <a href="#i-16"><span class="toc_number toc_depth_2">5.3</span> その他の頂いた物資</a>
-        </li>
-        <li>
-          <a href="#i-17"><span class="toc_number toc_depth_2">5.4</span> 企画一覧</a>
-        </li>
-      </ul>
-    </li>
-    
-    <li>
-      <a href="#i-18"><span class="toc_number toc_depth_1">6</span> おわりに</a>
-    </li>
-  </ul>
-</div>
-
 ## <span id="i">はじめに</span>
 
 改めまして、**ニュージーランドでゼロ円ワーホリ中のひろたつ**</a>(<a href="https://twitter.com/hirotatsuuu" rel="noopener" target="_blank">@hirotatsuuu</a>)です。
 
-<div class="fukidashi">
-  <div class="icon">
-    <img src="images/uploads/2019/01/45460a2df457c88d858232d44ec0136b.png?resize=300%2C300&#038;ssl=1" alt="吹き出しアイコン" width="300" height="300" data-recalc-dims="1" /><span>ひろたつ</span>
-  </div>
-  
-  <div class="ball" style="border-color: #eeeeee; background-color: #eeeeee; margin-left: 20px;">
-    ニュージーランドでワーホリしてる<strong>ひろたつ</strong>だよ〜！
-  </div>
-</div>
 
 ここでは僕がゼロ円ワーホリ中に使ったお金を一円単位で<span style="color: red; font-weight: bold;">完全公開</span>しています。
 
@@ -131,13 +51,13 @@ tags:
 </div>
 
 僕は、この生活の基本である「衣食住」にお金を使わなければ「ゼロ円」で生活出来るのではと考えました。
-  
+
 これが「ゼロ円ワーホリ」の根源です。
 
 そして
 
 僕は「ニュージーランドを一周したい」と考えていました。
-  
+
 ニュージーランドの一周には「移動」がマストになってきます。
 
 逆に「衣類」に関しては春夏秋冬対応できる装備を予め日本から持ってきています。
@@ -151,7 +71,7 @@ _**「衣食住」 ▷ 「移食住」**_
 そして
 
 この移食住にお金を使わななければ「ゼロ円でニュージーランドを一周できる」と考えました。
-  
+
 そのために以下のような活動をしています。
 
   * ヒッチハイク
@@ -159,18 +79,18 @@ _**「衣食住」 ▷ 「移食住」**_
 
 まず、「ヒッチハイク」とは
 
-> 通りがかりの自動車・トラックなどを呼びとめてただで乗せてもらうという方法で行う旅行。 
+> 通りがかりの自動車・トラックなどを呼びとめてただで乗せてもらうという方法で行う旅行。
 
 だそうです。
 
 言い換えると、**ゼロ円で移動する方法**です。
 
 次に「ボランティア」です。
-  
+
 僕が行っているボランティアは、「ワークエクスチェンジ」です。
 
 ワークエクスチェンジとは、**自分の「労働力」を提供する代わりに「食事」と「寝床」を頂くというもの**です。
-  
+
 ワークエクスチェンジにもいくつかサービスがあるのですが、僕は「**WWOOF**」というサービスを主に使っています。
 
 つまり
@@ -186,11 +106,11 @@ _**ヒッチハイクとボランティア(WWOOF)により移食住にお金を�
 ## <span id="i-3">ゼロ円ワーホリで使ったお金総額</span>
 
 ここからが本題です。
-  
+
 上で説明したように、僕は「ゼロ円ワーホリ」という活動をしています。
 
 最低限の生活の基本はお金を使わずに出来ていますが、使わなければならないとき（例えば飛行機や船）や使いたいときにはお金を使っています。
-  
+
 ここでは僕がワーホリを初めてから今までに使ったお金を一円漏らさずに完全公開しています！！！
 
 では、どうぞ！
@@ -231,11 +151,11 @@ _**ヒッチハイクとボランティア(WWOOF)により移食住にお金を�
   * 10月分サーバ代 972円
   * 11月分サーバ代 972円
   * 12月分サーバ代 972円
-  * 1月分サーバ代 972円 
-  * 2月分サーバ代 972円 
-  * 3月分サーバ代 972円 
-  * 4月分サーバ代 972円 
-  * 5月分サーバ代 972円 
+  * 1月分サーバ代 972円
+  * 2月分サーバ代 972円
+  * 3月分サーバ代 972円
+  * 4月分サーバ代 972円
+  * 5月分サーバ代 972円
 
 ### <span id="i-9">ニュージーランドから出国</span>
 
@@ -256,19 +176,19 @@ _**&#92;&#92;\ 91158円 /////**_
 「**一年間のワーホリで使うお金を合計10万円以内に収めること**」
 
 ワーホリに出発する時の自宅から羽田空港までを含めてです！
-  
+
 一応、実現可能性のある目標にしているつもりですが、正直ぎりぎりだと思います。笑
-  
+
 （ニュージーランドから脱出する飛行機代が高そう）
 
 そこで
 
 「Polca」を通して、一年間で合計10万円をご支援いただくことができれば
-  
+
 「ゼロ円ワーホリ」になるかなと考えています。
 
 簡単に計算すると、、、
-  
+
 「一日300円の支援をいただければ、一年(365日)で300×365=109500円の支援額になる」
 
 なので「一日一人以上からご支援(300円)を頂くこと」ができたらなと考えています..。
@@ -276,7 +196,7 @@ _**&#92;&#92;\ 91158円 /////**_
 ### <span id="i-12">ゼロ円ワーホリ以外の目標</span>
 
 ゼロ円ワーホリを完遂するというのは僕の最低限の目標です。
-  
+
 その中で、金額を設定していますが、これは可能であれば達成したい目標です。
 
 つまりは、出費と支援額をプラマイにすることではなく、僕個人として**ヒッチハイクとボランティアで最後までやりきること**を目標としています。
@@ -286,12 +206,12 @@ _**&#92;&#92;\ 91158円 /////**_
 「**ニュージーランド一周**」
 
 具体的にはニュージーランドの最北端と最南端に行こうと考えています。
-  
+
 先日ニュージーランドの最北端であるケープレインガにはヒッチハイクで行ってきました！！
 
 <div id="attachment_1412" style="width: 3274px" class="wp-caption aligncenter">
   <a href="images/uploads/2018/12/IMG_20181203_130210.jpg?ssl=1"><img src="images/uploads/2018/12/IMG_20181203_130210.jpg?resize=3264%2C2448&#038;ssl=1" alt="ニュージーランド最北端ケープレインガ" width="3264" height="2448" class="size-full wp-image-1412" srcset="images/uploads/2018/12/IMG_20181203_130210.jpg?w=3264&ssl=1 3264w, images/uploads/2018/12/IMG_20181203_130210.jpg?resize=300%2C225&ssl=1 300w, images/uploads/2018/12/IMG_20181203_130210.jpg?resize=768%2C576&ssl=1 768w, images/uploads/2018/12/IMG_20181203_130210.jpg?resize=1024%2C768&ssl=1 1024w, images/uploads/2018/12/IMG_20181203_130210.jpg?resize=285%2C214&ssl=1 285w, images/uploads/2018/12/IMG_20181203_130210.jpg?resize=282%2C212&ssl=1 282w, images/uploads/2018/12/IMG_20181203_130210.jpg?w=2000&ssl=1 2000w, images/uploads/2018/12/IMG_20181203_130210.jpg?w=3000&ssl=1 3000w" sizes="(max-width: 1000px) 100vw, 1000px" data-recalc-dims="1" /></a>
-  
+
   <p class="wp-caption-text">
     ニュージーランド最北端ケープレインガ
   </p>
@@ -300,7 +220,7 @@ _**&#92;&#92;\ 91158円 /////**_
 次は最南端の「ブラフ」へ行こうと思います！
 
 また、ニュージーランドでのゼロ円ワーホリが終わったら、その後は「ヒッチハイクAUS一周旅」をします。
-  
+
 （ゼロ円に抑えるかは未定です&#8230;）
 
 さらに、AUSの後には世界一周をするつもりです！！！！
@@ -347,7 +267,7 @@ _**&#92;&#92;\ 91158円 /////**_
   * ゆうとさん(<a href="https://twitter.com/cnd_yuto" rel="noopener" target="_blank">@cnd_yuto</a>)
 
 現在、_**計37名の方からご支援を頂いています。**_(2019年3月7日現在)
-  
+
 本当にありがとうございます。
 
 ### <span id="i-14">その他</span>
@@ -389,20 +309,8 @@ _**&#92;&#92;\ 91158円 /////**_
 最後まで読んでくださりありがとうございました。
 
 もちろん、ご支援頂けたらとても嬉しいですが、支援という形でなくても、ツイッター等での応援のコメントやDMなど、どんな形でもとてもとても嬉しいです✨
-  
+
 ぜひ、お待ちしています😆
 
 今後とも、ひろたつ(<a href="https://twitter.com/hirotatsuuu" rel="noopener" target="_blank">@hirotatsuuu</a>)をどうぞよろしくお願い致します。
 
-<div class="fukidashi">
-  <div class="icon">
-    <img src="images/uploads/2019/01/45460a2df457c88d858232d44ec0136b.png?resize=300%2C300&#038;ssl=1" alt="吹き出しアイコン" width="300" height="300" data-recalc-dims="1" /><span>ひろたつ</span>
-  </div>
-  
-  <div class="ball" style="border-color: #eeeeee; background-color: #eeeeee; margin-left: 20px;">
-    最後まで読んでくれて、ありがとう〜
-  </div>
-</div>
-
-<div style="font-size: 0px; height: 0px; line-height: 0px; margin: 0; padding: 0; clear: both;">
-</div>

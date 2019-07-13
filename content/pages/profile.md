@@ -3,15 +3,13 @@ title: 「ひろたつ」って何者？
 date: 2018-08-01T03:37:13+00:00
 thumbnail: "images/pages/profile.jpg"
 ---
-<img src="https://i0.wp.com/hirotatsu.me/wp-content/uploads/2018/11/b5053e09c15e85e31d0251ad257ca1a3.png?resize=2560%2C1440&#038;ssl=1" alt="ひろたつのプロフィール" width="2560" height="1440" class="size-full wp-image-1040" srcset="https://i0.wp.com/hirotatsu.me/wp-content/uploads/2018/11/b5053e09c15e85e31d0251ad257ca1a3.png?w=2560&ssl=1 2560w, https://i0.wp.com/hirotatsu.me/wp-content/uploads/2018/11/b5053e09c15e85e31d0251ad257ca1a3.png?resize=300%2C169&ssl=1 300w, https://i0.wp.com/hirotatsu.me/wp-content/uploads/2018/11/b5053e09c15e85e31d0251ad257ca1a3.png?resize=768%2C432&ssl=1 768w, https://i0.wp.com/hirotatsu.me/wp-content/uploads/2018/11/b5053e09c15e85e31d0251ad257ca1a3.png?resize=1024%2C576&ssl=1 1024w, https://i0.wp.com/hirotatsu.me/wp-content/uploads/2018/11/b5053e09c15e85e31d0251ad257ca1a3.png?resize=304%2C171&ssl=1 304w, https://i0.wp.com/hirotatsu.me/wp-content/uploads/2018/11/b5053e09c15e85e31d0251ad257ca1a3.png?resize=282%2C159&ssl=1 282w, https://i0.wp.com/hirotatsu.me/wp-content/uploads/2018/11/b5053e09c15e85e31d0251ad257ca1a3.png?w=2000&ssl=1 2000w" sizes="(max-width: 1000px) 100vw, 1000px" data-recalc-dims="1" />
+
 
 はいどーもです。
 
 <span style="color: red; font-weight: bold;">ゼロ円ワーホリでニュージーランドを放浪中</span>の**ひろたつ**</a>(<a href="https://twitter.com/hirotatsuuu" rel="noopener" target="_blank">@hirotatsuuu</a>)といいます。
 
 どうぞよろしくおねがいします。
-
-<!--more-->
 
 ## はじめに
 
@@ -97,16 +95,6 @@ thumbnail: "images/pages/profile.jpg"
 ### 小学生でちょっとしたビジネスセンスを感じさせる
 
 家から徒歩5分くらいの小学校に通っていました。こんなやつでした。
-
-
-
-<div id="attachment_438" style="width: 555px" class="wp-caption aligncenter">
-  <img src="https://i0.wp.com/hirotatsu.me/wp-content/uploads/2018/08/1389453024934.jpg?resize=545%2C734&#038;ssl=1" alt="" width="545" height="734" class="size-full wp-image-438" srcset="https://i0.wp.com/hirotatsu.me/wp-content/uploads/2018/08/1389453024934.jpg?w=545&ssl=1 545w, https://i0.wp.com/hirotatsu.me/wp-content/uploads/2018/08/1389453024934.jpg?resize=223%2C300&ssl=1 223w, https://i0.wp.com/hirotatsu.me/wp-content/uploads/2018/08/1389453024934.jpg?resize=159%2C214&ssl=1 159w, https://i0.wp.com/hirotatsu.me/wp-content/uploads/2018/08/1389453024934.jpg?resize=193%2C260&ssl=1 193w" sizes="(max-width: 545px) 100vw, 545px" data-recalc-dims="1" />
-
-  <p class="wp-caption-text">
-    小学生の時のひろたつ
-  </p>
-</div>
 
     その頃「イタチダくん」という仲の良い友達がおりましたとさ。
     ある日、図工の授業で使って余った画用紙でカードゲームを作りました。「ハゲツルカード」というものです。
@@ -237,14 +225,6 @@ thumbnail: "images/pages/profile.jpg"
 なぜこの状況に至ったか。
 
 当時僕は「ホリエモン」にハマっていました。友達には信者と言われていました。
-
-<div id="attachment_442" style="width: 1290px" class="wp-caption aligncenter">
-  <a href="https://i1.wp.com/hirotatsu.me/wp-content/uploads/2018/08/IMG_3935-e1535516502588.jpg?ssl=1"><img src="https://i1.wp.com/hirotatsu.me/wp-content/uploads/2018/08/IMG_3935-e1535516502588.jpg?resize=1280%2C960&#038;ssl=1" alt="ホリエモンに会いに行きました" width="1280" height="960" class="size-full wp-image-442" srcset="https://i1.wp.com/hirotatsu.me/wp-content/uploads/2018/08/IMG_3935-e1535516502588.jpg?w=1280&ssl=1 1280w, https://i1.wp.com/hirotatsu.me/wp-content/uploads/2018/08/IMG_3935-e1535516502588.jpg?resize=300%2C225&ssl=1 300w, https://i1.wp.com/hirotatsu.me/wp-content/uploads/2018/08/IMG_3935-e1535516502588.jpg?resize=768%2C576&ssl=1 768w, https://i1.wp.com/hirotatsu.me/wp-content/uploads/2018/08/IMG_3935-e1535516502588.jpg?resize=1024%2C768&ssl=1 1024w, https://i1.wp.com/hirotatsu.me/wp-content/uploads/2018/08/IMG_3935-e1535516502588.jpg?resize=285%2C214&ssl=1 285w, https://i1.wp.com/hirotatsu.me/wp-content/uploads/2018/08/IMG_3935-e1535516502588.jpg?resize=282%2C212&ssl=1 282w" sizes="(max-width: 1000px) 100vw, 1000px" data-recalc-dims="1" /></a>
-
-  <p class="wp-caption-text">
-    ホリエモンに会いに行きました
-  </p>
-</div>
 
 別にホリエモンが好きだったわけではないですが、ホリエモンの本をいくつか読みました。
 
@@ -575,9 +555,6 @@ thumbnail: "images/pages/profile.jpg"
 
 「<a href="https://hirotatsu.me" rel="noopener" target="_blank"><strong>世界のひろたつから</strong></a>」では、ニュージーランドを放浪中の<a href="https://twitter.com/hirotatsuuu" rel="noopener" target="_blank"><strong>ひろたつ</strong></a>が毎日<a href="https://hirotatsu.me/category/newzealand/" rel="noopener" target="_blank">ニュージーランド放浪記</a>を更新しています。
 
-（下の画像がリンクですｗ）
-
-<a href="https://hirotatsu.me/category/newzealand/" rel="noopener" target="_blank"><img src="https://i0.wp.com/hirotatsu.me/wp-content/uploads/2018/10/9f1e6bd7b17516593d9f6c4b039bbbcc.png?resize=2560%2C1440&#038;ssl=1" alt="ニュージーランド放浪記" width="2560" height="1440" class="size-full wp-image-996" style="border:solid 1px #000000" srcset="https://i0.wp.com/hirotatsu.me/wp-content/uploads/2018/10/9f1e6bd7b17516593d9f6c4b039bbbcc.png?w=2560&ssl=1 2560w, https://i0.wp.com/hirotatsu.me/wp-content/uploads/2018/10/9f1e6bd7b17516593d9f6c4b039bbbcc.png?resize=300%2C169&ssl=1 300w, https://i0.wp.com/hirotatsu.me/wp-content/uploads/2018/10/9f1e6bd7b17516593d9f6c4b039bbbcc.png?resize=768%2C432&ssl=1 768w, https://i0.wp.com/hirotatsu.me/wp-content/uploads/2018/10/9f1e6bd7b17516593d9f6c4b039bbbcc.png?resize=1024%2C576&ssl=1 1024w, https://i0.wp.com/hirotatsu.me/wp-content/uploads/2018/10/9f1e6bd7b17516593d9f6c4b039bbbcc.png?resize=304%2C171&ssl=1 304w, https://i0.wp.com/hirotatsu.me/wp-content/uploads/2018/10/9f1e6bd7b17516593d9f6c4b039bbbcc.png?resize=282%2C159&ssl=1 282w, https://i0.wp.com/hirotatsu.me/wp-content/uploads/2018/10/9f1e6bd7b17516593d9f6c4b039bbbcc.png?w=2000&ssl=1 2000w" sizes="(max-width: 1000px) 100vw, 1000px" data-recalc-dims="1" /></a>
 
 他にも、僕の興味関心のあることをシェアしています。
 
@@ -599,10 +576,3 @@ thumbnail: "images/pages/profile.jpg"
 以上、「<span style="color: red; font-weight: bold;">ゼロ円ワーホリでニュージーランド放浪中</span>」の**ひろたつ**</a>(<a href="https://twitter.com/hirotatsuuu" rel="noopener" target="_blank">@hirotatsuuu</a>)のプロフィールでした。
 
 今後とも、こいつをよろしくお願い致しますm(_ _)m
-
-[<img src="https://i0.wp.com/hirotatsu.me/wp-content/uploads/2018/10/ccd002b46400f56b05759af667cd3832.png?resize=1736%2C1054&#038;ssl=1" alt="ニュージーランドを放浪中のひろたつ" width="1736" height="1054" class="size-full wp-image-993" srcset="https://i0.wp.com/hirotatsu.me/wp-content/uploads/2018/10/ccd002b46400f56b05759af667cd3832.png?w=1736&ssl=1 1736w, https://i0.wp.com/hirotatsu.me/wp-content/uploads/2018/10/ccd002b46400f56b05759af667cd3832.png?resize=300%2C182&ssl=1 300w, https://i0.wp.com/hirotatsu.me/wp-content/uploads/2018/10/ccd002b46400f56b05759af667cd3832.png?resize=768%2C466&ssl=1 768w, https://i0.wp.com/hirotatsu.me/wp-content/uploads/2018/10/ccd002b46400f56b05759af667cd3832.png?resize=1024%2C622&ssl=1 1024w, https://i0.wp.com/hirotatsu.me/wp-content/uploads/2018/10/ccd002b46400f56b05759af667cd3832.png?resize=304%2C185&ssl=1 304w, https://i0.wp.com/hirotatsu.me/wp-content/uploads/2018/10/ccd002b46400f56b05759af667cd3832.png?resize=282%2C171&ssl=1 282w" sizes="(max-width: 1000px) 100vw, 1000px" data-recalc-dims="1" />][1]
-
-<div style="font-size: 0px; height: 0px; line-height: 0px; margin: 0; padding: 0; clear: both;">
-</div>
-
- [1]: https://i0.wp.com/hirotatsu.me/wp-content/uploads/2018/10/ccd002b46400f56b05759af667cd3832.png?ssl=1
