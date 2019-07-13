@@ -4,7 +4,7 @@ author: ひろたつ
 type: post
 date: 2018-11-06T04:31:00+00:00
 url: /wwoof-japanese-host/
-thumbnail: 'https://i2.wp.com/hirotatsu.me/wp-content/uploads/2018/11/e49050ddec86ab80874170b78afbd017.png?fit=304%2C171&ssl=1'
+thumbnail: 'images/uploads/2018/11/e49050ddec86ab80874170b78afbd017.png?fit=304%2C171&ssl=1'
 views:
   - 147
 bzb_meta_keywords:

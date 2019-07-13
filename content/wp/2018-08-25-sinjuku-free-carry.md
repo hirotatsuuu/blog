@@ -4,7 +4,7 @@ author: ひろたつ
 type: post
 date: 2018-08-24T15:27:02+00:00
 url: /sinjuku-free-carry/
-thumbnail: 'https://i1.wp.com/hirotatsu.me/wp-content/uploads/2018/08/f7162697c3ecb7ee86bd1601ad28c042.png?fit=304%2C171&ssl=1'
+thumbnail: 'images/uploads/2018/08/f7162697c3ecb7ee86bd1601ad28c042.png?fit=304%2C171&ssl=1'
 bzb_meta_keywords:
   - ユーチューバー
 bzb_meta_robots:

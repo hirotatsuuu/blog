@@ -4,7 +4,7 @@ author: ひろたつ
 type: post
 date: 2018-08-09T07:52:47+00:00
 url: /howto-finalcutprox/
-thumbnail: 'https://i1.wp.com/hirotatsu.me/wp-content/uploads/2018/08/4ba15acc11392279c782498f61773fce.png?fit=304%2C171&ssl=1'
+thumbnail: 'images/uploads/2018/08/4ba15acc11392279c782498f61773fce.png?fit=304%2C171&ssl=1'
 views:
   - 298
 bzb_meta_keywords:

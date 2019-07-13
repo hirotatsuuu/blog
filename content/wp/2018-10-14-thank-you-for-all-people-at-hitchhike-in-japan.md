@@ -4,7 +4,7 @@ author: ひろたつ
 type: post
 date: 2018-10-14T11:29:29+00:00
 url: /thank-you-for-all-people-at-hitchhike-in-japan/
-thumbnail: 'https://i0.wp.com/hirotatsu.me/wp-content/uploads/2018/08/cbbf55ce369f97844268f2e06fa47e11.png?fit=304%2C190&ssl=1'
+thumbnail: 'images/uploads/2018/08/cbbf55ce369f97844268f2e06fa47e11.png?fit=304%2C190&ssl=1'
 views:
   - 152
 bzb_meta_robots:

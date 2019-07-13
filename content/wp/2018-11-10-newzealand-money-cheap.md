@@ -4,7 +4,7 @@ author: ひろたつ
 type: post
 date: 2018-11-10T10:29:31+00:00
 url: /newzealand-money-cheap/
-thumbnail: 'https://i0.wp.com/hirotatsu.me/wp-content/uploads/2018/11/cb46044ba987deab49e3c4a180d82d7b.png?fit=304%2C171&ssl=1'
+thumbnail: 'images/uploads/2018/11/cb46044ba987deab49e3c4a180d82d7b.png?fit=304%2C171&ssl=1'
 bzb_meta_keywords:
   - 海外,お金,長期滞在
 bzb_meta_description:

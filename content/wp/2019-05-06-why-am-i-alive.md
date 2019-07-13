@@ -4,7 +4,7 @@ author: ひろたつ
 type: post
 date: 2019-05-06T01:26:19+00:00
 url: /why-am-i-alive/
-thumbnail: 'https://i1.wp.com/hirotatsu.me/wp-content/uploads/2019/05/1515e1d2ed4454be5f292d81217f7fca.png?fit=304%2C171&ssl=1'
+thumbnail: 'images/uploads/2019/05/1515e1d2ed4454be5f292d81217f7fca.png?fit=304%2C171&ssl=1'
 bzb_meta_keywords:
   - なぜぼくは生きているのか
 bzb_meta_description:
@@ -402,7 +402,7 @@ tags:
 
 ## <span id="i-9">結局わかんねぇよ</span>
 
-<img src="https://i2.wp.com/hirotatsu.me/wp-content/uploads/2019/05/f6c18964418a2f4dcfbae988815eb330.png?resize=1024%2C576&#038;ssl=1" alt="結局わかんねぇよ" width="1024" height="576" class="aligncenter size-large wp-image-2218" srcset="https://i2.wp.com/hirotatsu.me/wp-content/uploads/2019/05/f6c18964418a2f4dcfbae988815eb330.png?resize=1024%2C576&ssl=1 1024w, https://i2.wp.com/hirotatsu.me/wp-content/uploads/2019/05/f6c18964418a2f4dcfbae988815eb330.png?resize=300%2C169&ssl=1 300w, https://i2.wp.com/hirotatsu.me/wp-content/uploads/2019/05/f6c18964418a2f4dcfbae988815eb330.png?resize=768%2C432&ssl=1 768w, https://i2.wp.com/hirotatsu.me/wp-content/uploads/2019/05/f6c18964418a2f4dcfbae988815eb330.png?resize=304%2C171&ssl=1 304w, https://i2.wp.com/hirotatsu.me/wp-content/uploads/2019/05/f6c18964418a2f4dcfbae988815eb330.png?resize=282%2C159&ssl=1 282w, https://i2.wp.com/hirotatsu.me/wp-content/uploads/2019/05/f6c18964418a2f4dcfbae988815eb330.png?w=2000&ssl=1 2000w" sizes="(max-width: 1000px) 100vw, 1000px" data-recalc-dims="1" />
+<img src="images/uploads/2019/05/f6c18964418a2f4dcfbae988815eb330.png?resize=1024%2C576&#038;ssl=1" alt="結局わかんねぇよ" width="1024" height="576" class="aligncenter size-large wp-image-2218" srcset="images/uploads/2019/05/f6c18964418a2f4dcfbae988815eb330.png?resize=1024%2C576&ssl=1 1024w, images/uploads/2019/05/f6c18964418a2f4dcfbae988815eb330.png?resize=300%2C169&ssl=1 300w, images/uploads/2019/05/f6c18964418a2f4dcfbae988815eb330.png?resize=768%2C432&ssl=1 768w, images/uploads/2019/05/f6c18964418a2f4dcfbae988815eb330.png?resize=304%2C171&ssl=1 304w, images/uploads/2019/05/f6c18964418a2f4dcfbae988815eb330.png?resize=282%2C159&ssl=1 282w, images/uploads/2019/05/f6c18964418a2f4dcfbae988815eb330.png?w=2000&ssl=1 2000w" sizes="(max-width: 1000px) 100vw, 1000px" data-recalc-dims="1" />
 
 最後まで読んでくださりありがとうございました。
 

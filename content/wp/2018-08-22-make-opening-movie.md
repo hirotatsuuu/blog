@@ -4,7 +4,7 @@ author: ひろたつ
 type: post
 date: 2018-08-22T11:43:12+00:00
 url: /make-opening-movie/
-thumbnail: 'https://i2.wp.com/hirotatsu.me/wp-content/uploads/2018/08/769d88e425e03120b83ee4ed6b9d588e.jpg?fit=285%2C214&ssl=1'
+thumbnail: 'images/uploads/2018/08/769d88e425e03120b83ee4ed6b9d588e.jpg?fit=285%2C214&ssl=1'
 views:
   - 104
 bzb_meta_keywords:

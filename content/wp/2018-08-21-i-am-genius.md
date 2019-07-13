@@ -4,7 +4,7 @@ author: ひろたつ
 type: post
 date: 2018-08-21T13:24:49+00:00
 url: /i-am-genius/
-thumbnail: 'https://i1.wp.com/hirotatsu.me/wp-content/uploads/2018/08/ec6383cb0e2ef2b4519544ed3012fa43.png?fit=304%2C177&ssl=1'
+thumbnail: 'images/uploads/2018/08/ec6383cb0e2ef2b4519544ed3012fa43.png?fit=304%2C177&ssl=1'
 bzb_meta_keywords:
   - IQテスト
 bzb_meta_robots:
@@ -130,7 +130,7 @@ http://www.iqiq.jp/pc/iqtest/
 
 結果は、、、
   
-<img src="https://i2.wp.com/hirotatsu.me/wp-content/uploads/2018/08/4d82fef00b8508f849f57a36cb0f41bb.png?resize=2034%2C1414&#038;ssl=1" alt="" width="2034" height="1414" class="aligncenter size-full wp-image-284" srcset="https://i2.wp.com/hirotatsu.me/wp-content/uploads/2018/08/4d82fef00b8508f849f57a36cb0f41bb.png?w=2034&ssl=1 2034w, https://i2.wp.com/hirotatsu.me/wp-content/uploads/2018/08/4d82fef00b8508f849f57a36cb0f41bb.png?resize=300%2C209&ssl=1 300w, https://i2.wp.com/hirotatsu.me/wp-content/uploads/2018/08/4d82fef00b8508f849f57a36cb0f41bb.png?resize=768%2C534&ssl=1 768w, https://i2.wp.com/hirotatsu.me/wp-content/uploads/2018/08/4d82fef00b8508f849f57a36cb0f41bb.png?resize=1024%2C712&ssl=1 1024w, https://i2.wp.com/hirotatsu.me/wp-content/uploads/2018/08/4d82fef00b8508f849f57a36cb0f41bb.png?resize=304%2C211&ssl=1 304w, https://i2.wp.com/hirotatsu.me/wp-content/uploads/2018/08/4d82fef00b8508f849f57a36cb0f41bb.png?resize=282%2C196&ssl=1 282w" sizes="(max-width: 1000px) 100vw, 1000px" data-recalc-dims="1" />
+<img src="images/uploads/2018/08/4d82fef00b8508f849f57a36cb0f41bb.png?resize=2034%2C1414&#038;ssl=1" alt="" width="2034" height="1414" class="aligncenter size-full wp-image-284" srcset="images/uploads/2018/08/4d82fef00b8508f849f57a36cb0f41bb.png?w=2034&ssl=1 2034w, images/uploads/2018/08/4d82fef00b8508f849f57a36cb0f41bb.png?resize=300%2C209&ssl=1 300w, images/uploads/2018/08/4d82fef00b8508f849f57a36cb0f41bb.png?resize=768%2C534&ssl=1 768w, images/uploads/2018/08/4d82fef00b8508f849f57a36cb0f41bb.png?resize=1024%2C712&ssl=1 1024w, images/uploads/2018/08/4d82fef00b8508f849f57a36cb0f41bb.png?resize=304%2C211&ssl=1 304w, images/uploads/2018/08/4d82fef00b8508f849f57a36cb0f41bb.png?resize=282%2C196&ssl=1 282w" sizes="(max-width: 1000px) 100vw, 1000px" data-recalc-dims="1" />
 
 おいおいおい〜
   
@@ -150,7 +150,7 @@ https://www.arealme.com/iq-2018/ja/
 
 結果は、、、
   
-<img src="https://i1.wp.com/hirotatsu.me/wp-content/uploads/2018/08/ec6383cb0e2ef2b4519544ed3012fa43.png?resize=1929%2C1122&#038;ssl=1" alt="" width="1929" height="1122" class="aligncenter size-full wp-image-285" srcset="https://i1.wp.com/hirotatsu.me/wp-content/uploads/2018/08/ec6383cb0e2ef2b4519544ed3012fa43.png?w=1929&ssl=1 1929w, https://i1.wp.com/hirotatsu.me/wp-content/uploads/2018/08/ec6383cb0e2ef2b4519544ed3012fa43.png?resize=300%2C174&ssl=1 300w, https://i1.wp.com/hirotatsu.me/wp-content/uploads/2018/08/ec6383cb0e2ef2b4519544ed3012fa43.png?resize=768%2C447&ssl=1 768w, https://i1.wp.com/hirotatsu.me/wp-content/uploads/2018/08/ec6383cb0e2ef2b4519544ed3012fa43.png?resize=1024%2C596&ssl=1 1024w, https://i1.wp.com/hirotatsu.me/wp-content/uploads/2018/08/ec6383cb0e2ef2b4519544ed3012fa43.png?resize=304%2C177&ssl=1 304w, https://i1.wp.com/hirotatsu.me/wp-content/uploads/2018/08/ec6383cb0e2ef2b4519544ed3012fa43.png?resize=282%2C164&ssl=1 282w" sizes="(max-width: 1000px) 100vw, 1000px" data-recalc-dims="1" />
+<img src="images/uploads/2018/08/ec6383cb0e2ef2b4519544ed3012fa43.png?resize=1929%2C1122&#038;ssl=1" alt="" width="1929" height="1122" class="aligncenter size-full wp-image-285" srcset="images/uploads/2018/08/ec6383cb0e2ef2b4519544ed3012fa43.png?w=1929&ssl=1 1929w, images/uploads/2018/08/ec6383cb0e2ef2b4519544ed3012fa43.png?resize=300%2C174&ssl=1 300w, images/uploads/2018/08/ec6383cb0e2ef2b4519544ed3012fa43.png?resize=768%2C447&ssl=1 768w, images/uploads/2018/08/ec6383cb0e2ef2b4519544ed3012fa43.png?resize=1024%2C596&ssl=1 1024w, images/uploads/2018/08/ec6383cb0e2ef2b4519544ed3012fa43.png?resize=304%2C177&ssl=1 304w, images/uploads/2018/08/ec6383cb0e2ef2b4519544ed3012fa43.png?resize=282%2C164&ssl=1 282w" sizes="(max-width: 1000px) 100vw, 1000px" data-recalc-dims="1" />
 
 やばすｗｗｗｗ
   
@@ -166,7 +166,7 @@ http://memorado.jp/iqtest
 
 結界は、、、
   
-<img src="https://i0.wp.com/hirotatsu.me/wp-content/uploads/2018/08/90fa0f748dbb3f586461ca3e52d18f1c.png?resize=1295%2C1617&#038;ssl=1" alt="" width="1295" height="1617" class="aligncenter size-full wp-image-286" srcset="https://i0.wp.com/hirotatsu.me/wp-content/uploads/2018/08/90fa0f748dbb3f586461ca3e52d18f1c.png?w=1295&ssl=1 1295w, https://i0.wp.com/hirotatsu.me/wp-content/uploads/2018/08/90fa0f748dbb3f586461ca3e52d18f1c.png?resize=240%2C300&ssl=1 240w, https://i0.wp.com/hirotatsu.me/wp-content/uploads/2018/08/90fa0f748dbb3f586461ca3e52d18f1c.png?resize=768%2C959&ssl=1 768w, https://i0.wp.com/hirotatsu.me/wp-content/uploads/2018/08/90fa0f748dbb3f586461ca3e52d18f1c.png?resize=820%2C1024&ssl=1 820w, https://i0.wp.com/hirotatsu.me/wp-content/uploads/2018/08/90fa0f748dbb3f586461ca3e52d18f1c.png?resize=171%2C214&ssl=1 171w, https://i0.wp.com/hirotatsu.me/wp-content/uploads/2018/08/90fa0f748dbb3f586461ca3e52d18f1c.png?resize=208%2C260&ssl=1 208w" sizes="(max-width: 1000px) 100vw, 1000px" data-recalc-dims="1" />
+<img src="images/uploads/2018/08/90fa0f748dbb3f586461ca3e52d18f1c.png?resize=1295%2C1617&#038;ssl=1" alt="" width="1295" height="1617" class="aligncenter size-full wp-image-286" srcset="images/uploads/2018/08/90fa0f748dbb3f586461ca3e52d18f1c.png?w=1295&ssl=1 1295w, images/uploads/2018/08/90fa0f748dbb3f586461ca3e52d18f1c.png?resize=240%2C300&ssl=1 240w, images/uploads/2018/08/90fa0f748dbb3f586461ca3e52d18f1c.png?resize=768%2C959&ssl=1 768w, images/uploads/2018/08/90fa0f748dbb3f586461ca3e52d18f1c.png?resize=820%2C1024&ssl=1 820w, images/uploads/2018/08/90fa0f748dbb3f586461ca3e52d18f1c.png?resize=171%2C214&ssl=1 171w, images/uploads/2018/08/90fa0f748dbb3f586461ca3e52d18f1c.png?resize=208%2C260&ssl=1 208w" sizes="(max-width: 1000px) 100vw, 1000px" data-recalc-dims="1" />
 
 IQ130らしい。
   

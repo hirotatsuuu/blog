@@ -4,7 +4,7 @@ author: ひろたつ
 type: post
 date: 2018-08-28T13:47:09+00:00
 url: /hitchhike-osaka/
-thumbnail: 'https://i1.wp.com/hirotatsu.me/wp-content/uploads/2018/08/9c2964d3aea34e13d793344539c8cdaa.png?fit=304%2C171&ssl=1'
+thumbnail: 'images/uploads/2018/08/9c2964d3aea34e13d793344539c8cdaa.png?fit=304%2C171&ssl=1'
 views:
   - 198
 bzb_meta_keywords:

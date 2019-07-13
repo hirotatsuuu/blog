@@ -4,7 +4,7 @@ author: ひろたつ
 type: post
 date: 2018-11-09T11:22:39+00:00
 url: /kyabetsu-hayagui/
-thumbnail: 'https://i0.wp.com/hirotatsu.me/wp-content/uploads/2018/11/dfdc85b4de40c72da30ed32aa7113fce.png?fit=304%2C171&ssl=1'
+thumbnail: 'images/uploads/2018/11/dfdc85b4de40c72da30ed32aa7113fce.png?fit=304%2C171&ssl=1'
 views:
   - 176
 bzb_meta_keywords:

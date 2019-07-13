@@ -4,7 +4,7 @@ author: ひろたつ
 type: post
 date: 2018-09-21T13:53:38+00:00
 url: /mugen-kyabetsu/
-thumbnail: 'https://i2.wp.com/hirotatsu.me/wp-content/uploads/2018/09/5fa1485d40ab7c27a01d2f19096e1580-1.png?fit=304%2C171&ssl=1'
+thumbnail: 'images/uploads/2018/09/5fa1485d40ab7c27a01d2f19096e1580-1.png?fit=304%2C171&ssl=1'
 bzb_meta_keywords:
   - 無限キャベツ
 bzb_meta_robots:

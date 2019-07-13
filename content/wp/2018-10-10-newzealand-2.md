@@ -4,7 +4,7 @@ author: ひろたつ
 type: post
 date: 2018-10-10T11:52:38+00:00
 url: /newzealand-2/
-thumbnail: 'https://i2.wp.com/hirotatsu.me/wp-content/uploads/2018/10/IMG_20181010_131256.jpg?fit=285%2C214&ssl=1'
+thumbnail: 'images/uploads/2018/10/IMG_20181010_131256.jpg?fit=285%2C214&ssl=1'
 bzb_meta_keywords:
   - グレートバリア島
 bzb_meta_robots:

@@ -4,7 +4,7 @@ author: ひろたつ
 type: post
 date: 2018-08-24T18:04:56+00:00
 url: /mac-android-bluetooth/
-thumbnail: 'https://i2.wp.com/hirotatsu.me/wp-content/uploads/2018/08/c3f2bc065ca2d26a5b8b586d26bb6db9.png?fit=304%2C171&ssl=1'
+thumbnail: 'images/uploads/2018/08/c3f2bc065ca2d26a5b8b586d26bb6db9.png?fit=304%2C171&ssl=1'
 views:
   - 180
 bzb_meta_keywords:

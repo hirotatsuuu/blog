@@ -4,7 +4,7 @@ author: ひろたつ
 type: post
 date: 2018-10-13T07:14:51+00:00
 url: /nz-one-month/
-thumbnail: 'https://i2.wp.com/hirotatsu.me/wp-content/uploads/2018/10/5190b735539f4131d4e66abddff06d78.png?fit=304%2C171&ssl=1'
+thumbnail: 'images/uploads/2018/10/5190b735539f4131d4e66abddff06d78.png?fit=304%2C171&ssl=1'
 bzb_meta_keywords:
   - ニュージーランド
 bzb_meta_robots:

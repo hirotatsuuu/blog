@@ -6,7 +6,7 @@ date: 2018-09-10T23:47:24+00:00
 draft: true
 private: true
 url: /sorry-police/
-thumbnail: 'https://i2.wp.com/hirotatsu.me/wp-content/uploads/2018/09/e78ebb4daeb79acefd3912d38ca6e9d5.png?fit=304%2C171&ssl=1'
+thumbnail: 'images/uploads/2018/09/e78ebb4daeb79acefd3912d38ca6e9d5.png?fit=304%2C171&ssl=1'
 views:
   - 60
 bzb_meta_keywords:

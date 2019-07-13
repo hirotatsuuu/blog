@@ -4,7 +4,7 @@ author: ひろたつ
 type: post
 date: 2018-08-22T14:02:56+00:00
 url: /wordpress-xeory-edit/
-thumbnail: 'https://i0.wp.com/hirotatsu.me/wp-content/uploads/2018/08/d199783a8706540ba26bc8e4fb6b0ade.png?fit=304%2C171&ssl=1'
+thumbnail: 'images/uploads/2018/08/d199783a8706540ba26bc8e4fb6b0ade.png?fit=304%2C171&ssl=1'
 views:
   - 437
 bzb_meta_keywords:

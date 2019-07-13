@@ -4,7 +4,7 @@ author: ひろたつ
 type: post
 date: 2018-09-10T23:41:14+00:00
 url: /hangover-othello/
-thumbnail: 'https://i2.wp.com/hirotatsu.me/wp-content/uploads/2018/09/cad17cf0ccf8af132f9efa95df9ecb03.png?fit=304%2C171&ssl=1'
+thumbnail: 'images/uploads/2018/09/cad17cf0ccf8af132f9efa95df9ecb03.png?fit=304%2C171&ssl=1'
 views:
   - 187
 bzb_meta_keywords:

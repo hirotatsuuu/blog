@@ -4,7 +4,7 @@ author: ひろたつ
 type: post
 date: 2018-08-28T13:36:50+00:00
 url: /verification-around-world/
-thumbnail: 'https://i2.wp.com/hirotatsu.me/wp-content/uploads/2018/08/a36fd3b14f15d259384d1a4176757fba.png?fit=304%2C171&ssl=1'
+thumbnail: 'images/uploads/2018/08/a36fd3b14f15d259384d1a4176757fba.png?fit=304%2C171&ssl=1'
 views:
   - 152
 bzb_meta_keywords:

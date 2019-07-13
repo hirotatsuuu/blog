@@ -4,7 +4,7 @@ author: ひろたつ
 type: post
 date: 2018-10-14T09:50:35+00:00
 url: /newzealand-6/
-thumbnail: 'https://i2.wp.com/hirotatsu.me/wp-content/uploads/2018/10/IMG_20181014_224154.jpg?fit=304%2C194&ssl=1'
+thumbnail: 'images/uploads/2018/10/IMG_20181014_224154.jpg?fit=304%2C194&ssl=1'
 bzb_meta_keywords:
   - ワンガパラパラ
 bzb_meta_robots:
@@ -107,7 +107,7 @@ WWOOFのサービスを使っているので、一日4時間ほどのお仕事�
 今日は、、鶏小屋の作成、！
 
 <div id="attachment_696" style="width: 3978px" class="wp-caption aligncenter">
-  <img src="https://i0.wp.com/hirotatsu.me/wp-content/uploads/2018/10/IMG_20181014_184459.jpg?resize=3968%2C2976&#038;ssl=1" alt="人懐っこい鶏ちゃん" width="3968" height="2976" class="size-full wp-image-696" srcset="https://i0.wp.com/hirotatsu.me/wp-content/uploads/2018/10/IMG_20181014_184459.jpg?w=3968&ssl=1 3968w, https://i0.wp.com/hirotatsu.me/wp-content/uploads/2018/10/IMG_20181014_184459.jpg?resize=300%2C225&ssl=1 300w, https://i0.wp.com/hirotatsu.me/wp-content/uploads/2018/10/IMG_20181014_184459.jpg?resize=768%2C576&ssl=1 768w, https://i0.wp.com/hirotatsu.me/wp-content/uploads/2018/10/IMG_20181014_184459.jpg?resize=1024%2C768&ssl=1 1024w, https://i0.wp.com/hirotatsu.me/wp-content/uploads/2018/10/IMG_20181014_184459.jpg?resize=285%2C214&ssl=1 285w, https://i0.wp.com/hirotatsu.me/wp-content/uploads/2018/10/IMG_20181014_184459.jpg?resize=282%2C212&ssl=1 282w, https://i0.wp.com/hirotatsu.me/wp-content/uploads/2018/10/IMG_20181014_184459.jpg?w=2000&ssl=1 2000w, https://i0.wp.com/hirotatsu.me/wp-content/uploads/2018/10/IMG_20181014_184459.jpg?w=3000&ssl=1 3000w" sizes="(max-width: 1000px) 100vw, 1000px" data-recalc-dims="1" />
+  <img src="images/uploads/2018/10/IMG_20181014_184459.jpg?resize=3968%2C2976&#038;ssl=1" alt="人懐っこい鶏ちゃん" width="3968" height="2976" class="size-full wp-image-696" srcset="images/uploads/2018/10/IMG_20181014_184459.jpg?w=3968&ssl=1 3968w, images/uploads/2018/10/IMG_20181014_184459.jpg?resize=300%2C225&ssl=1 300w, images/uploads/2018/10/IMG_20181014_184459.jpg?resize=768%2C576&ssl=1 768w, images/uploads/2018/10/IMG_20181014_184459.jpg?resize=1024%2C768&ssl=1 1024w, images/uploads/2018/10/IMG_20181014_184459.jpg?resize=285%2C214&ssl=1 285w, images/uploads/2018/10/IMG_20181014_184459.jpg?resize=282%2C212&ssl=1 282w, images/uploads/2018/10/IMG_20181014_184459.jpg?w=2000&ssl=1 2000w, images/uploads/2018/10/IMG_20181014_184459.jpg?w=3000&ssl=1 3000w" sizes="(max-width: 1000px) 100vw, 1000px" data-recalc-dims="1" />
   
   <p class="wp-caption-text">
     人懐っこい鶏ちゃん
@@ -123,7 +123,7 @@ WWOOFのサービスを使っているので、一日4時間ほどのお仕事�
 なんか、よく工事現場にあるような機械を使いましたｗ
 
 <div id="attachment_697" style="width: 900px" class="wp-caption aligncenter">
-  <img src="https://i2.wp.com/hirotatsu.me/wp-content/uploads/2018/10/IMG_20181014_224154.jpg?resize=890%2C567&#038;ssl=1" alt="アルミの波板を切断" width="890" height="567" class="size-full wp-image-697" srcset="https://i2.wp.com/hirotatsu.me/wp-content/uploads/2018/10/IMG_20181014_224154.jpg?w=890&ssl=1 890w, https://i2.wp.com/hirotatsu.me/wp-content/uploads/2018/10/IMG_20181014_224154.jpg?resize=300%2C191&ssl=1 300w, https://i2.wp.com/hirotatsu.me/wp-content/uploads/2018/10/IMG_20181014_224154.jpg?resize=768%2C489&ssl=1 768w, https://i2.wp.com/hirotatsu.me/wp-content/uploads/2018/10/IMG_20181014_224154.jpg?resize=304%2C194&ssl=1 304w, https://i2.wp.com/hirotatsu.me/wp-content/uploads/2018/10/IMG_20181014_224154.jpg?resize=282%2C180&ssl=1 282w" sizes="(max-width: 890px) 100vw, 890px" data-recalc-dims="1" />
+  <img src="images/uploads/2018/10/IMG_20181014_224154.jpg?resize=890%2C567&#038;ssl=1" alt="アルミの波板を切断" width="890" height="567" class="size-full wp-image-697" srcset="images/uploads/2018/10/IMG_20181014_224154.jpg?w=890&ssl=1 890w, images/uploads/2018/10/IMG_20181014_224154.jpg?resize=300%2C191&ssl=1 300w, images/uploads/2018/10/IMG_20181014_224154.jpg?resize=768%2C489&ssl=1 768w, images/uploads/2018/10/IMG_20181014_224154.jpg?resize=304%2C194&ssl=1 304w, images/uploads/2018/10/IMG_20181014_224154.jpg?resize=282%2C180&ssl=1 282w" sizes="(max-width: 890px) 100vw, 890px" data-recalc-dims="1" />
   
   <p class="wp-caption-text">
     アルミの波板を切断
@@ -133,7 +133,7 @@ WWOOFのサービスを使っているので、一日4時間ほどのお仕事�
 そして、のこぎりで枠組みの木材を切って、、
 
 <div id="attachment_699" style="width: 1020px" class="wp-caption aligncenter">
-  <img src="https://i0.wp.com/hirotatsu.me/wp-content/uploads/2018/10/IMG_20181014_224215.jpg?resize=1010%2C568&#038;ssl=1" alt="のこぎりで木材を切断" width="1010" height="568" class="size-full wp-image-699" srcset="https://i0.wp.com/hirotatsu.me/wp-content/uploads/2018/10/IMG_20181014_224215.jpg?w=1010&ssl=1 1010w, https://i0.wp.com/hirotatsu.me/wp-content/uploads/2018/10/IMG_20181014_224215.jpg?resize=300%2C169&ssl=1 300w, https://i0.wp.com/hirotatsu.me/wp-content/uploads/2018/10/IMG_20181014_224215.jpg?resize=768%2C432&ssl=1 768w, https://i0.wp.com/hirotatsu.me/wp-content/uploads/2018/10/IMG_20181014_224215.jpg?resize=304%2C171&ssl=1 304w, https://i0.wp.com/hirotatsu.me/wp-content/uploads/2018/10/IMG_20181014_224215.jpg?resize=282%2C159&ssl=1 282w" sizes="(max-width: 1000px) 100vw, 1000px" data-recalc-dims="1" />
+  <img src="images/uploads/2018/10/IMG_20181014_224215.jpg?resize=1010%2C568&#038;ssl=1" alt="のこぎりで木材を切断" width="1010" height="568" class="size-full wp-image-699" srcset="images/uploads/2018/10/IMG_20181014_224215.jpg?w=1010&ssl=1 1010w, images/uploads/2018/10/IMG_20181014_224215.jpg?resize=300%2C169&ssl=1 300w, images/uploads/2018/10/IMG_20181014_224215.jpg?resize=768%2C432&ssl=1 768w, images/uploads/2018/10/IMG_20181014_224215.jpg?resize=304%2C171&ssl=1 304w, images/uploads/2018/10/IMG_20181014_224215.jpg?resize=282%2C159&ssl=1 282w" sizes="(max-width: 1000px) 100vw, 1000px" data-recalc-dims="1" />
   
   <p class="wp-caption-text">
     のこぎりで木材を切断
@@ -157,7 +157,7 @@ WWOOFのサービスを使っているので、一日4時間ほどのお仕事�
 そして、壁をゼロから作って、すでにできてたルーフを小屋に乗せて出来上がり、！
 
 <div id="attachment_700" style="width: 1090px" class="wp-caption aligncenter">
-  <img src="https://i2.wp.com/hirotatsu.me/wp-content/uploads/2018/10/IMG_20181014_220429_843.jpg?resize=1080%2C810&#038;ssl=1" alt="作った鶏小屋" width="1080" height="810" class="size-full wp-image-700" srcset="https://i2.wp.com/hirotatsu.me/wp-content/uploads/2018/10/IMG_20181014_220429_843.jpg?w=1080&ssl=1 1080w, https://i2.wp.com/hirotatsu.me/wp-content/uploads/2018/10/IMG_20181014_220429_843.jpg?resize=300%2C225&ssl=1 300w, https://i2.wp.com/hirotatsu.me/wp-content/uploads/2018/10/IMG_20181014_220429_843.jpg?resize=768%2C576&ssl=1 768w, https://i2.wp.com/hirotatsu.me/wp-content/uploads/2018/10/IMG_20181014_220429_843.jpg?resize=1024%2C768&ssl=1 1024w, https://i2.wp.com/hirotatsu.me/wp-content/uploads/2018/10/IMG_20181014_220429_843.jpg?resize=285%2C214&ssl=1 285w, https://i2.wp.com/hirotatsu.me/wp-content/uploads/2018/10/IMG_20181014_220429_843.jpg?resize=282%2C212&ssl=1 282w" sizes="(max-width: 1000px) 100vw, 1000px" data-recalc-dims="1" />
+  <img src="images/uploads/2018/10/IMG_20181014_220429_843.jpg?resize=1080%2C810&#038;ssl=1" alt="作った鶏小屋" width="1080" height="810" class="size-full wp-image-700" srcset="images/uploads/2018/10/IMG_20181014_220429_843.jpg?w=1080&ssl=1 1080w, images/uploads/2018/10/IMG_20181014_220429_843.jpg?resize=300%2C225&ssl=1 300w, images/uploads/2018/10/IMG_20181014_220429_843.jpg?resize=768%2C576&ssl=1 768w, images/uploads/2018/10/IMG_20181014_220429_843.jpg?resize=1024%2C768&ssl=1 1024w, images/uploads/2018/10/IMG_20181014_220429_843.jpg?resize=285%2C214&ssl=1 285w, images/uploads/2018/10/IMG_20181014_220429_843.jpg?resize=282%2C212&ssl=1 282w" sizes="(max-width: 1000px) 100vw, 1000px" data-recalc-dims="1" />
   
   <p class="wp-caption-text">
     作った鶏小屋
@@ -169,7 +169,7 @@ WWOOFのサービスを使っているので、一日4時間ほどのお仕事�
 後ろ姿ｗ
 
 <div id="attachment_701" style="width: 1090px" class="wp-caption aligncenter">
-  <img src="https://i0.wp.com/hirotatsu.me/wp-content/uploads/2018/10/IMG_20181014_220429_847.jpg?resize=1080%2C810&#038;ssl=1" alt="作った鶏小屋（後ろ姿）" width="1080" height="810" class="size-full wp-image-701" srcset="https://i0.wp.com/hirotatsu.me/wp-content/uploads/2018/10/IMG_20181014_220429_847.jpg?w=1080&ssl=1 1080w, https://i0.wp.com/hirotatsu.me/wp-content/uploads/2018/10/IMG_20181014_220429_847.jpg?resize=300%2C225&ssl=1 300w, https://i0.wp.com/hirotatsu.me/wp-content/uploads/2018/10/IMG_20181014_220429_847.jpg?resize=768%2C576&ssl=1 768w, https://i0.wp.com/hirotatsu.me/wp-content/uploads/2018/10/IMG_20181014_220429_847.jpg?resize=1024%2C768&ssl=1 1024w, https://i0.wp.com/hirotatsu.me/wp-content/uploads/2018/10/IMG_20181014_220429_847.jpg?resize=285%2C214&ssl=1 285w, https://i0.wp.com/hirotatsu.me/wp-content/uploads/2018/10/IMG_20181014_220429_847.jpg?resize=282%2C212&ssl=1 282w" sizes="(max-width: 1000px) 100vw, 1000px" data-recalc-dims="1" />
+  <img src="images/uploads/2018/10/IMG_20181014_220429_847.jpg?resize=1080%2C810&#038;ssl=1" alt="作った鶏小屋（後ろ姿）" width="1080" height="810" class="size-full wp-image-701" srcset="images/uploads/2018/10/IMG_20181014_220429_847.jpg?w=1080&ssl=1 1080w, images/uploads/2018/10/IMG_20181014_220429_847.jpg?resize=300%2C225&ssl=1 300w, images/uploads/2018/10/IMG_20181014_220429_847.jpg?resize=768%2C576&ssl=1 768w, images/uploads/2018/10/IMG_20181014_220429_847.jpg?resize=1024%2C768&ssl=1 1024w, images/uploads/2018/10/IMG_20181014_220429_847.jpg?resize=285%2C214&ssl=1 285w, images/uploads/2018/10/IMG_20181014_220429_847.jpg?resize=282%2C212&ssl=1 282w" sizes="(max-width: 1000px) 100vw, 1000px" data-recalc-dims="1" />
   
   <p class="wp-caption-text">
     作った鶏小屋（後ろ姿）
@@ -187,7 +187,7 @@ WWOOFのサービスを使っているので、一日4時間ほどのお仕事�
 作る間にランチを頂いて、ティータイムをして、、、ってのは海外のお決まりね笑
 
 <div id="attachment_703" style="width: 3454px" class="wp-caption aligncenter">
-  <img src="https://i1.wp.com/hirotatsu.me/wp-content/uploads/2018/10/IMG_20181014_162618_328.jpg?resize=3444%2C2976&#038;ssl=1" alt="優雅なティータイム" width="3444" height="2976" class="size-full wp-image-703" srcset="https://i1.wp.com/hirotatsu.me/wp-content/uploads/2018/10/IMG_20181014_162618_328.jpg?w=3444&ssl=1 3444w, https://i1.wp.com/hirotatsu.me/wp-content/uploads/2018/10/IMG_20181014_162618_328.jpg?resize=300%2C259&ssl=1 300w, https://i1.wp.com/hirotatsu.me/wp-content/uploads/2018/10/IMG_20181014_162618_328.jpg?resize=768%2C664&ssl=1 768w, https://i1.wp.com/hirotatsu.me/wp-content/uploads/2018/10/IMG_20181014_162618_328.jpg?resize=1024%2C885&ssl=1 1024w, https://i1.wp.com/hirotatsu.me/wp-content/uploads/2018/10/IMG_20181014_162618_328.jpg?resize=248%2C214&ssl=1 248w, https://i1.wp.com/hirotatsu.me/wp-content/uploads/2018/10/IMG_20181014_162618_328.jpg?resize=282%2C244&ssl=1 282w, https://i1.wp.com/hirotatsu.me/wp-content/uploads/2018/10/IMG_20181014_162618_328.jpg?w=2000&ssl=1 2000w, https://i1.wp.com/hirotatsu.me/wp-content/uploads/2018/10/IMG_20181014_162618_328.jpg?w=3000&ssl=1 3000w" sizes="(max-width: 1000px) 100vw, 1000px" data-recalc-dims="1" />
+  <img src="images/uploads/2018/10/IMG_20181014_162618_328.jpg?resize=3444%2C2976&#038;ssl=1" alt="優雅なティータイム" width="3444" height="2976" class="size-full wp-image-703" srcset="images/uploads/2018/10/IMG_20181014_162618_328.jpg?w=3444&ssl=1 3444w, images/uploads/2018/10/IMG_20181014_162618_328.jpg?resize=300%2C259&ssl=1 300w, images/uploads/2018/10/IMG_20181014_162618_328.jpg?resize=768%2C664&ssl=1 768w, images/uploads/2018/10/IMG_20181014_162618_328.jpg?resize=1024%2C885&ssl=1 1024w, images/uploads/2018/10/IMG_20181014_162618_328.jpg?resize=248%2C214&ssl=1 248w, images/uploads/2018/10/IMG_20181014_162618_328.jpg?resize=282%2C244&ssl=1 282w, images/uploads/2018/10/IMG_20181014_162618_328.jpg?w=2000&ssl=1 2000w, images/uploads/2018/10/IMG_20181014_162618_328.jpg?w=3000&ssl=1 3000w" sizes="(max-width: 1000px) 100vw, 1000px" data-recalc-dims="1" />
   
   <p class="wp-caption-text">
     優雅なティータイム
@@ -203,7 +203,7 @@ WWOOFのサービスを使っているので、一日4時間ほどのお仕事�
 そんな感じで鶏小屋が完成してディナーまでまったり〜
 
 <div id="attachment_702" style="width: 3557px" class="wp-caption aligncenter">
-  <img src="https://i0.wp.com/hirotatsu.me/wp-content/uploads/2018/10/IMG_20181014_213708_272.jpg?resize=3547%2C2976&#038;ssl=1" alt="優雅なディナー" width="3547" height="2976" class="size-full wp-image-702" srcset="https://i0.wp.com/hirotatsu.me/wp-content/uploads/2018/10/IMG_20181014_213708_272.jpg?w=3547&ssl=1 3547w, https://i0.wp.com/hirotatsu.me/wp-content/uploads/2018/10/IMG_20181014_213708_272.jpg?resize=300%2C252&ssl=1 300w, https://i0.wp.com/hirotatsu.me/wp-content/uploads/2018/10/IMG_20181014_213708_272.jpg?resize=768%2C644&ssl=1 768w, https://i0.wp.com/hirotatsu.me/wp-content/uploads/2018/10/IMG_20181014_213708_272.jpg?resize=1024%2C859&ssl=1 1024w, https://i0.wp.com/hirotatsu.me/wp-content/uploads/2018/10/IMG_20181014_213708_272.jpg?resize=255%2C214&ssl=1 255w, https://i0.wp.com/hirotatsu.me/wp-content/uploads/2018/10/IMG_20181014_213708_272.jpg?resize=282%2C237&ssl=1 282w, https://i0.wp.com/hirotatsu.me/wp-content/uploads/2018/10/IMG_20181014_213708_272.jpg?w=2000&ssl=1 2000w, https://i0.wp.com/hirotatsu.me/wp-content/uploads/2018/10/IMG_20181014_213708_272.jpg?w=3000&ssl=1 3000w" sizes="(max-width: 1000px) 100vw, 1000px" data-recalc-dims="1" />
+  <img src="images/uploads/2018/10/IMG_20181014_213708_272.jpg?resize=3547%2C2976&#038;ssl=1" alt="優雅なディナー" width="3547" height="2976" class="size-full wp-image-702" srcset="images/uploads/2018/10/IMG_20181014_213708_272.jpg?w=3547&ssl=1 3547w, images/uploads/2018/10/IMG_20181014_213708_272.jpg?resize=300%2C252&ssl=1 300w, images/uploads/2018/10/IMG_20181014_213708_272.jpg?resize=768%2C644&ssl=1 768w, images/uploads/2018/10/IMG_20181014_213708_272.jpg?resize=1024%2C859&ssl=1 1024w, images/uploads/2018/10/IMG_20181014_213708_272.jpg?resize=255%2C214&ssl=1 255w, images/uploads/2018/10/IMG_20181014_213708_272.jpg?resize=282%2C237&ssl=1 282w, images/uploads/2018/10/IMG_20181014_213708_272.jpg?w=2000&ssl=1 2000w, images/uploads/2018/10/IMG_20181014_213708_272.jpg?w=3000&ssl=1 3000w" sizes="(max-width: 1000px) 100vw, 1000px" data-recalc-dims="1" />
   
   <p class="wp-caption-text">
     優雅なディナー

@@ -4,7 +4,7 @@ author: ひろたつ
 type: post
 date: 2018-09-01T06:26:11+00:00
 url: /trip-hitchhike-from-tokyo-to-osaka-4/
-thumbnail: 'https://i0.wp.com/hirotatsu.me/wp-content/uploads/2018/09/4.png?fit=304%2C169&ssl=1'
+thumbnail: 'images/uploads/2018/09/4.png?fit=304%2C169&ssl=1'
 views:
   - 191
 bzb_meta_keywords:

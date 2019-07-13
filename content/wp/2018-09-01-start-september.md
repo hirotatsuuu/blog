@@ -4,7 +4,7 @@ author: ひろたつ
 type: post
 date: 2018-08-31T17:53:59+00:00
 url: /start-september/
-thumbnail: 'https://i0.wp.com/hirotatsu.me/wp-content/uploads/2018/09/87906db77dc51a4a8654cc87ed935f10.png?fit=304%2C171&ssl=1'
+thumbnail: 'images/uploads/2018/09/87906db77dc51a4a8654cc87ed935f10.png?fit=304%2C171&ssl=1'
 bzb_meta_keywords:
   - 独り言
 bzb_meta_robots:

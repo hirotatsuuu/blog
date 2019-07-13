@@ -4,7 +4,7 @@ author: ひろたつ
 type: post
 date: 2018-08-30T06:32:21+00:00
 url: /horipro-personality-check/
-thumbnail: 'https://i2.wp.com/hirotatsu.me/wp-content/uploads/2018/08/8ab0fb816ddc2299a99e30b467fdf06d.png?fit=304%2C171&ssl=1'
+thumbnail: 'images/uploads/2018/08/8ab0fb816ddc2299a99e30b467fdf06d.png?fit=304%2C171&ssl=1'
 views:
   - 106
 bzb_meta_keywords:
@@ -96,7 +96,7 @@ tags:
 
 こんなかんじでした〜
 
-<img src="https://i2.wp.com/hirotatsu.me/wp-content/uploads/2018/08/m-gram.png?resize=1200%2C1200&#038;ssl=1" alt="" width="1200" height="1200" class="aligncenter size-full wp-image-463" srcset="https://i2.wp.com/hirotatsu.me/wp-content/uploads/2018/08/m-gram.png?w=1200&ssl=1 1200w, https://i2.wp.com/hirotatsu.me/wp-content/uploads/2018/08/m-gram.png?resize=150%2C150&ssl=1 150w, https://i2.wp.com/hirotatsu.me/wp-content/uploads/2018/08/m-gram.png?resize=300%2C300&ssl=1 300w, https://i2.wp.com/hirotatsu.me/wp-content/uploads/2018/08/m-gram.png?resize=768%2C768&ssl=1 768w, https://i2.wp.com/hirotatsu.me/wp-content/uploads/2018/08/m-gram.png?resize=1024%2C1024&ssl=1 1024w, https://i2.wp.com/hirotatsu.me/wp-content/uploads/2018/08/m-gram.png?resize=214%2C214&ssl=1 214w, https://i2.wp.com/hirotatsu.me/wp-content/uploads/2018/08/m-gram.png?resize=260%2C260&ssl=1 260w" sizes="(max-width: 1000px) 100vw, 1000px" data-recalc-dims="1" />
+<img src="images/uploads/2018/08/m-gram.png?resize=1200%2C1200&#038;ssl=1" alt="" width="1200" height="1200" class="aligncenter size-full wp-image-463" srcset="images/uploads/2018/08/m-gram.png?w=1200&ssl=1 1200w, images/uploads/2018/08/m-gram.png?resize=150%2C150&ssl=1 150w, images/uploads/2018/08/m-gram.png?resize=300%2C300&ssl=1 300w, images/uploads/2018/08/m-gram.png?resize=768%2C768&ssl=1 768w, images/uploads/2018/08/m-gram.png?resize=1024%2C1024&ssl=1 1024w, images/uploads/2018/08/m-gram.png?resize=214%2C214&ssl=1 214w, images/uploads/2018/08/m-gram.png?resize=260%2C260&ssl=1 260w" sizes="(max-width: 1000px) 100vw, 1000px" data-recalc-dims="1" />
 
   * 海外進出も余裕
   * 機転が利きまくり

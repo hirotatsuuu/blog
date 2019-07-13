@@ -4,7 +4,7 @@ author: ひろたつ
 type: post
 date: 2018-10-11T10:19:44+00:00
 url: /newzealand-3/
-thumbnail: 'https://i0.wp.com/hirotatsu.me/wp-content/uploads/2018/10/41BF0624-4E7B-42AC-B03D-CD2B37514C60.jpeg?fit=285%2C214&ssl=1'
+thumbnail: 'images/uploads/2018/10/41BF0624-4E7B-42AC-B03D-CD2B37514C60.jpeg?fit=285%2C214&ssl=1'
 bzb_meta_keywords:
   - ニュージーランド
 bzb_meta_robots:

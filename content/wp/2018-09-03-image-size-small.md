@@ -4,7 +4,7 @@ author: ひろたつ
 type: post
 date: 2018-09-02T15:45:04+00:00
 url: /image-size-small/
-thumbnail: 'https://i1.wp.com/hirotatsu.me/wp-content/uploads/2018/09/38ca38e431e6aea79a4caefc8e6069d4.png?fit=304%2C171&ssl=1'
+thumbnail: 'images/uploads/2018/09/38ca38e431e6aea79a4caefc8e6069d4.png?fit=304%2C171&ssl=1'
 views:
   - 200
 bzb_meta_keywords:

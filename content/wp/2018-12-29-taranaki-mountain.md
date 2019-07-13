@@ -4,7 +4,7 @@ author: ひろたつ
 type: post
 date: 2018-12-29T03:08:52+00:00
 url: /taranaki-mountain/
-thumbnail: 'https://i0.wp.com/hirotatsu.me/wp-content/uploads/2018/12/efdba1d5264c25658e8a2480f66198a0.png?fit=304%2C171&ssl=1'
+thumbnail: 'images/uploads/2018/12/efdba1d5264c25658e8a2480f66198a0.png?fit=304%2C171&ssl=1'
 bzb_meta_keywords:
   - タラナキ山 登山
 bzb_meta_description:
@@ -112,7 +112,7 @@ tags:
 
 ## <span id="i-2">ニュージーランドにある富士山とは</span>
 
-[<img src="https://i1.wp.com/hirotatsu.me/wp-content/uploads/2018/12/IMG_20181227_081102.jpg?resize=3968%2C2976&#038;ssl=1" alt="ニュージーランドにある富士山とは" width="3968" height="2976" class="size-full wp-image-1461" srcset="https://i1.wp.com/hirotatsu.me/wp-content/uploads/2018/12/IMG_20181227_081102.jpg?w=3968&ssl=1 3968w, https://i1.wp.com/hirotatsu.me/wp-content/uploads/2018/12/IMG_20181227_081102.jpg?resize=300%2C225&ssl=1 300w, https://i1.wp.com/hirotatsu.me/wp-content/uploads/2018/12/IMG_20181227_081102.jpg?resize=768%2C576&ssl=1 768w, https://i1.wp.com/hirotatsu.me/wp-content/uploads/2018/12/IMG_20181227_081102.jpg?resize=1024%2C768&ssl=1 1024w, https://i1.wp.com/hirotatsu.me/wp-content/uploads/2018/12/IMG_20181227_081102.jpg?resize=285%2C214&ssl=1 285w, https://i1.wp.com/hirotatsu.me/wp-content/uploads/2018/12/IMG_20181227_081102.jpg?resize=282%2C212&ssl=1 282w, https://i1.wp.com/hirotatsu.me/wp-content/uploads/2018/12/IMG_20181227_081102.jpg?w=2000&ssl=1 2000w, https://i1.wp.com/hirotatsu.me/wp-content/uploads/2018/12/IMG_20181227_081102.jpg?w=3000&ssl=1 3000w" sizes="(max-width: 1000px) 100vw, 1000px" data-recalc-dims="1" />][1]
+[<img src="images/uploads/2018/12/IMG_20181227_081102.jpg?resize=3968%2C2976&#038;ssl=1" alt="ニュージーランドにある富士山とは" width="3968" height="2976" class="size-full wp-image-1461" srcset="images/uploads/2018/12/IMG_20181227_081102.jpg?w=3968&ssl=1 3968w, images/uploads/2018/12/IMG_20181227_081102.jpg?resize=300%2C225&ssl=1 300w, images/uploads/2018/12/IMG_20181227_081102.jpg?resize=768%2C576&ssl=1 768w, images/uploads/2018/12/IMG_20181227_081102.jpg?resize=1024%2C768&ssl=1 1024w, images/uploads/2018/12/IMG_20181227_081102.jpg?resize=285%2C214&ssl=1 285w, images/uploads/2018/12/IMG_20181227_081102.jpg?resize=282%2C212&ssl=1 282w, images/uploads/2018/12/IMG_20181227_081102.jpg?w=2000&ssl=1 2000w, images/uploads/2018/12/IMG_20181227_081102.jpg?w=3000&ssl=1 3000w" sizes="(max-width: 1000px) 100vw, 1000px" data-recalc-dims="1" />][1]
 
 まず「**ニュージーランドにある富士山とは？**」という疑問に答えます。
 
@@ -140,7 +140,7 @@ tags:
 
 ## <span id="3">タラナキ山を登る時の3つのポイント</span>
 
-[<img src="https://i2.wp.com/hirotatsu.me/wp-content/uploads/2018/12/IMG_20181227_084234.jpg?resize=3264%2C2448&#038;ssl=1" alt="タラナキ山ってどんな山？" width="3264" height="2448" class="size-full wp-image-1463" srcset="https://i2.wp.com/hirotatsu.me/wp-content/uploads/2018/12/IMG_20181227_084234.jpg?w=3264&ssl=1 3264w, https://i2.wp.com/hirotatsu.me/wp-content/uploads/2018/12/IMG_20181227_084234.jpg?resize=300%2C225&ssl=1 300w, https://i2.wp.com/hirotatsu.me/wp-content/uploads/2018/12/IMG_20181227_084234.jpg?resize=768%2C576&ssl=1 768w, https://i2.wp.com/hirotatsu.me/wp-content/uploads/2018/12/IMG_20181227_084234.jpg?resize=1024%2C768&ssl=1 1024w, https://i2.wp.com/hirotatsu.me/wp-content/uploads/2018/12/IMG_20181227_084234.jpg?resize=285%2C214&ssl=1 285w, https://i2.wp.com/hirotatsu.me/wp-content/uploads/2018/12/IMG_20181227_084234.jpg?resize=282%2C212&ssl=1 282w, https://i2.wp.com/hirotatsu.me/wp-content/uploads/2018/12/IMG_20181227_084234.jpg?w=2000&ssl=1 2000w, https://i2.wp.com/hirotatsu.me/wp-content/uploads/2018/12/IMG_20181227_084234.jpg?w=3000&ssl=1 3000w" sizes="(max-width: 1000px) 100vw, 1000px" data-recalc-dims="1" />][2]
+[<img src="images/uploads/2018/12/IMG_20181227_084234.jpg?resize=3264%2C2448&#038;ssl=1" alt="タラナキ山ってどんな山？" width="3264" height="2448" class="size-full wp-image-1463" srcset="images/uploads/2018/12/IMG_20181227_084234.jpg?w=3264&ssl=1 3264w, images/uploads/2018/12/IMG_20181227_084234.jpg?resize=300%2C225&ssl=1 300w, images/uploads/2018/12/IMG_20181227_084234.jpg?resize=768%2C576&ssl=1 768w, images/uploads/2018/12/IMG_20181227_084234.jpg?resize=1024%2C768&ssl=1 1024w, images/uploads/2018/12/IMG_20181227_084234.jpg?resize=285%2C214&ssl=1 285w, images/uploads/2018/12/IMG_20181227_084234.jpg?resize=282%2C212&ssl=1 282w, images/uploads/2018/12/IMG_20181227_084234.jpg?w=2000&ssl=1 2000w, images/uploads/2018/12/IMG_20181227_084234.jpg?w=3000&ssl=1 3000w" sizes="(max-width: 1000px) 100vw, 1000px" data-recalc-dims="1" />][2]
 
 タラナキ山は富士山よりも低い山です。
 
@@ -202,7 +202,7 @@ tags:
 登山道には赤いマークの付いたポールが定期的に立てられています。
 
 <div id="attachment_1455" style="width: 3978px" class="wp-caption aligncenter">
-  <a href="https://i1.wp.com/hirotatsu.me/wp-content/uploads/2018/12/IMG_20181227_100718.jpg?ssl=1"><img src="https://i1.wp.com/hirotatsu.me/wp-content/uploads/2018/12/IMG_20181227_100718.jpg?resize=3968%2C2976&#038;ssl=1" alt="タラナキ山の赤いポール" width="3968" height="2976" class="size-full wp-image-1455" srcset="https://i1.wp.com/hirotatsu.me/wp-content/uploads/2018/12/IMG_20181227_100718.jpg?w=3968&ssl=1 3968w, https://i1.wp.com/hirotatsu.me/wp-content/uploads/2018/12/IMG_20181227_100718.jpg?resize=300%2C225&ssl=1 300w, https://i1.wp.com/hirotatsu.me/wp-content/uploads/2018/12/IMG_20181227_100718.jpg?resize=768%2C576&ssl=1 768w, https://i1.wp.com/hirotatsu.me/wp-content/uploads/2018/12/IMG_20181227_100718.jpg?resize=1024%2C768&ssl=1 1024w, https://i1.wp.com/hirotatsu.me/wp-content/uploads/2018/12/IMG_20181227_100718.jpg?resize=285%2C214&ssl=1 285w, https://i1.wp.com/hirotatsu.me/wp-content/uploads/2018/12/IMG_20181227_100718.jpg?resize=282%2C212&ssl=1 282w, https://i1.wp.com/hirotatsu.me/wp-content/uploads/2018/12/IMG_20181227_100718.jpg?w=2000&ssl=1 2000w, https://i1.wp.com/hirotatsu.me/wp-content/uploads/2018/12/IMG_20181227_100718.jpg?w=3000&ssl=1 3000w" sizes="(max-width: 1000px) 100vw, 1000px" data-recalc-dims="1" /></a>
+  <a href="images/uploads/2018/12/IMG_20181227_100718.jpg?ssl=1"><img src="images/uploads/2018/12/IMG_20181227_100718.jpg?resize=3968%2C2976&#038;ssl=1" alt="タラナキ山の赤いポール" width="3968" height="2976" class="size-full wp-image-1455" srcset="images/uploads/2018/12/IMG_20181227_100718.jpg?w=3968&ssl=1 3968w, images/uploads/2018/12/IMG_20181227_100718.jpg?resize=300%2C225&ssl=1 300w, images/uploads/2018/12/IMG_20181227_100718.jpg?resize=768%2C576&ssl=1 768w, images/uploads/2018/12/IMG_20181227_100718.jpg?resize=1024%2C768&ssl=1 1024w, images/uploads/2018/12/IMG_20181227_100718.jpg?resize=285%2C214&ssl=1 285w, images/uploads/2018/12/IMG_20181227_100718.jpg?resize=282%2C212&ssl=1 282w, images/uploads/2018/12/IMG_20181227_100718.jpg?w=2000&ssl=1 2000w, images/uploads/2018/12/IMG_20181227_100718.jpg?w=3000&ssl=1 3000w" sizes="(max-width: 1000px) 100vw, 1000px" data-recalc-dims="1" /></a>
 
   <p class="wp-caption-text">
     タラナキ山の赤いポール
@@ -269,7 +269,7 @@ tags:
 
 ## <span id="i-4">実際にタラナキ山を登ってきました</span>
 
-[<img src="https://i0.wp.com/hirotatsu.me/wp-content/uploads/2018/12/IMG_20181227_083637.jpg?resize=3264%2C2448&#038;ssl=1" alt="実際にタラナキ山に登って来ました" width="3264" height="2448" class="size-full wp-image-1456" srcset="https://i0.wp.com/hirotatsu.me/wp-content/uploads/2018/12/IMG_20181227_083637.jpg?w=3264&ssl=1 3264w, https://i0.wp.com/hirotatsu.me/wp-content/uploads/2018/12/IMG_20181227_083637.jpg?resize=300%2C225&ssl=1 300w, https://i0.wp.com/hirotatsu.me/wp-content/uploads/2018/12/IMG_20181227_083637.jpg?resize=768%2C576&ssl=1 768w, https://i0.wp.com/hirotatsu.me/wp-content/uploads/2018/12/IMG_20181227_083637.jpg?resize=1024%2C768&ssl=1 1024w, https://i0.wp.com/hirotatsu.me/wp-content/uploads/2018/12/IMG_20181227_083637.jpg?resize=285%2C214&ssl=1 285w, https://i0.wp.com/hirotatsu.me/wp-content/uploads/2018/12/IMG_20181227_083637.jpg?resize=282%2C212&ssl=1 282w, https://i0.wp.com/hirotatsu.me/wp-content/uploads/2018/12/IMG_20181227_083637.jpg?w=2000&ssl=1 2000w, https://i0.wp.com/hirotatsu.me/wp-content/uploads/2018/12/IMG_20181227_083637.jpg?w=3000&ssl=1 3000w" sizes="(max-width: 1000px) 100vw, 1000px" data-recalc-dims="1" />][3]
+[<img src="images/uploads/2018/12/IMG_20181227_083637.jpg?resize=3264%2C2448&#038;ssl=1" alt="実際にタラナキ山に登って来ました" width="3264" height="2448" class="size-full wp-image-1456" srcset="images/uploads/2018/12/IMG_20181227_083637.jpg?w=3264&ssl=1 3264w, images/uploads/2018/12/IMG_20181227_083637.jpg?resize=300%2C225&ssl=1 300w, images/uploads/2018/12/IMG_20181227_083637.jpg?resize=768%2C576&ssl=1 768w, images/uploads/2018/12/IMG_20181227_083637.jpg?resize=1024%2C768&ssl=1 1024w, images/uploads/2018/12/IMG_20181227_083637.jpg?resize=285%2C214&ssl=1 285w, images/uploads/2018/12/IMG_20181227_083637.jpg?resize=282%2C212&ssl=1 282w, images/uploads/2018/12/IMG_20181227_083637.jpg?w=2000&ssl=1 2000w, images/uploads/2018/12/IMG_20181227_083637.jpg?w=3000&ssl=1 3000w" sizes="(max-width: 1000px) 100vw, 1000px" data-recalc-dims="1" />][3]
 
 最後に、実際にこの記事を書いている僕がタラナキ山に登ってきたので、その体験記をシェアします。
 
@@ -289,7 +289,7 @@ tags:
 
 ホストに車で連れて行ってもらいました。
 
-[<img src="https://i0.wp.com/hirotatsu.me/wp-content/uploads/2018/12/IMG_20181227_083317.jpg?resize=3968%2C2976&#038;ssl=1" alt="タラナキ山のインフォメーションセンター" width="3968" height="2976" class="size-full wp-image-1465" srcset="https://i0.wp.com/hirotatsu.me/wp-content/uploads/2018/12/IMG_20181227_083317.jpg?w=3968&ssl=1 3968w, https://i0.wp.com/hirotatsu.me/wp-content/uploads/2018/12/IMG_20181227_083317.jpg?resize=300%2C225&ssl=1 300w, https://i0.wp.com/hirotatsu.me/wp-content/uploads/2018/12/IMG_20181227_083317.jpg?resize=768%2C576&ssl=1 768w, https://i0.wp.com/hirotatsu.me/wp-content/uploads/2018/12/IMG_20181227_083317.jpg?resize=1024%2C768&ssl=1 1024w, https://i0.wp.com/hirotatsu.me/wp-content/uploads/2018/12/IMG_20181227_083317.jpg?resize=285%2C214&ssl=1 285w, https://i0.wp.com/hirotatsu.me/wp-content/uploads/2018/12/IMG_20181227_083317.jpg?resize=282%2C212&ssl=1 282w, https://i0.wp.com/hirotatsu.me/wp-content/uploads/2018/12/IMG_20181227_083317.jpg?w=2000&ssl=1 2000w, https://i0.wp.com/hirotatsu.me/wp-content/uploads/2018/12/IMG_20181227_083317.jpg?w=3000&ssl=1 3000w" sizes="(max-width: 1000px) 100vw, 1000px" data-recalc-dims="1" />][4]
+[<img src="images/uploads/2018/12/IMG_20181227_083317.jpg?resize=3968%2C2976&#038;ssl=1" alt="タラナキ山のインフォメーションセンター" width="3968" height="2976" class="size-full wp-image-1465" srcset="images/uploads/2018/12/IMG_20181227_083317.jpg?w=3968&ssl=1 3968w, images/uploads/2018/12/IMG_20181227_083317.jpg?resize=300%2C225&ssl=1 300w, images/uploads/2018/12/IMG_20181227_083317.jpg?resize=768%2C576&ssl=1 768w, images/uploads/2018/12/IMG_20181227_083317.jpg?resize=1024%2C768&ssl=1 1024w, images/uploads/2018/12/IMG_20181227_083317.jpg?resize=285%2C214&ssl=1 285w, images/uploads/2018/12/IMG_20181227_083317.jpg?resize=282%2C212&ssl=1 282w, images/uploads/2018/12/IMG_20181227_083317.jpg?w=2000&ssl=1 2000w, images/uploads/2018/12/IMG_20181227_083317.jpg?w=3000&ssl=1 3000w" sizes="(max-width: 1000px) 100vw, 1000px" data-recalc-dims="1" />][4]
 
 インフォメーションセンターに着くと、早速「今から登ります！」というサインを済ませて、レッツゴー！
 
@@ -303,13 +303,13 @@ tags:
 
 まず最初の登山道は、車でも行けるようにきれいになっていました。
 
-[<img src="https://i2.wp.com/hirotatsu.me/wp-content/uploads/2018/12/IMG_20181227_093625.jpg?resize=3968%2C2976&#038;ssl=1" alt="インフォメーションセンターから山小屋までの道" width="3968" height="2976" class="size-full wp-image-1459" srcset="https://i2.wp.com/hirotatsu.me/wp-content/uploads/2018/12/IMG_20181227_093625.jpg?w=3968&ssl=1 3968w, https://i2.wp.com/hirotatsu.me/wp-content/uploads/2018/12/IMG_20181227_093625.jpg?resize=300%2C225&ssl=1 300w, https://i2.wp.com/hirotatsu.me/wp-content/uploads/2018/12/IMG_20181227_093625.jpg?resize=768%2C576&ssl=1 768w, https://i2.wp.com/hirotatsu.me/wp-content/uploads/2018/12/IMG_20181227_093625.jpg?resize=1024%2C768&ssl=1 1024w, https://i2.wp.com/hirotatsu.me/wp-content/uploads/2018/12/IMG_20181227_093625.jpg?resize=285%2C214&ssl=1 285w, https://i2.wp.com/hirotatsu.me/wp-content/uploads/2018/12/IMG_20181227_093625.jpg?resize=282%2C212&ssl=1 282w, https://i2.wp.com/hirotatsu.me/wp-content/uploads/2018/12/IMG_20181227_093625.jpg?w=2000&ssl=1 2000w, https://i2.wp.com/hirotatsu.me/wp-content/uploads/2018/12/IMG_20181227_093625.jpg?w=3000&ssl=1 3000w" sizes="(max-width: 1000px) 100vw, 1000px" data-recalc-dims="1" />][5]
+[<img src="images/uploads/2018/12/IMG_20181227_093625.jpg?resize=3968%2C2976&#038;ssl=1" alt="インフォメーションセンターから山小屋までの道" width="3968" height="2976" class="size-full wp-image-1459" srcset="images/uploads/2018/12/IMG_20181227_093625.jpg?w=3968&ssl=1 3968w, images/uploads/2018/12/IMG_20181227_093625.jpg?resize=300%2C225&ssl=1 300w, images/uploads/2018/12/IMG_20181227_093625.jpg?resize=768%2C576&ssl=1 768w, images/uploads/2018/12/IMG_20181227_093625.jpg?resize=1024%2C768&ssl=1 1024w, images/uploads/2018/12/IMG_20181227_093625.jpg?resize=285%2C214&ssl=1 285w, images/uploads/2018/12/IMG_20181227_093625.jpg?resize=282%2C212&ssl=1 282w, images/uploads/2018/12/IMG_20181227_093625.jpg?w=2000&ssl=1 2000w, images/uploads/2018/12/IMG_20181227_093625.jpg?w=3000&ssl=1 3000w" sizes="(max-width: 1000px) 100vw, 1000px" data-recalc-dims="1" />][5]
 
 そして、歩いていると山小屋が見えてきます。
 
 山小屋には何人かの人が休憩していました。
 
-[<img src="https://i2.wp.com/hirotatsu.me/wp-content/uploads/2018/12/IMG_20181227_095823_1.jpg?resize=3968%2C2976&#038;ssl=1" alt="タラナキ山の山小屋" width="3968" height="2976" class="size-full wp-image-1462" srcset="https://i2.wp.com/hirotatsu.me/wp-content/uploads/2018/12/IMG_20181227_095823_1.jpg?w=3968&ssl=1 3968w, https://i2.wp.com/hirotatsu.me/wp-content/uploads/2018/12/IMG_20181227_095823_1.jpg?resize=300%2C225&ssl=1 300w, https://i2.wp.com/hirotatsu.me/wp-content/uploads/2018/12/IMG_20181227_095823_1.jpg?resize=768%2C576&ssl=1 768w, https://i2.wp.com/hirotatsu.me/wp-content/uploads/2018/12/IMG_20181227_095823_1.jpg?resize=1024%2C768&ssl=1 1024w, https://i2.wp.com/hirotatsu.me/wp-content/uploads/2018/12/IMG_20181227_095823_1.jpg?resize=285%2C214&ssl=1 285w, https://i2.wp.com/hirotatsu.me/wp-content/uploads/2018/12/IMG_20181227_095823_1.jpg?resize=282%2C212&ssl=1 282w, https://i2.wp.com/hirotatsu.me/wp-content/uploads/2018/12/IMG_20181227_095823_1.jpg?w=2000&ssl=1 2000w, https://i2.wp.com/hirotatsu.me/wp-content/uploads/2018/12/IMG_20181227_095823_1.jpg?w=3000&ssl=1 3000w" sizes="(max-width: 1000px) 100vw, 1000px" data-recalc-dims="1" />][6]
+[<img src="images/uploads/2018/12/IMG_20181227_095823_1.jpg?resize=3968%2C2976&#038;ssl=1" alt="タラナキ山の山小屋" width="3968" height="2976" class="size-full wp-image-1462" srcset="images/uploads/2018/12/IMG_20181227_095823_1.jpg?w=3968&ssl=1 3968w, images/uploads/2018/12/IMG_20181227_095823_1.jpg?resize=300%2C225&ssl=1 300w, images/uploads/2018/12/IMG_20181227_095823_1.jpg?resize=768%2C576&ssl=1 768w, images/uploads/2018/12/IMG_20181227_095823_1.jpg?resize=1024%2C768&ssl=1 1024w, images/uploads/2018/12/IMG_20181227_095823_1.jpg?resize=285%2C214&ssl=1 285w, images/uploads/2018/12/IMG_20181227_095823_1.jpg?resize=282%2C212&ssl=1 282w, images/uploads/2018/12/IMG_20181227_095823_1.jpg?w=2000&ssl=1 2000w, images/uploads/2018/12/IMG_20181227_095823_1.jpg?w=3000&ssl=1 3000w" sizes="(max-width: 1000px) 100vw, 1000px" data-recalc-dims="1" />][6]
 
 山小屋を過ぎると、整備された階段道があります。
 
@@ -319,7 +319,7 @@ tags:
 
 風も少し冷たくなってきました。
 
-[<img src="https://i0.wp.com/hirotatsu.me/wp-content/uploads/2018/12/IMG_20181227_101923_1.jpg?resize=3968%2C2976&#038;ssl=1" alt="登山道の横には雪が" width="3968" height="2976" class="size-full wp-image-1460" srcset="https://i0.wp.com/hirotatsu.me/wp-content/uploads/2018/12/IMG_20181227_101923_1.jpg?w=3968&ssl=1 3968w, https://i0.wp.com/hirotatsu.me/wp-content/uploads/2018/12/IMG_20181227_101923_1.jpg?resize=300%2C225&ssl=1 300w, https://i0.wp.com/hirotatsu.me/wp-content/uploads/2018/12/IMG_20181227_101923_1.jpg?resize=768%2C576&ssl=1 768w, https://i0.wp.com/hirotatsu.me/wp-content/uploads/2018/12/IMG_20181227_101923_1.jpg?resize=1024%2C768&ssl=1 1024w, https://i0.wp.com/hirotatsu.me/wp-content/uploads/2018/12/IMG_20181227_101923_1.jpg?resize=285%2C214&ssl=1 285w, https://i0.wp.com/hirotatsu.me/wp-content/uploads/2018/12/IMG_20181227_101923_1.jpg?resize=282%2C212&ssl=1 282w, https://i0.wp.com/hirotatsu.me/wp-content/uploads/2018/12/IMG_20181227_101923_1.jpg?w=2000&ssl=1 2000w, https://i0.wp.com/hirotatsu.me/wp-content/uploads/2018/12/IMG_20181227_101923_1.jpg?w=3000&ssl=1 3000w" sizes="(max-width: 1000px) 100vw, 1000px" data-recalc-dims="1" />][7]
+[<img src="images/uploads/2018/12/IMG_20181227_101923_1.jpg?resize=3968%2C2976&#038;ssl=1" alt="登山道の横には雪が" width="3968" height="2976" class="size-full wp-image-1460" srcset="images/uploads/2018/12/IMG_20181227_101923_1.jpg?w=3968&ssl=1 3968w, images/uploads/2018/12/IMG_20181227_101923_1.jpg?resize=300%2C225&ssl=1 300w, images/uploads/2018/12/IMG_20181227_101923_1.jpg?resize=768%2C576&ssl=1 768w, images/uploads/2018/12/IMG_20181227_101923_1.jpg?resize=1024%2C768&ssl=1 1024w, images/uploads/2018/12/IMG_20181227_101923_1.jpg?resize=285%2C214&ssl=1 285w, images/uploads/2018/12/IMG_20181227_101923_1.jpg?resize=282%2C212&ssl=1 282w, images/uploads/2018/12/IMG_20181227_101923_1.jpg?w=2000&ssl=1 2000w, images/uploads/2018/12/IMG_20181227_101923_1.jpg?w=3000&ssl=1 3000w" sizes="(max-width: 1000px) 100vw, 1000px" data-recalc-dims="1" />][7]
 
 ここでウィンドブレーカーを持っている人は着たほうがいいかもしれません。
 
@@ -329,7 +329,7 @@ tags:
 
 ここが一番の難所。
 
-[<img src="https://i0.wp.com/hirotatsu.me/wp-content/uploads/2018/12/IMG_20181227_111118.jpg?resize=3968%2C2976&#038;ssl=1" alt="3歩進んで2歩下がるゾーン" width="3968" height="2976" class="size-full wp-image-1466" srcset="https://i0.wp.com/hirotatsu.me/wp-content/uploads/2018/12/IMG_20181227_111118.jpg?w=3968&ssl=1 3968w, https://i0.wp.com/hirotatsu.me/wp-content/uploads/2018/12/IMG_20181227_111118.jpg?resize=300%2C225&ssl=1 300w, https://i0.wp.com/hirotatsu.me/wp-content/uploads/2018/12/IMG_20181227_111118.jpg?resize=768%2C576&ssl=1 768w, https://i0.wp.com/hirotatsu.me/wp-content/uploads/2018/12/IMG_20181227_111118.jpg?resize=1024%2C768&ssl=1 1024w, https://i0.wp.com/hirotatsu.me/wp-content/uploads/2018/12/IMG_20181227_111118.jpg?resize=285%2C214&ssl=1 285w, https://i0.wp.com/hirotatsu.me/wp-content/uploads/2018/12/IMG_20181227_111118.jpg?resize=282%2C212&ssl=1 282w, https://i0.wp.com/hirotatsu.me/wp-content/uploads/2018/12/IMG_20181227_111118.jpg?w=2000&ssl=1 2000w, https://i0.wp.com/hirotatsu.me/wp-content/uploads/2018/12/IMG_20181227_111118.jpg?w=3000&ssl=1 3000w" sizes="(max-width: 1000px) 100vw, 1000px" data-recalc-dims="1" />][8]
+[<img src="images/uploads/2018/12/IMG_20181227_111118.jpg?resize=3968%2C2976&#038;ssl=1" alt="3歩進んで2歩下がるゾーン" width="3968" height="2976" class="size-full wp-image-1466" srcset="images/uploads/2018/12/IMG_20181227_111118.jpg?w=3968&ssl=1 3968w, images/uploads/2018/12/IMG_20181227_111118.jpg?resize=300%2C225&ssl=1 300w, images/uploads/2018/12/IMG_20181227_111118.jpg?resize=768%2C576&ssl=1 768w, images/uploads/2018/12/IMG_20181227_111118.jpg?resize=1024%2C768&ssl=1 1024w, images/uploads/2018/12/IMG_20181227_111118.jpg?resize=285%2C214&ssl=1 285w, images/uploads/2018/12/IMG_20181227_111118.jpg?resize=282%2C212&ssl=1 282w, images/uploads/2018/12/IMG_20181227_111118.jpg?w=2000&ssl=1 2000w, images/uploads/2018/12/IMG_20181227_111118.jpg?w=3000&ssl=1 3000w" sizes="(max-width: 1000px) 100vw, 1000px" data-recalc-dims="1" />][8]
 
 自分にムチを打ってう前に進んでいきます。
 
@@ -345,7 +345,7 @@ tags:
 
 ここは、ただ登るだけ！
 
-[<img src="https://i0.wp.com/hirotatsu.me/wp-content/uploads/2018/12/IMG_20181227_112634.jpg?resize=3968%2C2976&#038;ssl=1" alt="岩場ゾーン" width="3968" height="2976" class="size-full wp-image-1458" srcset="https://i0.wp.com/hirotatsu.me/wp-content/uploads/2018/12/IMG_20181227_112634.jpg?w=3968&ssl=1 3968w, https://i0.wp.com/hirotatsu.me/wp-content/uploads/2018/12/IMG_20181227_112634.jpg?resize=300%2C225&ssl=1 300w, https://i0.wp.com/hirotatsu.me/wp-content/uploads/2018/12/IMG_20181227_112634.jpg?resize=768%2C576&ssl=1 768w, https://i0.wp.com/hirotatsu.me/wp-content/uploads/2018/12/IMG_20181227_112634.jpg?resize=1024%2C768&ssl=1 1024w, https://i0.wp.com/hirotatsu.me/wp-content/uploads/2018/12/IMG_20181227_112634.jpg?resize=285%2C214&ssl=1 285w, https://i0.wp.com/hirotatsu.me/wp-content/uploads/2018/12/IMG_20181227_112634.jpg?resize=282%2C212&ssl=1 282w, https://i0.wp.com/hirotatsu.me/wp-content/uploads/2018/12/IMG_20181227_112634.jpg?w=2000&ssl=1 2000w, https://i0.wp.com/hirotatsu.me/wp-content/uploads/2018/12/IMG_20181227_112634.jpg?w=3000&ssl=1 3000w" sizes="(max-width: 1000px) 100vw, 1000px" data-recalc-dims="1" />][9]
+[<img src="images/uploads/2018/12/IMG_20181227_112634.jpg?resize=3968%2C2976&#038;ssl=1" alt="岩場ゾーン" width="3968" height="2976" class="size-full wp-image-1458" srcset="images/uploads/2018/12/IMG_20181227_112634.jpg?w=3968&ssl=1 3968w, images/uploads/2018/12/IMG_20181227_112634.jpg?resize=300%2C225&ssl=1 300w, images/uploads/2018/12/IMG_20181227_112634.jpg?resize=768%2C576&ssl=1 768w, images/uploads/2018/12/IMG_20181227_112634.jpg?resize=1024%2C768&ssl=1 1024w, images/uploads/2018/12/IMG_20181227_112634.jpg?resize=285%2C214&ssl=1 285w, images/uploads/2018/12/IMG_20181227_112634.jpg?resize=282%2C212&ssl=1 282w, images/uploads/2018/12/IMG_20181227_112634.jpg?w=2000&ssl=1 2000w, images/uploads/2018/12/IMG_20181227_112634.jpg?w=3000&ssl=1 3000w" sizes="(max-width: 1000px) 100vw, 1000px" data-recalc-dims="1" />][9]
 
 このあたりはらくだと思います。（最大の難所は超えているので）
 
@@ -365,7 +365,7 @@ tags:
 
 タラナキ山の頂上に到着！！！！
 
-[<img src="https://i1.wp.com/hirotatsu.me/wp-content/uploads/2018/12/IMG_20181227_123501.jpg?resize=3264%2C2448&#038;ssl=1" alt="タラナキ山登頂" width="3264" height="2448" class="size-full wp-image-1453" srcset="https://i1.wp.com/hirotatsu.me/wp-content/uploads/2018/12/IMG_20181227_123501.jpg?w=3264&ssl=1 3264w, https://i1.wp.com/hirotatsu.me/wp-content/uploads/2018/12/IMG_20181227_123501.jpg?resize=300%2C225&ssl=1 300w, https://i1.wp.com/hirotatsu.me/wp-content/uploads/2018/12/IMG_20181227_123501.jpg?resize=768%2C576&ssl=1 768w, https://i1.wp.com/hirotatsu.me/wp-content/uploads/2018/12/IMG_20181227_123501.jpg?resize=1024%2C768&ssl=1 1024w, https://i1.wp.com/hirotatsu.me/wp-content/uploads/2018/12/IMG_20181227_123501.jpg?resize=285%2C214&ssl=1 285w, https://i1.wp.com/hirotatsu.me/wp-content/uploads/2018/12/IMG_20181227_123501.jpg?resize=282%2C212&ssl=1 282w, https://i1.wp.com/hirotatsu.me/wp-content/uploads/2018/12/IMG_20181227_123501.jpg?w=2000&ssl=1 2000w, https://i1.wp.com/hirotatsu.me/wp-content/uploads/2018/12/IMG_20181227_123501.jpg?w=3000&ssl=1 3000w" sizes="(max-width: 1000px) 100vw, 1000px" data-recalc-dims="1" />][10]
+[<img src="images/uploads/2018/12/IMG_20181227_123501.jpg?resize=3264%2C2448&#038;ssl=1" alt="タラナキ山登頂" width="3264" height="2448" class="size-full wp-image-1453" srcset="images/uploads/2018/12/IMG_20181227_123501.jpg?w=3264&ssl=1 3264w, images/uploads/2018/12/IMG_20181227_123501.jpg?resize=300%2C225&ssl=1 300w, images/uploads/2018/12/IMG_20181227_123501.jpg?resize=768%2C576&ssl=1 768w, images/uploads/2018/12/IMG_20181227_123501.jpg?resize=1024%2C768&ssl=1 1024w, images/uploads/2018/12/IMG_20181227_123501.jpg?resize=285%2C214&ssl=1 285w, images/uploads/2018/12/IMG_20181227_123501.jpg?resize=282%2C212&ssl=1 282w, images/uploads/2018/12/IMG_20181227_123501.jpg?w=2000&ssl=1 2000w, images/uploads/2018/12/IMG_20181227_123501.jpg?w=3000&ssl=1 3000w" sizes="(max-width: 1000px) 100vw, 1000px" data-recalc-dims="1" />][10]
 
 あたり一面雪景色で、「本当に夏？？」と感じられます。
 
@@ -403,7 +403,7 @@ tags:
 
 山小屋からもと来た道を歩いて戻ります。
 
-[<img src="https://i2.wp.com/hirotatsu.me/wp-content/uploads/2018/12/IMG_20181227_085431.jpg?resize=3968%2C2976&#038;ssl=1" alt="自然が豊かな登山道" width="3968" height="2976" class="size-full wp-image-1454" srcset="https://i2.wp.com/hirotatsu.me/wp-content/uploads/2018/12/IMG_20181227_085431.jpg?w=3968&ssl=1 3968w, https://i2.wp.com/hirotatsu.me/wp-content/uploads/2018/12/IMG_20181227_085431.jpg?resize=300%2C225&ssl=1 300w, https://i2.wp.com/hirotatsu.me/wp-content/uploads/2018/12/IMG_20181227_085431.jpg?resize=768%2C576&ssl=1 768w, https://i2.wp.com/hirotatsu.me/wp-content/uploads/2018/12/IMG_20181227_085431.jpg?resize=1024%2C768&ssl=1 1024w, https://i2.wp.com/hirotatsu.me/wp-content/uploads/2018/12/IMG_20181227_085431.jpg?resize=285%2C214&ssl=1 285w, https://i2.wp.com/hirotatsu.me/wp-content/uploads/2018/12/IMG_20181227_085431.jpg?resize=282%2C212&ssl=1 282w, https://i2.wp.com/hirotatsu.me/wp-content/uploads/2018/12/IMG_20181227_085431.jpg?w=2000&ssl=1 2000w, https://i2.wp.com/hirotatsu.me/wp-content/uploads/2018/12/IMG_20181227_085431.jpg?w=3000&ssl=1 3000w" sizes="(max-width: 1000px) 100vw, 1000px" data-recalc-dims="1" />][11]
+[<img src="images/uploads/2018/12/IMG_20181227_085431.jpg?resize=3968%2C2976&#038;ssl=1" alt="自然が豊かな登山道" width="3968" height="2976" class="size-full wp-image-1454" srcset="images/uploads/2018/12/IMG_20181227_085431.jpg?w=3968&ssl=1 3968w, images/uploads/2018/12/IMG_20181227_085431.jpg?resize=300%2C225&ssl=1 300w, images/uploads/2018/12/IMG_20181227_085431.jpg?resize=768%2C576&ssl=1 768w, images/uploads/2018/12/IMG_20181227_085431.jpg?resize=1024%2C768&ssl=1 1024w, images/uploads/2018/12/IMG_20181227_085431.jpg?resize=285%2C214&ssl=1 285w, images/uploads/2018/12/IMG_20181227_085431.jpg?resize=282%2C212&ssl=1 282w, images/uploads/2018/12/IMG_20181227_085431.jpg?w=2000&ssl=1 2000w, images/uploads/2018/12/IMG_20181227_085431.jpg?w=3000&ssl=1 3000w" sizes="(max-width: 1000px) 100vw, 1000px" data-recalc-dims="1" />][11]
 
 そして、インフォメーションセンター到着！！！
 
@@ -446,14 +446,14 @@ tags:
 <div style="font-size: 0px; height: 0px; line-height: 0px; margin: 0; padding: 0; clear: both;">
 </div>
 
- [1]: https://i1.wp.com/hirotatsu.me/wp-content/uploads/2018/12/IMG_20181227_081102.jpg?ssl=1
- [2]: https://i2.wp.com/hirotatsu.me/wp-content/uploads/2018/12/IMG_20181227_084234.jpg?ssl=1
- [3]: https://i0.wp.com/hirotatsu.me/wp-content/uploads/2018/12/IMG_20181227_083637.jpg?ssl=1
- [4]: https://i0.wp.com/hirotatsu.me/wp-content/uploads/2018/12/IMG_20181227_083317.jpg?ssl=1
- [5]: https://i2.wp.com/hirotatsu.me/wp-content/uploads/2018/12/IMG_20181227_093625.jpg?ssl=1
- [6]: https://i2.wp.com/hirotatsu.me/wp-content/uploads/2018/12/IMG_20181227_095823_1.jpg?ssl=1
- [7]: https://i0.wp.com/hirotatsu.me/wp-content/uploads/2018/12/IMG_20181227_101923_1.jpg?ssl=1
- [8]: https://i0.wp.com/hirotatsu.me/wp-content/uploads/2018/12/IMG_20181227_111118.jpg?ssl=1
- [9]: https://i0.wp.com/hirotatsu.me/wp-content/uploads/2018/12/IMG_20181227_112634.jpg?ssl=1
- [10]: https://i1.wp.com/hirotatsu.me/wp-content/uploads/2018/12/IMG_20181227_123501.jpg?ssl=1
- [11]: https://i2.wp.com/hirotatsu.me/wp-content/uploads/2018/12/IMG_20181227_085431.jpg?ssl=1
+ [1]: images/uploads/2018/12/IMG_20181227_081102.jpg?ssl=1
+ [2]: images/uploads/2018/12/IMG_20181227_084234.jpg?ssl=1
+ [3]: images/uploads/2018/12/IMG_20181227_083637.jpg?ssl=1
+ [4]: images/uploads/2018/12/IMG_20181227_083317.jpg?ssl=1
+ [5]: images/uploads/2018/12/IMG_20181227_093625.jpg?ssl=1
+ [6]: images/uploads/2018/12/IMG_20181227_095823_1.jpg?ssl=1
+ [7]: images/uploads/2018/12/IMG_20181227_101923_1.jpg?ssl=1
+ [8]: images/uploads/2018/12/IMG_20181227_111118.jpg?ssl=1
+ [9]: images/uploads/2018/12/IMG_20181227_112634.jpg?ssl=1
+ [10]: images/uploads/2018/12/IMG_20181227_123501.jpg?ssl=1
+ [11]: images/uploads/2018/12/IMG_20181227_085431.jpg?ssl=1

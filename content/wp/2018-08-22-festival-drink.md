@@ -4,7 +4,7 @@ author: ひろたつ
 type: post
 date: 2018-08-22T11:52:51+00:00
 url: /festival-drink/
-thumbnail: 'https://i2.wp.com/hirotatsu.me/wp-content/uploads/2018/08/2d451fba165e5d40439285054ac5751e.png?fit=304%2C171&ssl=1'
+thumbnail: 'images/uploads/2018/08/2d451fba165e5d40439285054ac5751e.png?fit=304%2C171&ssl=1'
 views:
   - 135
 bzb_meta_keywords:

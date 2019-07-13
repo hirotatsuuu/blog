@@ -4,7 +4,7 @@ author: ひろたつ
 type: post
 date: 2018-10-12T07:23:10+00:00
 url: /newzealand-4/
-thumbnail: 'https://i2.wp.com/hirotatsu.me/wp-content/uploads/2018/10/IMG_20181012_105001.jpg?fit=285%2C214&ssl=1'
+thumbnail: 'images/uploads/2018/10/IMG_20181012_105001.jpg?fit=285%2C214&ssl=1'
 bzb_meta_keywords:
   - ホームステイ
 bzb_meta_robots:
@@ -139,7 +139,7 @@ tags:
 隣人のクリスともさようならをして、、
 
 <div id="attachment_673" style="width: 3274px" class="wp-caption aligncenter">
-  <img src="https://i1.wp.com/hirotatsu.me/wp-content/uploads/2018/10/IMG_20181012_092911.jpg?resize=3264%2C2448&#038;ssl=1" alt="隣人のクリスさん" width="3264" height="2448" class="size-full wp-image-673" srcset="https://i1.wp.com/hirotatsu.me/wp-content/uploads/2018/10/IMG_20181012_092911.jpg?w=3264&ssl=1 3264w, https://i1.wp.com/hirotatsu.me/wp-content/uploads/2018/10/IMG_20181012_092911.jpg?resize=300%2C225&ssl=1 300w, https://i1.wp.com/hirotatsu.me/wp-content/uploads/2018/10/IMG_20181012_092911.jpg?resize=768%2C576&ssl=1 768w, https://i1.wp.com/hirotatsu.me/wp-content/uploads/2018/10/IMG_20181012_092911.jpg?resize=1024%2C768&ssl=1 1024w, https://i1.wp.com/hirotatsu.me/wp-content/uploads/2018/10/IMG_20181012_092911.jpg?resize=285%2C214&ssl=1 285w, https://i1.wp.com/hirotatsu.me/wp-content/uploads/2018/10/IMG_20181012_092911.jpg?resize=282%2C212&ssl=1 282w, https://i1.wp.com/hirotatsu.me/wp-content/uploads/2018/10/IMG_20181012_092911.jpg?w=2000&ssl=1 2000w, https://i1.wp.com/hirotatsu.me/wp-content/uploads/2018/10/IMG_20181012_092911.jpg?w=3000&ssl=1 3000w" sizes="(max-width: 1000px) 100vw, 1000px" data-recalc-dims="1" />
+  <img src="images/uploads/2018/10/IMG_20181012_092911.jpg?resize=3264%2C2448&#038;ssl=1" alt="隣人のクリスさん" width="3264" height="2448" class="size-full wp-image-673" srcset="images/uploads/2018/10/IMG_20181012_092911.jpg?w=3264&ssl=1 3264w, images/uploads/2018/10/IMG_20181012_092911.jpg?resize=300%2C225&ssl=1 300w, images/uploads/2018/10/IMG_20181012_092911.jpg?resize=768%2C576&ssl=1 768w, images/uploads/2018/10/IMG_20181012_092911.jpg?resize=1024%2C768&ssl=1 1024w, images/uploads/2018/10/IMG_20181012_092911.jpg?resize=285%2C214&ssl=1 285w, images/uploads/2018/10/IMG_20181012_092911.jpg?resize=282%2C212&ssl=1 282w, images/uploads/2018/10/IMG_20181012_092911.jpg?w=2000&ssl=1 2000w, images/uploads/2018/10/IMG_20181012_092911.jpg?w=3000&ssl=1 3000w" sizes="(max-width: 1000px) 100vw, 1000px" data-recalc-dims="1" />
   
   <p class="wp-caption-text">
     隣人のクリスさん
@@ -159,7 +159,7 @@ tags:
 僕の今後の人生の参考にさせていただきます！（一部だけｗ）
 
 <div id="attachment_674" style="width: 3274px" class="wp-caption aligncenter">
-  <img src="https://i1.wp.com/hirotatsu.me/wp-content/uploads/2018/10/IMG_20181012_104950.jpg?resize=3264%2C2448&#038;ssl=1" alt="ホストのロバートさん" width="3264" height="2448" class="size-full wp-image-674" srcset="https://i1.wp.com/hirotatsu.me/wp-content/uploads/2018/10/IMG_20181012_104950.jpg?w=3264&ssl=1 3264w, https://i1.wp.com/hirotatsu.me/wp-content/uploads/2018/10/IMG_20181012_104950.jpg?resize=300%2C225&ssl=1 300w, https://i1.wp.com/hirotatsu.me/wp-content/uploads/2018/10/IMG_20181012_104950.jpg?resize=768%2C576&ssl=1 768w, https://i1.wp.com/hirotatsu.me/wp-content/uploads/2018/10/IMG_20181012_104950.jpg?resize=1024%2C768&ssl=1 1024w, https://i1.wp.com/hirotatsu.me/wp-content/uploads/2018/10/IMG_20181012_104950.jpg?resize=285%2C214&ssl=1 285w, https://i1.wp.com/hirotatsu.me/wp-content/uploads/2018/10/IMG_20181012_104950.jpg?resize=282%2C212&ssl=1 282w, https://i1.wp.com/hirotatsu.me/wp-content/uploads/2018/10/IMG_20181012_104950.jpg?w=2000&ssl=1 2000w, https://i1.wp.com/hirotatsu.me/wp-content/uploads/2018/10/IMG_20181012_104950.jpg?w=3000&ssl=1 3000w" sizes="(max-width: 1000px) 100vw, 1000px" data-recalc-dims="1" />
+  <img src="images/uploads/2018/10/IMG_20181012_104950.jpg?resize=3264%2C2448&#038;ssl=1" alt="ホストのロバートさん" width="3264" height="2448" class="size-full wp-image-674" srcset="images/uploads/2018/10/IMG_20181012_104950.jpg?w=3264&ssl=1 3264w, images/uploads/2018/10/IMG_20181012_104950.jpg?resize=300%2C225&ssl=1 300w, images/uploads/2018/10/IMG_20181012_104950.jpg?resize=768%2C576&ssl=1 768w, images/uploads/2018/10/IMG_20181012_104950.jpg?resize=1024%2C768&ssl=1 1024w, images/uploads/2018/10/IMG_20181012_104950.jpg?resize=285%2C214&ssl=1 285w, images/uploads/2018/10/IMG_20181012_104950.jpg?resize=282%2C212&ssl=1 282w, images/uploads/2018/10/IMG_20181012_104950.jpg?w=2000&ssl=1 2000w, images/uploads/2018/10/IMG_20181012_104950.jpg?w=3000&ssl=1 3000w" sizes="(max-width: 1000px) 100vw, 1000px" data-recalc-dims="1" />
   
   <p class="wp-caption-text">
     ホストのロバートさん

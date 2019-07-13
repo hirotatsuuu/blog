@@ -4,7 +4,7 @@ author: ひろたつ
 type: post
 date: 2018-10-17T08:07:53+00:00
 url: /newzealand-9/
-thumbnail: 'https://i0.wp.com/hirotatsu.me/wp-content/uploads/2018/10/VID_20181017_160702_pict.jpg?fit=304%2C171&ssl=1'
+thumbnail: 'images/uploads/2018/10/VID_20181017_160702_pict.jpg?fit=304%2C171&ssl=1'
 bzb_meta_keywords:
   - グレートバリア島
 bzb_meta_robots:
@@ -153,7 +153,7 @@ WWOOFの仕事として、鶏小屋の作成をしているので、そのお話
 楽しくはないけど、畑仕事してる感はある（笑）
 
 <div id="attachment_747" style="width: 3978px" class="wp-caption aligncenter">
-  <img src="https://i2.wp.com/hirotatsu.me/wp-content/uploads/2018/10/IMG_20181017_103333.jpg?resize=3968%2C2976&#038;ssl=1" alt="畑を耕しました" width="3968" height="2976" class="size-full wp-image-747" srcset="https://i2.wp.com/hirotatsu.me/wp-content/uploads/2018/10/IMG_20181017_103333.jpg?w=3968&ssl=1 3968w, https://i2.wp.com/hirotatsu.me/wp-content/uploads/2018/10/IMG_20181017_103333.jpg?resize=300%2C225&ssl=1 300w, https://i2.wp.com/hirotatsu.me/wp-content/uploads/2018/10/IMG_20181017_103333.jpg?resize=768%2C576&ssl=1 768w, https://i2.wp.com/hirotatsu.me/wp-content/uploads/2018/10/IMG_20181017_103333.jpg?resize=1024%2C768&ssl=1 1024w, https://i2.wp.com/hirotatsu.me/wp-content/uploads/2018/10/IMG_20181017_103333.jpg?resize=285%2C214&ssl=1 285w, https://i2.wp.com/hirotatsu.me/wp-content/uploads/2018/10/IMG_20181017_103333.jpg?resize=282%2C212&ssl=1 282w, https://i2.wp.com/hirotatsu.me/wp-content/uploads/2018/10/IMG_20181017_103333.jpg?w=2000&ssl=1 2000w, https://i2.wp.com/hirotatsu.me/wp-content/uploads/2018/10/IMG_20181017_103333.jpg?w=3000&ssl=1 3000w" sizes="(max-width: 1000px) 100vw, 1000px" data-recalc-dims="1" />
+  <img src="images/uploads/2018/10/IMG_20181017_103333.jpg?resize=3968%2C2976&#038;ssl=1" alt="畑を耕しました" width="3968" height="2976" class="size-full wp-image-747" srcset="images/uploads/2018/10/IMG_20181017_103333.jpg?w=3968&ssl=1 3968w, images/uploads/2018/10/IMG_20181017_103333.jpg?resize=300%2C225&ssl=1 300w, images/uploads/2018/10/IMG_20181017_103333.jpg?resize=768%2C576&ssl=1 768w, images/uploads/2018/10/IMG_20181017_103333.jpg?resize=1024%2C768&ssl=1 1024w, images/uploads/2018/10/IMG_20181017_103333.jpg?resize=285%2C214&ssl=1 285w, images/uploads/2018/10/IMG_20181017_103333.jpg?resize=282%2C212&ssl=1 282w, images/uploads/2018/10/IMG_20181017_103333.jpg?w=2000&ssl=1 2000w, images/uploads/2018/10/IMG_20181017_103333.jpg?w=3000&ssl=1 3000w" sizes="(max-width: 1000px) 100vw, 1000px" data-recalc-dims="1" />
   
   <p class="wp-caption-text">
     畑を耕しました
@@ -167,7 +167,7 @@ WWOOFの仕事として、鶏小屋の作成をしているので、そのお話
 鶏小屋の作成です。
 
 <div id="attachment_751" style="width: 3978px" class="wp-caption aligncenter">
-  <img src="https://i1.wp.com/hirotatsu.me/wp-content/uploads/2018/10/IMG_20181016_181340.jpg?resize=3968%2C2976&#038;ssl=1" alt="鶏小屋の作成途中" width="3968" height="2976" class="size-full wp-image-751" srcset="https://i1.wp.com/hirotatsu.me/wp-content/uploads/2018/10/IMG_20181016_181340.jpg?w=3968&ssl=1 3968w, https://i1.wp.com/hirotatsu.me/wp-content/uploads/2018/10/IMG_20181016_181340.jpg?resize=300%2C225&ssl=1 300w, https://i1.wp.com/hirotatsu.me/wp-content/uploads/2018/10/IMG_20181016_181340.jpg?resize=768%2C576&ssl=1 768w, https://i1.wp.com/hirotatsu.me/wp-content/uploads/2018/10/IMG_20181016_181340.jpg?resize=1024%2C768&ssl=1 1024w, https://i1.wp.com/hirotatsu.me/wp-content/uploads/2018/10/IMG_20181016_181340.jpg?resize=285%2C214&ssl=1 285w, https://i1.wp.com/hirotatsu.me/wp-content/uploads/2018/10/IMG_20181016_181340.jpg?resize=282%2C212&ssl=1 282w, https://i1.wp.com/hirotatsu.me/wp-content/uploads/2018/10/IMG_20181016_181340.jpg?w=2000&ssl=1 2000w, https://i1.wp.com/hirotatsu.me/wp-content/uploads/2018/10/IMG_20181016_181340.jpg?w=3000&ssl=1 3000w" sizes="(max-width: 1000px) 100vw, 1000px" data-recalc-dims="1" />
+  <img src="images/uploads/2018/10/IMG_20181016_181340.jpg?resize=3968%2C2976&#038;ssl=1" alt="鶏小屋の作成途中" width="3968" height="2976" class="size-full wp-image-751" srcset="images/uploads/2018/10/IMG_20181016_181340.jpg?w=3968&ssl=1 3968w, images/uploads/2018/10/IMG_20181016_181340.jpg?resize=300%2C225&ssl=1 300w, images/uploads/2018/10/IMG_20181016_181340.jpg?resize=768%2C576&ssl=1 768w, images/uploads/2018/10/IMG_20181016_181340.jpg?resize=1024%2C768&ssl=1 1024w, images/uploads/2018/10/IMG_20181016_181340.jpg?resize=285%2C214&ssl=1 285w, images/uploads/2018/10/IMG_20181016_181340.jpg?resize=282%2C212&ssl=1 282w, images/uploads/2018/10/IMG_20181016_181340.jpg?w=2000&ssl=1 2000w, images/uploads/2018/10/IMG_20181016_181340.jpg?w=3000&ssl=1 3000w" sizes="(max-width: 1000px) 100vw, 1000px" data-recalc-dims="1" />
   
   <p class="wp-caption-text">
     鶏小屋の作成途中
@@ -183,7 +183,7 @@ WWOOFの仕事として、鶏小屋の作成をしているので、そのお話
 
 
 <div id="attachment_700" style="width: 1034px" class="wp-caption aligncenter">
-  <img src="https://i2.wp.com/hirotatsu.me/wp-content/uploads/2018/10/IMG_20181014_220429_843.jpg?resize=1024%2C768&#038;ssl=1" alt="作った鶏小屋" width="1024" height="768" class="size-large wp-image-700" srcset="https://i2.wp.com/hirotatsu.me/wp-content/uploads/2018/10/IMG_20181014_220429_843.jpg?resize=1024%2C768&ssl=1 1024w, https://i2.wp.com/hirotatsu.me/wp-content/uploads/2018/10/IMG_20181014_220429_843.jpg?resize=300%2C225&ssl=1 300w, https://i2.wp.com/hirotatsu.me/wp-content/uploads/2018/10/IMG_20181014_220429_843.jpg?resize=768%2C576&ssl=1 768w, https://i2.wp.com/hirotatsu.me/wp-content/uploads/2018/10/IMG_20181014_220429_843.jpg?resize=285%2C214&ssl=1 285w, https://i2.wp.com/hirotatsu.me/wp-content/uploads/2018/10/IMG_20181014_220429_843.jpg?resize=282%2C212&ssl=1 282w, https://i2.wp.com/hirotatsu.me/wp-content/uploads/2018/10/IMG_20181014_220429_843.jpg?w=1080&ssl=1 1080w" sizes="(max-width: 1000px) 100vw, 1000px" data-recalc-dims="1" />
+  <img src="images/uploads/2018/10/IMG_20181014_220429_843.jpg?resize=1024%2C768&#038;ssl=1" alt="作った鶏小屋" width="1024" height="768" class="size-large wp-image-700" srcset="images/uploads/2018/10/IMG_20181014_220429_843.jpg?resize=1024%2C768&ssl=1 1024w, images/uploads/2018/10/IMG_20181014_220429_843.jpg?resize=300%2C225&ssl=1 300w, images/uploads/2018/10/IMG_20181014_220429_843.jpg?resize=768%2C576&ssl=1 768w, images/uploads/2018/10/IMG_20181014_220429_843.jpg?resize=285%2C214&ssl=1 285w, images/uploads/2018/10/IMG_20181014_220429_843.jpg?resize=282%2C212&ssl=1 282w, images/uploads/2018/10/IMG_20181014_220429_843.jpg?w=1080&ssl=1 1080w" sizes="(max-width: 1000px) 100vw, 1000px" data-recalc-dims="1" />
   
   <p class="wp-caption-text">
     作った鶏小屋
@@ -205,7 +205,7 @@ WWOOFの仕事として、鶏小屋の作成をしているので、そのお話
 そんな感じの一日でしたｗｗ
 
 <div id="attachment_748" style="width: 1290px" class="wp-caption aligncenter">
-  <img src="https://i1.wp.com/hirotatsu.me/wp-content/uploads/2018/10/VID_20181017_152851_pict.jpg?resize=1280%2C720&#038;ssl=1" alt="ペンキで屋根を白色に" width="1280" height="720" class="size-full wp-image-748" srcset="https://i1.wp.com/hirotatsu.me/wp-content/uploads/2018/10/VID_20181017_152851_pict.jpg?w=1280&ssl=1 1280w, https://i1.wp.com/hirotatsu.me/wp-content/uploads/2018/10/VID_20181017_152851_pict.jpg?resize=300%2C169&ssl=1 300w, https://i1.wp.com/hirotatsu.me/wp-content/uploads/2018/10/VID_20181017_152851_pict.jpg?resize=768%2C432&ssl=1 768w, https://i1.wp.com/hirotatsu.me/wp-content/uploads/2018/10/VID_20181017_152851_pict.jpg?resize=1024%2C576&ssl=1 1024w, https://i1.wp.com/hirotatsu.me/wp-content/uploads/2018/10/VID_20181017_152851_pict.jpg?resize=304%2C171&ssl=1 304w, https://i1.wp.com/hirotatsu.me/wp-content/uploads/2018/10/VID_20181017_152851_pict.jpg?resize=282%2C159&ssl=1 282w" sizes="(max-width: 1000px) 100vw, 1000px" data-recalc-dims="1" />
+  <img src="images/uploads/2018/10/VID_20181017_152851_pict.jpg?resize=1280%2C720&#038;ssl=1" alt="ペンキで屋根を白色に" width="1280" height="720" class="size-full wp-image-748" srcset="images/uploads/2018/10/VID_20181017_152851_pict.jpg?w=1280&ssl=1 1280w, images/uploads/2018/10/VID_20181017_152851_pict.jpg?resize=300%2C169&ssl=1 300w, images/uploads/2018/10/VID_20181017_152851_pict.jpg?resize=768%2C432&ssl=1 768w, images/uploads/2018/10/VID_20181017_152851_pict.jpg?resize=1024%2C576&ssl=1 1024w, images/uploads/2018/10/VID_20181017_152851_pict.jpg?resize=304%2C171&ssl=1 304w, images/uploads/2018/10/VID_20181017_152851_pict.jpg?resize=282%2C159&ssl=1 282w" sizes="(max-width: 1000px) 100vw, 1000px" data-recalc-dims="1" />
   
   <p class="wp-caption-text">
     ペンキで屋根を白色に
@@ -213,7 +213,7 @@ WWOOFの仕事として、鶏小屋の作成をしているので、そのお話
 </div>
 
 <div id="attachment_749" style="width: 1290px" class="wp-caption aligncenter">
-  <img src="https://i0.wp.com/hirotatsu.me/wp-content/uploads/2018/10/VID_20181017_160702_pict.jpg?resize=1280%2C720&#038;ssl=1" alt="日曜大工のひろたつ" width="1280" height="720" class="size-full wp-image-749" srcset="https://i0.wp.com/hirotatsu.me/wp-content/uploads/2018/10/VID_20181017_160702_pict.jpg?w=1280&ssl=1 1280w, https://i0.wp.com/hirotatsu.me/wp-content/uploads/2018/10/VID_20181017_160702_pict.jpg?resize=300%2C169&ssl=1 300w, https://i0.wp.com/hirotatsu.me/wp-content/uploads/2018/10/VID_20181017_160702_pict.jpg?resize=768%2C432&ssl=1 768w, https://i0.wp.com/hirotatsu.me/wp-content/uploads/2018/10/VID_20181017_160702_pict.jpg?resize=1024%2C576&ssl=1 1024w, https://i0.wp.com/hirotatsu.me/wp-content/uploads/2018/10/VID_20181017_160702_pict.jpg?resize=304%2C171&ssl=1 304w, https://i0.wp.com/hirotatsu.me/wp-content/uploads/2018/10/VID_20181017_160702_pict.jpg?resize=282%2C159&ssl=1 282w" sizes="(max-width: 1000px) 100vw, 1000px" data-recalc-dims="1" />
+  <img src="images/uploads/2018/10/VID_20181017_160702_pict.jpg?resize=1280%2C720&#038;ssl=1" alt="日曜大工のひろたつ" width="1280" height="720" class="size-full wp-image-749" srcset="images/uploads/2018/10/VID_20181017_160702_pict.jpg?w=1280&ssl=1 1280w, images/uploads/2018/10/VID_20181017_160702_pict.jpg?resize=300%2C169&ssl=1 300w, images/uploads/2018/10/VID_20181017_160702_pict.jpg?resize=768%2C432&ssl=1 768w, images/uploads/2018/10/VID_20181017_160702_pict.jpg?resize=1024%2C576&ssl=1 1024w, images/uploads/2018/10/VID_20181017_160702_pict.jpg?resize=304%2C171&ssl=1 304w, images/uploads/2018/10/VID_20181017_160702_pict.jpg?resize=282%2C159&ssl=1 282w" sizes="(max-width: 1000px) 100vw, 1000px" data-recalc-dims="1" />
   
   <p class="wp-caption-text">
     日曜大工のひろたつ
@@ -253,7 +253,7 @@ WWOOFの仕事として、鶏小屋の作成をしているので、そのお話
 今日は、簡単に、大量のソーセージとパン。
 
 <div id="attachment_750" style="width: 3978px" class="wp-caption aligncenter">
-  <img src="https://i2.wp.com/hirotatsu.me/wp-content/uploads/2018/10/IMG_20181017_184326.jpg?resize=3968%2C2976&#038;ssl=1" alt="夕ご飯のソーセージバーガー" width="3968" height="2976" class="size-full wp-image-750" srcset="https://i2.wp.com/hirotatsu.me/wp-content/uploads/2018/10/IMG_20181017_184326.jpg?w=3968&ssl=1 3968w, https://i2.wp.com/hirotatsu.me/wp-content/uploads/2018/10/IMG_20181017_184326.jpg?resize=300%2C225&ssl=1 300w, https://i2.wp.com/hirotatsu.me/wp-content/uploads/2018/10/IMG_20181017_184326.jpg?resize=768%2C576&ssl=1 768w, https://i2.wp.com/hirotatsu.me/wp-content/uploads/2018/10/IMG_20181017_184326.jpg?resize=1024%2C768&ssl=1 1024w, https://i2.wp.com/hirotatsu.me/wp-content/uploads/2018/10/IMG_20181017_184326.jpg?resize=285%2C214&ssl=1 285w, https://i2.wp.com/hirotatsu.me/wp-content/uploads/2018/10/IMG_20181017_184326.jpg?resize=282%2C212&ssl=1 282w, https://i2.wp.com/hirotatsu.me/wp-content/uploads/2018/10/IMG_20181017_184326.jpg?w=2000&ssl=1 2000w, https://i2.wp.com/hirotatsu.me/wp-content/uploads/2018/10/IMG_20181017_184326.jpg?w=3000&ssl=1 3000w" sizes="(max-width: 1000px) 100vw, 1000px" data-recalc-dims="1" />
+  <img src="images/uploads/2018/10/IMG_20181017_184326.jpg?resize=3968%2C2976&#038;ssl=1" alt="夕ご飯のソーセージバーガー" width="3968" height="2976" class="size-full wp-image-750" srcset="images/uploads/2018/10/IMG_20181017_184326.jpg?w=3968&ssl=1 3968w, images/uploads/2018/10/IMG_20181017_184326.jpg?resize=300%2C225&ssl=1 300w, images/uploads/2018/10/IMG_20181017_184326.jpg?resize=768%2C576&ssl=1 768w, images/uploads/2018/10/IMG_20181017_184326.jpg?resize=1024%2C768&ssl=1 1024w, images/uploads/2018/10/IMG_20181017_184326.jpg?resize=285%2C214&ssl=1 285w, images/uploads/2018/10/IMG_20181017_184326.jpg?resize=282%2C212&ssl=1 282w, images/uploads/2018/10/IMG_20181017_184326.jpg?w=2000&ssl=1 2000w, images/uploads/2018/10/IMG_20181017_184326.jpg?w=3000&ssl=1 3000w" sizes="(max-width: 1000px) 100vw, 1000px" data-recalc-dims="1" />
   
   <p class="wp-caption-text">
     夕ご飯のソーセージバーガー

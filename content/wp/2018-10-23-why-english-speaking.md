@@ -4,7 +4,7 @@ author: ひろたつ
 type: post
 date: 2018-10-23T08:05:51+00:00
 url: /why-english-speaking/
-thumbnail: 'https://i1.wp.com/hirotatsu.me/wp-content/uploads/2018/10/2ecbab67ea0eb537d307eba628f78b9c.png?fit=304%2C171&ssl=1'
+thumbnail: 'images/uploads/2018/10/2ecbab67ea0eb537d307eba628f78b9c.png?fit=304%2C171&ssl=1'
 bzb_meta_keywords:
   - 英語
 bzb_meta_robots:

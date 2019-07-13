@@ -4,7 +4,7 @@ author: ひろたつ
 type: post
 date: 2019-01-17T10:02:25+00:00
 url: /howto-organize-todo/
-thumbnail: 'https://i2.wp.com/hirotatsu.me/wp-content/uploads/2019/01/7807ea941b9551f70c217cb1133e4723.png?fit=304%2C171&ssl=1'
+thumbnail: 'images/uploads/2019/01/7807ea941b9551f70c217cb1133e4723.png?fit=304%2C171&ssl=1'
 bzb_meta_keywords:
   - やりたいこと 整理
 bzb_meta_description:
@@ -33,7 +33,7 @@ tags:
 
 <div class="fukidashi">
   <div class="icon">
-    <img src="https://i0.wp.com/hirotatsu.me/wp-content/uploads/2019/01/45460a2df457c88d858232d44ec0136b.png?ssl=1" alt="ひろたつ" data-recalc-dims="1" /><br /> <span>ひろたつ</span>
+    <img src="images/uploads/2019/01/45460a2df457c88d858232d44ec0136b.png?ssl=1" alt="ひろたつ" data-recalc-dims="1" /><br /> <span>ひろたつ</span>
   </div>
   
   <div style="border-color: #eeeeee; background-color: #eeeeee; margin-left: 20px;" class="ball">
@@ -106,7 +106,7 @@ tags:
 
 ## <span id="i">結論：やりたいことを整理する流れ</span>
 
-<img src="https://i1.wp.com/hirotatsu.me/wp-content/uploads/2019/01/22bff4d703f4a03bf4a57fd941de1c9a.png?resize=1024%2C576&#038;ssl=1" alt="やりたいことを整理する流れ" width="1024" height="576" class="size-large wp-image-1999" srcset="https://i1.wp.com/hirotatsu.me/wp-content/uploads/2019/01/22bff4d703f4a03bf4a57fd941de1c9a.png?resize=1024%2C576&ssl=1 1024w, https://i1.wp.com/hirotatsu.me/wp-content/uploads/2019/01/22bff4d703f4a03bf4a57fd941de1c9a.png?resize=300%2C169&ssl=1 300w, https://i1.wp.com/hirotatsu.me/wp-content/uploads/2019/01/22bff4d703f4a03bf4a57fd941de1c9a.png?resize=768%2C432&ssl=1 768w, https://i1.wp.com/hirotatsu.me/wp-content/uploads/2019/01/22bff4d703f4a03bf4a57fd941de1c9a.png?resize=304%2C171&ssl=1 304w, https://i1.wp.com/hirotatsu.me/wp-content/uploads/2019/01/22bff4d703f4a03bf4a57fd941de1c9a.png?resize=282%2C159&ssl=1 282w, https://i1.wp.com/hirotatsu.me/wp-content/uploads/2019/01/22bff4d703f4a03bf4a57fd941de1c9a.png?w=2000&ssl=1 2000w" sizes="(max-width: 1000px) 100vw, 1000px" data-recalc-dims="1" /></a>
+<img src="images/uploads/2019/01/22bff4d703f4a03bf4a57fd941de1c9a.png?resize=1024%2C576&#038;ssl=1" alt="やりたいことを整理する流れ" width="1024" height="576" class="size-large wp-image-1999" srcset="images/uploads/2019/01/22bff4d703f4a03bf4a57fd941de1c9a.png?resize=1024%2C576&ssl=1 1024w, images/uploads/2019/01/22bff4d703f4a03bf4a57fd941de1c9a.png?resize=300%2C169&ssl=1 300w, images/uploads/2019/01/22bff4d703f4a03bf4a57fd941de1c9a.png?resize=768%2C432&ssl=1 768w, images/uploads/2019/01/22bff4d703f4a03bf4a57fd941de1c9a.png?resize=304%2C171&ssl=1 304w, images/uploads/2019/01/22bff4d703f4a03bf4a57fd941de1c9a.png?resize=282%2C159&ssl=1 282w, images/uploads/2019/01/22bff4d703f4a03bf4a57fd941de1c9a.png?w=2000&ssl=1 2000w" sizes="(max-width: 1000px) 100vw, 1000px" data-recalc-dims="1" /></a>
 
 まず、やりたいことを整理する流れ（結論）を先にお伝えします。
 
@@ -118,7 +118,7 @@ tags:
 
 <div class="fukidashi">
   <div class="icon">
-    <img src="https://i0.wp.com/hirotatsu.me/wp-content/uploads/2019/01/45460a2df457c88d858232d44ec0136b.png?ssl=1" alt="ひろたつ" data-recalc-dims="1" /><br /> <span>ひろたつ</span>
+    <img src="images/uploads/2019/01/45460a2df457c88d858232d44ec0136b.png?ssl=1" alt="ひろたつ" data-recalc-dims="1" /><br /> <span>ひろたつ</span>
   </div>
   
   <div style="border-color: #eeeeee; background-color: #eeeeee; margin-left: 20px;" class="ball">
@@ -128,7 +128,7 @@ tags:
 
 ## <span id="i-2">まずはすべて書き出す</span>
 
-<img src="https://i2.wp.com/hirotatsu.me/wp-content/uploads/2019/01/24ac101e60c525be2c2517bc7800533f.png?resize=1024%2C576&#038;ssl=1" alt="まずはすべて書き出す" width="1024" height="576" class="aligncenter size-large wp-image-1998" srcset="https://i2.wp.com/hirotatsu.me/wp-content/uploads/2019/01/24ac101e60c525be2c2517bc7800533f.png?resize=1024%2C576&ssl=1 1024w, https://i2.wp.com/hirotatsu.me/wp-content/uploads/2019/01/24ac101e60c525be2c2517bc7800533f.png?resize=300%2C169&ssl=1 300w, https://i2.wp.com/hirotatsu.me/wp-content/uploads/2019/01/24ac101e60c525be2c2517bc7800533f.png?resize=768%2C432&ssl=1 768w, https://i2.wp.com/hirotatsu.me/wp-content/uploads/2019/01/24ac101e60c525be2c2517bc7800533f.png?resize=304%2C171&ssl=1 304w, https://i2.wp.com/hirotatsu.me/wp-content/uploads/2019/01/24ac101e60c525be2c2517bc7800533f.png?resize=282%2C159&ssl=1 282w, https://i2.wp.com/hirotatsu.me/wp-content/uploads/2019/01/24ac101e60c525be2c2517bc7800533f.png?w=2000&ssl=1 2000w" sizes="(max-width: 1000px) 100vw, 1000px" data-recalc-dims="1" />
+<img src="images/uploads/2019/01/24ac101e60c525be2c2517bc7800533f.png?resize=1024%2C576&#038;ssl=1" alt="まずはすべて書き出す" width="1024" height="576" class="aligncenter size-large wp-image-1998" srcset="images/uploads/2019/01/24ac101e60c525be2c2517bc7800533f.png?resize=1024%2C576&ssl=1 1024w, images/uploads/2019/01/24ac101e60c525be2c2517bc7800533f.png?resize=300%2C169&ssl=1 300w, images/uploads/2019/01/24ac101e60c525be2c2517bc7800533f.png?resize=768%2C432&ssl=1 768w, images/uploads/2019/01/24ac101e60c525be2c2517bc7800533f.png?resize=304%2C171&ssl=1 304w, images/uploads/2019/01/24ac101e60c525be2c2517bc7800533f.png?resize=282%2C159&ssl=1 282w, images/uploads/2019/01/24ac101e60c525be2c2517bc7800533f.png?w=2000&ssl=1 2000w" sizes="(max-width: 1000px) 100vw, 1000px" data-recalc-dims="1" />
 
 といういわけで、**まずはすべて書き出してください**。
 
@@ -168,7 +168,7 @@ _**今思いつく限り、全て書き出してください。**_
 
 <div class="fukidashi">
   <div class="icon">
-    <img src="https://i0.wp.com/hirotatsu.me/wp-content/uploads/2019/01/45460a2df457c88d858232d44ec0136b.png?ssl=1" alt="ひろたつ" data-recalc-dims="1" /><br /> <span>ひろたつ</span>
+    <img src="images/uploads/2019/01/45460a2df457c88d858232d44ec0136b.png?ssl=1" alt="ひろたつ" data-recalc-dims="1" /><br /> <span>ひろたつ</span>
   </div>
   
   <div style="border-color: #eeeeee; background-color: #eeeeee; margin-left: 20px;" class="ball">
@@ -178,7 +178,7 @@ _**今思いつく限り、全て書き出してください。**_
 
 ## <span id="3">書き出したものを整理する（3ステップ整理）</span>
 
-<img src="https://i2.wp.com/hirotatsu.me/wp-content/uploads/2019/01/6b5e8d2b18c27bcd0b839af2c04d3560.png?resize=1024%2C576&#038;ssl=1" alt="書き出したものを整理する" width="1024" height="576" class="aligncenter size-large wp-image-2001" srcset="https://i2.wp.com/hirotatsu.me/wp-content/uploads/2019/01/6b5e8d2b18c27bcd0b839af2c04d3560.png?resize=1024%2C576&ssl=1 1024w, https://i2.wp.com/hirotatsu.me/wp-content/uploads/2019/01/6b5e8d2b18c27bcd0b839af2c04d3560.png?resize=300%2C169&ssl=1 300w, https://i2.wp.com/hirotatsu.me/wp-content/uploads/2019/01/6b5e8d2b18c27bcd0b839af2c04d3560.png?resize=768%2C432&ssl=1 768w, https://i2.wp.com/hirotatsu.me/wp-content/uploads/2019/01/6b5e8d2b18c27bcd0b839af2c04d3560.png?resize=304%2C171&ssl=1 304w, https://i2.wp.com/hirotatsu.me/wp-content/uploads/2019/01/6b5e8d2b18c27bcd0b839af2c04d3560.png?resize=282%2C159&ssl=1 282w, https://i2.wp.com/hirotatsu.me/wp-content/uploads/2019/01/6b5e8d2b18c27bcd0b839af2c04d3560.png?w=2000&ssl=1 2000w" sizes="(max-width: 1000px) 100vw, 1000px" data-recalc-dims="1" />
+<img src="images/uploads/2019/01/6b5e8d2b18c27bcd0b839af2c04d3560.png?resize=1024%2C576&#038;ssl=1" alt="書き出したものを整理する" width="1024" height="576" class="aligncenter size-large wp-image-2001" srcset="images/uploads/2019/01/6b5e8d2b18c27bcd0b839af2c04d3560.png?resize=1024%2C576&ssl=1 1024w, images/uploads/2019/01/6b5e8d2b18c27bcd0b839af2c04d3560.png?resize=300%2C169&ssl=1 300w, images/uploads/2019/01/6b5e8d2b18c27bcd0b839af2c04d3560.png?resize=768%2C432&ssl=1 768w, images/uploads/2019/01/6b5e8d2b18c27bcd0b839af2c04d3560.png?resize=304%2C171&ssl=1 304w, images/uploads/2019/01/6b5e8d2b18c27bcd0b839af2c04d3560.png?resize=282%2C159&ssl=1 282w, images/uploads/2019/01/6b5e8d2b18c27bcd0b839af2c04d3560.png?w=2000&ssl=1 2000w" sizes="(max-width: 1000px) 100vw, 1000px" data-recalc-dims="1" />
 
 自分の頭の中にあるものをすべて書き出しましたか？
 
@@ -248,7 +248,7 @@ _**今思いつく限り、全て書き出してください。**_
 
 <div class="fukidashi">
   <div class="icon">
-    <img src="https://i0.wp.com/hirotatsu.me/wp-content/uploads/2019/01/45460a2df457c88d858232d44ec0136b.png?ssl=1" alt="ひろたつ" data-recalc-dims="1" /><br /> <span>ひろたつ</span>
+    <img src="images/uploads/2019/01/45460a2df457c88d858232d44ec0136b.png?ssl=1" alt="ひろたつ" data-recalc-dims="1" /><br /> <span>ひろたつ</span>
   </div>
   
   <div style="border-color: #eeeeee; background-color: #eeeeee; margin-left: 20px;" class="ball">
@@ -258,7 +258,7 @@ _**今思いつく限り、全て書き出してください。**_
 
 ## <span id="i-6">実際に行動しましょう</span>
 
-<img src="https://i1.wp.com/hirotatsu.me/wp-content/uploads/2019/01/4322f2c88c01f5f572dbe3a5a314ac6a.png?resize=1024%2C576&#038;ssl=1" alt="実際に行動しましょう" width="1024" height="576" class="aligncenter size-large wp-image-2002" srcset="https://i1.wp.com/hirotatsu.me/wp-content/uploads/2019/01/4322f2c88c01f5f572dbe3a5a314ac6a.png?resize=1024%2C576&ssl=1 1024w, https://i1.wp.com/hirotatsu.me/wp-content/uploads/2019/01/4322f2c88c01f5f572dbe3a5a314ac6a.png?resize=300%2C169&ssl=1 300w, https://i1.wp.com/hirotatsu.me/wp-content/uploads/2019/01/4322f2c88c01f5f572dbe3a5a314ac6a.png?resize=768%2C432&ssl=1 768w, https://i1.wp.com/hirotatsu.me/wp-content/uploads/2019/01/4322f2c88c01f5f572dbe3a5a314ac6a.png?resize=304%2C171&ssl=1 304w, https://i1.wp.com/hirotatsu.me/wp-content/uploads/2019/01/4322f2c88c01f5f572dbe3a5a314ac6a.png?resize=282%2C159&ssl=1 282w, https://i1.wp.com/hirotatsu.me/wp-content/uploads/2019/01/4322f2c88c01f5f572dbe3a5a314ac6a.png?w=2000&ssl=1 2000w" sizes="(max-width: 1000px) 100vw, 1000px" data-recalc-dims="1" />
+<img src="images/uploads/2019/01/4322f2c88c01f5f572dbe3a5a314ac6a.png?resize=1024%2C576&#038;ssl=1" alt="実際に行動しましょう" width="1024" height="576" class="aligncenter size-large wp-image-2002" srcset="images/uploads/2019/01/4322f2c88c01f5f572dbe3a5a314ac6a.png?resize=1024%2C576&ssl=1 1024w, images/uploads/2019/01/4322f2c88c01f5f572dbe3a5a314ac6a.png?resize=300%2C169&ssl=1 300w, images/uploads/2019/01/4322f2c88c01f5f572dbe3a5a314ac6a.png?resize=768%2C432&ssl=1 768w, images/uploads/2019/01/4322f2c88c01f5f572dbe3a5a314ac6a.png?resize=304%2C171&ssl=1 304w, images/uploads/2019/01/4322f2c88c01f5f572dbe3a5a314ac6a.png?resize=282%2C159&ssl=1 282w, images/uploads/2019/01/4322f2c88c01f5f572dbe3a5a314ac6a.png?w=2000&ssl=1 2000w" sizes="(max-width: 1000px) 100vw, 1000px" data-recalc-dims="1" />
 
 最後に、「緊急度」と「重要度」が付いた事象を**プライオリティの高い順に並べます**。
 
@@ -288,7 +288,7 @@ _**思考を整理した後は、行動しましょう。**_
 
 <div class="fukidashi">
   <div class="icon">
-    <img src="https://i0.wp.com/hirotatsu.me/wp-content/uploads/2019/01/45460a2df457c88d858232d44ec0136b.png?ssl=1" alt="ひろたつ" data-recalc-dims="1" /><br /> <span>ひろたつ</span>
+    <img src="images/uploads/2019/01/45460a2df457c88d858232d44ec0136b.png?ssl=1" alt="ひろたつ" data-recalc-dims="1" /><br /> <span>ひろたつ</span>
   </div>
   
   <div style="border-color: #eeeeee; background-color: #eeeeee; margin-left: 20px;" class="ball">

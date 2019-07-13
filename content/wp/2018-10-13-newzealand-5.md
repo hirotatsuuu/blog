@@ -4,7 +4,7 @@ author: ひろたつ
 type: post
 date: 2018-10-13T08:27:23+00:00
 url: /newzealand-5/
-thumbnail: 'https://i2.wp.com/hirotatsu.me/wp-content/uploads/2018/10/IMG_20181013_122213.jpg?fit=285%2C214&ssl=1'
+thumbnail: 'images/uploads/2018/10/IMG_20181013_122213.jpg?fit=285%2C214&ssl=1'
 bzb_meta_keywords:
   - グレートバリア島
 bzb_meta_robots:
@@ -168,7 +168,7 @@ tags:
 他で乾燥させていたファイヤーウッドを家の近くのファイヤーウッド倉庫に移動しました。
 
 <div id="attachment_691" style="width: 3978px" class="wp-caption aligncenter">
-  <img src="https://i0.wp.com/hirotatsu.me/wp-content/uploads/2018/10/IMG_20181013_114047.jpg?resize=3968%2C2976&#038;ssl=1" alt="ファイヤーウッドを運びました" width="3968" height="2976" class="size-full wp-image-691" srcset="https://i0.wp.com/hirotatsu.me/wp-content/uploads/2018/10/IMG_20181013_114047.jpg?w=3968&ssl=1 3968w, https://i0.wp.com/hirotatsu.me/wp-content/uploads/2018/10/IMG_20181013_114047.jpg?resize=300%2C225&ssl=1 300w, https://i0.wp.com/hirotatsu.me/wp-content/uploads/2018/10/IMG_20181013_114047.jpg?resize=768%2C576&ssl=1 768w, https://i0.wp.com/hirotatsu.me/wp-content/uploads/2018/10/IMG_20181013_114047.jpg?resize=1024%2C768&ssl=1 1024w, https://i0.wp.com/hirotatsu.me/wp-content/uploads/2018/10/IMG_20181013_114047.jpg?resize=285%2C214&ssl=1 285w, https://i0.wp.com/hirotatsu.me/wp-content/uploads/2018/10/IMG_20181013_114047.jpg?resize=282%2C212&ssl=1 282w, https://i0.wp.com/hirotatsu.me/wp-content/uploads/2018/10/IMG_20181013_114047.jpg?w=2000&ssl=1 2000w, https://i0.wp.com/hirotatsu.me/wp-content/uploads/2018/10/IMG_20181013_114047.jpg?w=3000&ssl=1 3000w" sizes="(max-width: 1000px) 100vw, 1000px" data-recalc-dims="1" />
+  <img src="images/uploads/2018/10/IMG_20181013_114047.jpg?resize=3968%2C2976&#038;ssl=1" alt="ファイヤーウッドを運びました" width="3968" height="2976" class="size-full wp-image-691" srcset="images/uploads/2018/10/IMG_20181013_114047.jpg?w=3968&ssl=1 3968w, images/uploads/2018/10/IMG_20181013_114047.jpg?resize=300%2C225&ssl=1 300w, images/uploads/2018/10/IMG_20181013_114047.jpg?resize=768%2C576&ssl=1 768w, images/uploads/2018/10/IMG_20181013_114047.jpg?resize=1024%2C768&ssl=1 1024w, images/uploads/2018/10/IMG_20181013_114047.jpg?resize=285%2C214&ssl=1 285w, images/uploads/2018/10/IMG_20181013_114047.jpg?resize=282%2C212&ssl=1 282w, images/uploads/2018/10/IMG_20181013_114047.jpg?w=2000&ssl=1 2000w, images/uploads/2018/10/IMG_20181013_114047.jpg?w=3000&ssl=1 3000w" sizes="(max-width: 1000px) 100vw, 1000px" data-recalc-dims="1" />
   
   <p class="wp-caption-text">
     ファイヤーウッドを運びました
@@ -267,7 +267,7 @@ tags:
 って感じでご飯が終わって、今ブログを書いています。
 
 <div id="attachment_692" style="width: 3978px" class="wp-caption aligncenter">
-  <img src="https://i1.wp.com/hirotatsu.me/wp-content/uploads/2018/10/IMG_20181013_190108.jpg?resize=3968%2C2976&#038;ssl=1" alt="夕飯のシチューとブレッド" width="3968" height="2976" class="size-full wp-image-692" srcset="https://i1.wp.com/hirotatsu.me/wp-content/uploads/2018/10/IMG_20181013_190108.jpg?w=3968&ssl=1 3968w, https://i1.wp.com/hirotatsu.me/wp-content/uploads/2018/10/IMG_20181013_190108.jpg?resize=300%2C225&ssl=1 300w, https://i1.wp.com/hirotatsu.me/wp-content/uploads/2018/10/IMG_20181013_190108.jpg?resize=768%2C576&ssl=1 768w, https://i1.wp.com/hirotatsu.me/wp-content/uploads/2018/10/IMG_20181013_190108.jpg?resize=1024%2C768&ssl=1 1024w, https://i1.wp.com/hirotatsu.me/wp-content/uploads/2018/10/IMG_20181013_190108.jpg?resize=285%2C214&ssl=1 285w, https://i1.wp.com/hirotatsu.me/wp-content/uploads/2018/10/IMG_20181013_190108.jpg?resize=282%2C212&ssl=1 282w, https://i1.wp.com/hirotatsu.me/wp-content/uploads/2018/10/IMG_20181013_190108.jpg?w=2000&ssl=1 2000w, https://i1.wp.com/hirotatsu.me/wp-content/uploads/2018/10/IMG_20181013_190108.jpg?w=3000&ssl=1 3000w" sizes="(max-width: 1000px) 100vw, 1000px" data-recalc-dims="1" />
+  <img src="images/uploads/2018/10/IMG_20181013_190108.jpg?resize=3968%2C2976&#038;ssl=1" alt="夕飯のシチューとブレッド" width="3968" height="2976" class="size-full wp-image-692" srcset="images/uploads/2018/10/IMG_20181013_190108.jpg?w=3968&ssl=1 3968w, images/uploads/2018/10/IMG_20181013_190108.jpg?resize=300%2C225&ssl=1 300w, images/uploads/2018/10/IMG_20181013_190108.jpg?resize=768%2C576&ssl=1 768w, images/uploads/2018/10/IMG_20181013_190108.jpg?resize=1024%2C768&ssl=1 1024w, images/uploads/2018/10/IMG_20181013_190108.jpg?resize=285%2C214&ssl=1 285w, images/uploads/2018/10/IMG_20181013_190108.jpg?resize=282%2C212&ssl=1 282w, images/uploads/2018/10/IMG_20181013_190108.jpg?w=2000&ssl=1 2000w, images/uploads/2018/10/IMG_20181013_190108.jpg?w=3000&ssl=1 3000w" sizes="(max-width: 1000px) 100vw, 1000px" data-recalc-dims="1" />
   
   <p class="wp-caption-text">
     夕飯のシチューとブレッド

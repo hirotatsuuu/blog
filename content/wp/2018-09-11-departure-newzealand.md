@@ -4,7 +4,7 @@ author: ひろたつ
 type: post
 date: 2018-09-10T23:53:42+00:00
 url: /departure-newzealand/
-thumbnail: 'https://i1.wp.com/hirotatsu.me/wp-content/uploads/2018/09/0c0b1cd4cfde95d8660a7aa661ff62d8.png?fit=304%2C171&ssl=1'
+thumbnail: 'images/uploads/2018/09/0c0b1cd4cfde95d8660a7aa661ff62d8.png?fit=304%2C171&ssl=1'
 views:
   - 186
 bzb_meta_keywords:

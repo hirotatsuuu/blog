@@ -4,7 +4,7 @@ author: ひろたつ
 type: post
 date: 2018-08-19T13:12:21+00:00
 url: /hitchhike-all-around-japan/
-thumbnail: 'https://i1.wp.com/hirotatsu.me/wp-content/uploads/2018/08/0e63fa3306d844c99ce097f069515dd7-1.png?fit=304%2C171&ssl=1'
+thumbnail: 'images/uploads/2018/08/0e63fa3306d844c99ce097f069515dd7-1.png?fit=304%2C171&ssl=1'
 views:
   - 394
 bzb_meta_keywords:

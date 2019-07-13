@@ -4,7 +4,7 @@ author: ひろたつ
 type: post
 date: 2018-08-30T13:56:37+00:00
 url: /xeory-category-number/
-thumbnail: 'https://i0.wp.com/hirotatsu.me/wp-content/uploads/2018/08/b0bb4eec57ff92d9b3071fbbe7155624.png?fit=304%2C171&ssl=1'
+thumbnail: 'images/uploads/2018/08/b0bb4eec57ff92d9b3071fbbe7155624.png?fit=304%2C171&ssl=1'
 views:
   - 115
 bzb_meta_keywords:

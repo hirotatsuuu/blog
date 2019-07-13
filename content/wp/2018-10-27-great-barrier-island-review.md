@@ -4,7 +4,7 @@ author: ひろたつ
 type: post
 date: 2018-10-27T02:14:53+00:00
 url: /great-barrier-island-review/
-thumbnail: 'https://i0.wp.com/hirotatsu.me/wp-content/uploads/2018/10/bf66c71bab0b80274b295a9fc4cf592f.png?fit=304%2C171&ssl=1'
+thumbnail: 'images/uploads/2018/10/bf66c71bab0b80274b295a9fc4cf592f.png?fit=304%2C171&ssl=1'
 views:
   - 223
 bzb_meta_keywords:
