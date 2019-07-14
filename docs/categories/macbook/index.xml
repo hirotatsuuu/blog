@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>MacBook on 世界のひろたつから</title>
-    <link>https://hirotatsuuu.github.io/blog/categories/macbook/</link>
+    <link>https://hirotatsu.me/categories/macbook/</link>
     <description>Recent content in MacBook on 世界のひろたつから</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja</language>
     <lastBuildDate>Sun, 02 Sep 2018 15:45:04 +0000</lastBuildDate>
     
-	<atom:link href="https://hirotatsuuu.github.io/blog/categories/macbook/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://hirotatsu.me/categories/macbook/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>MacBookのプレビューで画像のサイズを小さくする方法</title>
-      <link>https://hirotatsuuu.github.io/blog/image-size-small/</link>
+      <link>https://hirotatsu.me/image-size-small/</link>
       <pubDate>Sun, 02 Sep 2018 15:45:04 +0000</pubDate>
       
-      <guid>https://hirotatsuuu.github.io/blog/image-size-small/</guid>
+      <guid>https://hirotatsu.me/image-size-small/</guid>
       <description>&lt;p&gt;はいどーもー&lt;/p&gt;
 
 &lt;p&gt;ひろたつです。&lt;/p&gt;
@@ -28,10 +28,10 @@
     
     <item>
       <title>MacとAndroidでBluetooth共有する方法</title>
-      <link>https://hirotatsuuu.github.io/blog/mac-android-bluetooth/</link>
+      <link>https://hirotatsu.me/mac-android-bluetooth/</link>
       <pubDate>Fri, 24 Aug 2018 18:04:56 +0000</pubDate>
       
-      <guid>https://hirotatsuuu.github.io/blog/mac-android-bluetooth/</guid>
+      <guid>https://hirotatsu.me/mac-android-bluetooth/</guid>
       <description>&lt;p&gt;はいどーもー&lt;/p&gt;
 
 &lt;p&gt;ひろたつです。&lt;/p&gt;
@@ -43,10 +43,10 @@
     
     <item>
       <title>僕がMacbookを買ってから最初にしたこと</title>
-      <link>https://hirotatsuuu.github.io/blog/macbook-first-setting/</link>
+      <link>https://hirotatsu.me/macbook-first-setting/</link>
       <pubDate>Fri, 10 Aug 2018 02:18:42 +0000</pubDate>
       
-      <guid>https://hirotatsuuu.github.io/blog/macbook-first-setting/</guid>
+      <guid>https://hirotatsu.me/macbook-first-setting/</guid>
       <description>&lt;p&gt;はいどーもー&lt;/p&gt;
 
 &lt;p&gt;元エンジニアのひろたつです。&lt;/p&gt;
@@ -58,10 +58,10 @@
     
     <item>
       <title>MacbookのFinderの再起動をアプリにする</title>
-      <link>https://hirotatsuuu.github.io/blog/macbook-finder/</link>
+      <link>https://hirotatsu.me/macbook-finder/</link>
       <pubDate>Thu, 09 Aug 2018 19:08:55 +0000</pubDate>
       
-      <guid>https://hirotatsuuu.github.io/blog/macbook-finder/</guid>
+      <guid>https://hirotatsu.me/macbook-finder/</guid>
       <description>&lt;p&gt;はいどーもー&lt;/p&gt;
 
 &lt;p&gt;Finderの再起動コマンドをできるだけ簡単に実行したい欲求の強いひろたつです。&lt;/p&gt;</description>
@@ -69,10 +69,10 @@
     
     <item>
       <title>Macbookの画面に変な画像が残ったときの対処法</title>
-      <link>https://hirotatsuuu.github.io/blog/howto-macbook/</link>
+      <link>https://hirotatsu.me/howto-macbook/</link>
       <pubDate>Thu, 09 Aug 2018 18:50:06 +0000</pubDate>
       
-      <guid>https://hirotatsuuu.github.io/blog/howto-macbook/</guid>
+      <guid>https://hirotatsu.me/howto-macbook/</guid>
       <description>&lt;p&gt;はいどーもー&lt;/p&gt;
 
 &lt;p&gt;買ったばかりのMacbookの画面に変な小さな画像が残ってどうしようか困っているひろたつです。&lt;/p&gt;

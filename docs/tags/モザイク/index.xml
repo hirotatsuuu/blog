@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>モザイク on 世界のひろたつから</title>
-    <link>https://hirotatsuuu.github.io/blog/tags/%E3%83%A2%E3%82%B6%E3%82%A4%E3%82%AF/</link>
+    <link>https://hirotatsu.me/tags/%E3%83%A2%E3%82%B6%E3%82%A4%E3%82%AF/</link>
     <description>Recent content in モザイク on 世界のひろたつから</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja</language>
     <lastBuildDate>Thu, 09 Aug 2018 16:21:08 +0000</lastBuildDate>
     
-	<atom:link href="https://hirotatsuuu.github.io/blog/tags/%E3%83%A2%E3%82%B6%E3%82%A4%E3%82%AF/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://hirotatsu.me/tags/%E3%83%A2%E3%82%B6%E3%82%A4%E3%82%AF/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>動画編集ソフトFCPXでモザイク処理をする</title>
-      <link>https://hirotatsuuu.github.io/blog/howto-finalcutprox-3/</link>
+      <link>https://hirotatsu.me/howto-finalcutprox-3/</link>
       <pubDate>Thu, 09 Aug 2018 16:21:08 +0000</pubDate>
       
-      <guid>https://hirotatsuuu.github.io/blog/howto-finalcutprox-3/</guid>
+      <guid>https://hirotatsu.me/howto-finalcutprox-3/</guid>
       <description>&lt;p&gt;はいどーもー&lt;/p&gt;
 
 &lt;p&gt;ユーチューバーのひろたつです。&lt;/p&gt;

@@ -25,18 +25,18 @@ https://hirotatsu.me
 
 
 ## Usage
-- 新規記事の作成
+- new post
 
 ```
 hugo new posts/sample.md
 ```
-- 静的ファイルの生成
+- create docs
 
 ```
 hugo
 ```
 
-- リポジトリにpush
+- push
 
 ```
 git push origin master
