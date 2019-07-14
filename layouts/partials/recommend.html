@@ -1,0 +1,19 @@
+<section class="sidebar">
+  <header>RECOMMEND</header>
+  <div>
+    <div class="articles sm">
+        {{ with .Site.GetPage "wp" "2018-12-24-use-money-total.md" }}
+        {{ .Render "li_sm" }}
+        {{ end }}
+        {{ with .Site.GetPage "wp" "2018-09-18-wwoof-nz.md" }}
+        {{ .Render "li_sm" }}
+        {{ end }}
+        {{ with .Site.GetPage "wp" "2018-10-23-why-english-speaking.md" }}
+        {{ .Render "li_sm" }}
+        {{ end }}
+        {{ with .Site.GetPage "wp" "2018-12-29-taranaki-mountain.md" }}
+        {{ .Render "li_sm" }}
+        {{ end }}
+    </div>
+  </div>
+</section>
