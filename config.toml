@@ -7,6 +7,7 @@ disqusShortname = ""
 
 languageCode = "ja"
 publishDir = "docs"
+hasCJKLanguage = true
 
 [params]
 description = ""
@@ -23,6 +24,7 @@ description = "<p>旅人「世界中の人と自然に触れる旅」丨ヒッ�
 instagram = "https://www.instagram.com/hirotatsuuuu"
 twitter = "https://twitter.com/hirotatsuuu"
 youtube = "https://www.youtube.com/channel/UCURchUnO3DM8j-le65hJQJA"
+github = "https://github.com/hirotatsuuu"
 
 [outputs]
 page = [ "HTML", "AMP" ] # if you want AMP enable.
@@ -31,5 +33,3 @@ page = [ "HTML", "AMP" ] # if you want AMP enable.
 tag = "tags"
 category = "categories"
 series = "series"
-
-hasCJKLanguage = true
