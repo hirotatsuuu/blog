@@ -38,3 +38,9 @@ article.sn > .article-body em {
   font-size: .8rem;
   /* text-align: center; */
 }
+
+.sponsor {
+  color: gray;
+  font-size: 0.8rem;
+  text-align: center;
+}
