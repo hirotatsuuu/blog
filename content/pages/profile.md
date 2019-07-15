@@ -2,6 +2,8 @@
 title: 「ひろたつ」って何者？
 date: 2018-08-01T03:37:13+00:00
 thumbnail: "images/pages/profile.jpg"
+toc: true
+url: /me/
 ---
 
 
@@ -502,7 +504,7 @@ thumbnail: "images/pages/profile.jpg"
 
 ### 世界中の人と自然に触れる旅
 
-    2019年9月1日
+    2019年某日
 
     僕は成田空港にいます。
 
@@ -514,7 +516,7 @@ thumbnail: "images/pages/profile.jpg"
 
 でも、ほぼ確定している未来です。
 
-僕は2019年9月から世界一周を初めます。
+僕は2019年の末から世界一周を初めます。
 
 タイトルは以下の通りです。
 
@@ -537,26 +539,16 @@ thumbnail: "images/pages/profile.jpg"
 
 最後に、僕の活動を下で紹介しています。ぜひ覗いてみてください。
 
-### SNS活動
+  * <a href="https://twitter.com/hirotatsuuu" rel="noopener" target="_blank">Twitter</a>では、ニュージーランドの情報やブログでは言わないことを独断と偏見かつ**自由気まま**につぶやいています。出現頻度高めです。お問い合わせはこのツイッターのDMが一番レスポンスが早いです。
+  * <a href="https://www.instagram.com/hirotatsuuuu" rel="noopener" target="_blank">Instagram</a>では、自由気ままに写真や動画を投稿しています。写真で僕の旅を知って下さい！！
 
-  * <a href="https://twitter.com/hirotatsuuu" rel="noopener" target="_blank">Twitter</a>では、ニュージーランドの情報やブログでは言わないことを独断と偏見かつ**自由気まま**につぶやいています。またニュージーランド放浪記の更新情報やWWOOFのお仕事もシェアしています。お問い合わせはこのツイッターのDMが一番レスポンスが早いです。
-  * <a href="https://www.instagram.com/hirotatsuuuu" rel="noopener" target="_blank">Instagram(世界のひろたつから)</a>では、自由気ままに写真や動画を投稿しています。一応「本垢」ってやつです笑
-  * <a href="https://www.facebook.com/hirotatsuuu" rel="noopener" target="_blank">Facebook</a>では、主に他のSNSの更新の共有を行っています。
-
-### ユーチューバー活動
-
-<a href="https://www.youtube.com/channel/UCURchUnO3DM8j-le65hJQJA" rel="noopener" target="_blank">Youtube</a>では、バカなことやVLOGを公開しています。不定期更新です。
+  * <a href="https://www.youtube.com/channel/UCURchUnO3DM8j-le65hJQJA" rel="noopener" target="_blank">Youtube</a>では、バカなことやVLOGを公開しています。不定期更新です。
 
 {{< youtube uQDZEoE0qig >}}
 
-### ブログ運営
 
-当ブログ（「<a href="https://hirotatsu.me" rel="noopener" target="_blank">世界のひろたつから</a>」）を運営しています。
+  * 当ブログ（「<a href="https://hirotatsu.me" rel="noopener" target="_blank">世界のひろたつから</a>」）を運営しています。
 
-「<a href="https://hirotatsu.me" rel="noopener" target="_blank"><strong>世界のひろたつから</strong></a>」では、ニュージーランドを放浪中の<a href="https://twitter.com/hirotatsuuu" rel="noopener" target="_blank"><strong>ひろたつ</strong></a>が毎日<a href="https://hirotatsu.me/category/newzealand/" rel="noopener" target="_blank">ニュージーランド放浪記</a>を更新しています。
-
-
-他にも、僕の興味関心のあることをシェアしています。
 
 ### その他のサービス
 
@@ -575,4 +567,8 @@ thumbnail: "images/pages/profile.jpg"
 
 以上、「<span style="color: red; font-weight: bold;">ゼロ円ワーホリでニュージーランド放浪中</span>」の**ひろたつ**</a>(<a href="https://twitter.com/hirotatsuuu" rel="noopener" target="_blank">@hirotatsuuu</a>)のプロフィールでした。
 
-今後とも、こいつをよろしくお願い致しますm(_ _)m
+今後とも、よろしくお願いします。
+
+ひろたつ
+
+<a href="https://twitter.com/hirotatsuuu" rel="noopener" target="_blank">→フォロー待ってます！！！</a>
