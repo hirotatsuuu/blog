@@ -20,7 +20,7 @@ logofontfamily = "Lobster, cursive" # Optional, Override logo font.
 [params.author]
 thumbnail = "images/author.jpg"
 name = "ひろたつ"
-description = "<p>旅人「世界中の人と自然に触れる旅」丨ヒッチハイクとボランティア(WWOOF)で「ゼロ円ワーホリ」中丨21歳で初海外→23歳で会社辞める→ヒッチハイク日本一周→NZワーホリ丨ヒッチハイクAUS一周→世界一周へ</p>"
+description = "<p style='text-align: center;'>旅人ときどきブロガー</p><p style='text-align: center;'>ニュージーランドを放浪中の24歳</p>"
 instagram = "https://www.instagram.com/hirotatsuuuu"
 twitter = "https://twitter.com/hirotatsuuu"
 youtube = "https://www.youtube.com/channel/UCURchUnO3DM8j-le65hJQJA"
