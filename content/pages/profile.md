@@ -1,5 +1,5 @@
 ---
-title: 「ひろたつ」って何者？
+title: 【自己紹介】初めまして、ひろたつです。
 date: 2018-08-01T03:37:13+00:00
 thumbnail: "images/pages/profile.jpg"
 toc: true
