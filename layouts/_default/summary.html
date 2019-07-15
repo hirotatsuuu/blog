@@ -16,6 +16,7 @@
     </ul>
 
     {{ partial "share.html" . }}
+    {{ partial "adsense.html" . }}
   </header>
 
   {{ if .Params.toc }}
@@ -28,6 +29,7 @@
 
   <footer class="article-footer">
 
+    {{ partial "adsense.html" . }}
     {{ partial "share.html" . }}
 
     <section class="footer">
@@ -61,6 +63,8 @@
     </section>
     {{ end }}
     {{ end }}
+
   </footer>
+
 
 </article>

@@ -31,6 +31,37 @@
       </div>
     </div>
 
+    <div class="adj">
+      <div>
+        <header>Recommend</header>
+      </div>
+      <div class="mrow">
+        {{ with .Site.GetPage "wp" "2018-12-24-use-money-total.md" }}
+        <div class="mcol c6">
+          {{ .Render "li_sm" }}
+        </div>
+        {{ end }}
+        {{ with .Site.GetPage "wp" "2018-09-18-wwoof-nz.md" }}
+        <div class="mcol c6">
+          <header> </header>
+          {{ .Render "li_sm" }}
+        </div>
+        {{ end }}
+      </div>
+      <div class="mrow">
+        {{ with .Site.GetPage "wp" "2018-10-23-why-english-speaking.md" }}
+        <div class="mcol c6">
+          {{ .Render "li_sm" }}
+        </div>
+        {{ end }}
+        {{ with .Site.GetPage "wp" "2018-12-29-taranaki-mountain.md" }}
+        <div class="mcol c6">
+          {{ .Render "li_sm" }}
+        </div>
+        {{ end }}
+      </div>
+    </div>
+
     {{ template "_internal/disqus.html" . }}
   </div>
   <div class="mcol c4">

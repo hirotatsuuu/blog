@@ -11,7 +11,7 @@ ul, ol {
 
 html {
   font-size: 18px;
-  background-color: #f5f5f5;
+  background-color: white;
 }
 
 article.sn > .article-body strong {
@@ -42,5 +42,38 @@ article.sn > .article-body em {
 .sponsor {
   color: gray;
   font-size: 0.8rem;
+  text-align: center;
+}
+
+.l-header, .l-footer, .author, article.sn {
+  box-shadow: none;
+}
+
+a.ht {
+  color: white;
+  background-color: rgb(8, 174, 217);
+}
+
+a.tw {
+  color: white;
+  background-color: rgb(29, 161, 242);
+}
+
+a.fb {
+  color: white;
+  background-color: rgb(59, 89, 152);
+}
+
+a.pk {
+  color: white;
+  background-color: rgb(0, 185, 0);
+}
+
+a.ln {
+  color: white;
+  background-color: rgb(238, 64, 86);
+}
+
+.copyright {
   text-align: center;
 }
