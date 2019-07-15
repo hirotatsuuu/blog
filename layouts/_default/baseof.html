@@ -39,6 +39,13 @@
       </div>
     </main>
 
+    <div class="l-container">
+      <div class="logo copyright">
+        <a href="{{ .Site.BaseURL }}">{{ .Site.Title }}</a>
+      </div>
+      {{ partial "description.html" . }}
+    </div>
+
     <footer class="l-footer">
       <div class="l-container">
           <p class="copyright">Copyright &copy; 2019 hirotatsu.me Robust designed by Daisuke Tsuji</p>
