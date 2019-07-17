@@ -18,7 +18,7 @@
     {{ partial "share.html" . }}
 
     <div class="adsense">
-      {{ partial "adsense.html" . }}
+      {{ .Render "adsense"}}
     </div>
 
   </header>
@@ -34,7 +34,7 @@
   <footer class="article-footer">
 
     <div class="adsense">
-      {{ partial "adsense.html" . }}
+      {{ .Render "adsense"}}
     </div>
     {{ partial "share.html" . }}
 
