@@ -84,7 +84,7 @@
   </url>
   
   <url>
-    <loc>https://hirotatsu.me/pages/about/</loc>
+    <loc>https://hirotatsu.me/pages/contact/</loc>
     <lastmod>2019-01-16T10:51:13+00:00</lastmod>
   </url>
   
@@ -167,6 +167,11 @@
     <loc>https://hirotatsu.me/tags/%E3%83%9E%E3%83%BC%E3%83%88%E3%83%B3/</loc>
     <lastmod>2019-01-09T07:33:13+00:00</lastmod>
     <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://hirotatsu.me/pages/about/</loc>
+    <lastmod>2019-01-08T10:51:13+00:00</lastmod>
   </url>
   
   <url>

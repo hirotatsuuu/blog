@@ -20,7 +20,7 @@ logofontfamily = "Lobster, cursive" # Optional, Override logo font.
 [params.author]
 thumbnail = "images/author.jpg"
 name = "ひろたつ"
-description = "<p style='text-align: center;'>旅人ときどきブロガー</p><p style='text-align: center;'>ニュージーランドを放浪中の24歳</p><p style='text-align: center;'><a href='https://hirotatsu.me/me'>→詳しくはこちら</a></p>"
+description = "<p style='text-align: center;'>職業：旅人</p><p style='text-align: center;'><a href='https://hirotatsu.me/me'>→詳しくはこちら</a></p>"
 instagram = "https://www.instagram.com/hirotatsuuuu"
 twitter = "https://twitter.com/hirotatsuuu"
 youtube = "https://www.youtube.com/channel/UCURchUnO3DM8j-le65hJQJA"

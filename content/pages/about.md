@@ -1,6 +1,6 @@
 ---
 title: 「世界のひろたつから」について
-date: 2019-01-16T10:51:13+00:00
+date: 2019-01-08T10:51:13+00:00
 thumbnail: "images/pages/about.jpg"
 ---
 

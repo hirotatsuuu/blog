@@ -8,6 +8,9 @@
         {{ with .Site.GetPage "pages" "about.md" }}
         {{ .Render "li_sm" }}
         {{ end }}
+        {{ with .Site.GetPage "pages" "contact.md" }}
+        {{ .Render "li_sm" }}
+        {{ end }}
         {{ with .Site.GetPage "pages" "privacy-policy.md" }}
         {{ .Render "li_sm" }}
         {{ end }}
