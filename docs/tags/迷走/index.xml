@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>迷走 on 世界のひろたつから</title>
+    <link>https://hirotatsu.me/tags/%E8%BF%B7%E8%B5%B0/</link>
+    <description>Recent content in 迷走 on 世界のひろたつから</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ja</language>
+    <lastBuildDate>Wed, 17 Jul 2019 16:27:33 +1200</lastBuildDate>
+    
+	<atom:link href="https://hirotatsu.me/tags/%E8%BF%B7%E8%B5%B0/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>ぼくがしたいことがわかるようでわからない、そう迷走なうなのです</title>
+      <link>https://hirotatsu.me/posts/new_post/</link>
+      <pubDate>Wed, 17 Jul 2019 16:27:33 +1200</pubDate>
+      
+      <guid>https://hirotatsu.me/posts/new_post/</guid>
+      <description>はじめまして、ひろたつです。 今回はちょっと旅でつまずいたので、そんなお話です。 ##「ぼくがしたいことがわかるようでわからない、そう迷走なうな</description>
+    </item>
+    
+  </channel>
+</rss>
