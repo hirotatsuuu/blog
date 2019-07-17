@@ -92,7 +92,6 @@ tags:
   </p>
 </blockquote>
 
-<iframe class="wp-embedded-content" sandbox="allow-scripts" security="restricted" style="position: absolute; clip: rect(1px, 1px, 1px, 1px);" src="https://hirotatsu.me/hitchhike-all-around-japan/embed/#?secret=90KaHhXvJX" data-secret="90KaHhXvJX" width="500" height="282" title="&#8220;ヒッチハイク日本一周の旅（始める前のお話編）&#8221; &#8212; 世界のひろたつから" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"></iframe>
 
 もし、まだ読んでいない方は、ぜひ今までの記事を読んでいただけると嬉しいです〜
   
@@ -351,7 +350,6 @@ tags:
   </p>
 </blockquote>
 
-<iframe class="wp-embedded-content" sandbox="allow-scripts" security="restricted" style="position: absolute; clip: rect(1px, 1px, 1px, 1px);" src="https://hirotatsu.me/hitchhike-all-around-japan-2/embed/#?secret=c9ANjYRJru" data-secret="c9ANjYRJru" width="500" height="282" title="&#8220;ヒッチハイク日本一周の旅（九州上陸）&#8221; &#8212; 世界のひろたつから" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"></iframe>
 
 では、以上、ひろたつでした。
   

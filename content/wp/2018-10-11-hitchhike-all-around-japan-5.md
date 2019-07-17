@@ -90,7 +90,6 @@ tags:
   </p>
 </blockquote>
 
-<iframe class="wp-embedded-content" sandbox="allow-scripts" security="restricted" style="position: absolute; clip: rect(1px, 1px, 1px, 1px);" src="https://hirotatsu.me/hitchhike-all-around-japan-4/embed/#?secret=YWMY88POvm" data-secret="YWMY88POvm" width="500" height="282" title="&#8220;ヒッチハイク日本一周の旅（宗谷岬到着編）&#8221; &#8212; 世界のひろたつから" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"></iframe>
 
 今回は、日本一周ヒッチハイク東京へ戻る編ということで、宗谷岬から東京へ戻るまでをお話できればと思います。
 
@@ -604,7 +603,6 @@ tags:
   </p>
 </blockquote>
 
-<iframe class="wp-embedded-content" sandbox="allow-scripts" security="restricted" style="position: absolute; clip: rect(1px, 1px, 1px, 1px);" src="https://hirotatsu.me/hitchhike-all-around-japan-6/embed/#?secret=awsSPMaL17" data-secret="awsSPMaL17" width="500" height="282" title="&#8220;ヒッチハイク日本一周の旅（完結編）&#8221; &#8212; 世界のひろたつから" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"></iframe>
 
 以上、ヒッチハイカーのひろたつでした。
 

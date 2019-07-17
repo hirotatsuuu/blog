@@ -86,7 +86,6 @@ tags:
   </p>
 </blockquote>
 
-<iframe class="wp-embedded-content" sandbox="allow-scripts" security="restricted" style="position: absolute; clip: rect(1px, 1px, 1px, 1px);" src="https://hirotatsu.me/hitchhike-all-around-japan-3/embed/#?secret=9CAv57JKri" data-secret="9CAv57JKri" width="500" height="282" title="&#8220;ヒッチハイク日本一周の旅（佐多岬到着編）&#8221; &#8212; 世界のひろたつから" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"></iframe>
 
 今回は、一気に次の目的地である「宗谷岬」に到着するまでのお話です。
 
@@ -364,7 +363,6 @@ SAを点々としていましたね。
   </p>
 </blockquote>
 
-<iframe class="wp-embedded-content" sandbox="allow-scripts" security="restricted" style="position: absolute; clip: rect(1px, 1px, 1px, 1px);" src="https://hirotatsu.me/hitchhike-all-around-japan-5/embed/#?secret=Rlwf9QW069" data-secret="Rlwf9QW069" width="500" height="282" title="&#8220;ヒッチハイク日本一周の旅（東京へ戻る編）&#8221; &#8212; 世界のひろたつから" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"></iframe>
 
 以上、ヒッチハイカーひろたつでした。
   

@@ -137,7 +137,6 @@ Mt Hobson
   </p>
 </blockquote>
 
-<iframe class="wp-embedded-content" sandbox="allow-scripts" security="restricted" style="position: absolute; clip: rect(1px, 1px, 1px, 1px);" src="https://hirotatsu.me/newzealand-6/embed/#?secret=yxo0z2xoJJ" data-secret="yxo0z2xoJJ" width="500" height="282" title="&#8220;最近ニュージーランドで何をしているのだろうと考えてしまいます。&#8221; &#8212; 世界のひろたつから" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"></iframe>
 
 ## <span id="i-2">とりあえず一日の始まり</span>
 

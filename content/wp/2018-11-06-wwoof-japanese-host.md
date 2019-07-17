@@ -114,7 +114,6 @@ tags:
 </p>
 </blockquote>
 
-<iframe class="wp-embedded-content" sandbox="allow-scripts" security="restricted" style="position: absolute; clip: rect(1px, 1px, 1px, 1px);" src="https://hirotatsu.me/newzealand-20/embed/#?secret=GpCY2grFNa" data-secret="GpCY2grFNa" width="500" height="282" title="&#8220;グレートバリア島とさようなら、そして次のホームステイへ&#8221; &#8212; 世界のひろたつから" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"></iframe>
 
 <blockquote class="wp-embedded-content" data-secret="lEdj139EYS">
 <p>
@@ -122,7 +121,6 @@ tags:
 </p>
 </blockquote>
 
-<iframe class="wp-embedded-content" sandbox="allow-scripts" security="restricted" style="position: absolute; clip: rect(1px, 1px, 1px, 1px);" src="https://hirotatsu.me/newzealand-21/embed/#?secret=lEdj139EYS" data-secret="lEdj139EYS" width="500" height="282" title="&#8220;【放浪記】wwoofingで雨の中のお仕事でびしょ濡れに&#8221; &#8212; 世界のひろたつから" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"></iframe>
 
 <blockquote class="wp-embedded-content" data-secret="qG6Yh3mQeZ">
 <p>
@@ -130,7 +128,6 @@ tags:
 </p>
 </blockquote>
 
-<iframe class="wp-embedded-content" sandbox="allow-scripts" security="restricted" style="position: absolute; clip: rect(1px, 1px, 1px, 1px);" src="https://hirotatsu.me/newzealand-22/embed/#?secret=qG6Yh3mQeZ" data-secret="qG6Yh3mQeZ" width="500" height="282" title="&#8220;ワイタケレのホームステイでお仕事中に犬に邪魔される一日&#8221; &#8212; 世界のひろたつから" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"></iframe>
 
 <blockquote class="wp-embedded-content" data-secret="vbXHU181WB">
 <p>
@@ -138,7 +135,6 @@ tags:
 </p>
 </blockquote>
 
-<iframe class="wp-embedded-content" sandbox="allow-scripts" security="restricted" style="position: absolute; clip: rect(1px, 1px, 1px, 1px);" src="https://hirotatsu.me/newzealand-23/embed/#?secret=vbXHU181WB" data-secret="vbXHU181WB" width="500" height="282" title="&#8220;【放浪記】よく晴れた日のwwoofingは気持ちがいい&#8221; &#8212; 世界のひろたつから" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"></iframe>
 
 <blockquote class="wp-embedded-content" data-secret="12jybjfrQX">
 <p>
@@ -146,7 +142,6 @@ tags:
 </p>
 </blockquote>
 
-<iframe class="wp-embedded-content" sandbox="allow-scripts" security="restricted" style="position: absolute; clip: rect(1px, 1px, 1px, 1px);" src="https://hirotatsu.me/newzealand-24/embed/#?secret=12jybjfrQX" data-secret="12jybjfrQX" width="500" height="282" title="&#8220;ホームステイ先でビリヤードをしてビールを飲んで映画を見て&#8221; &#8212; 世界のひろたつから" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"></iframe>
 
 <blockquote class="wp-embedded-content" data-secret="36lPL2f908">
 <p>
@@ -154,7 +149,6 @@ tags:
 </p>
 </blockquote>
 
-<iframe class="wp-embedded-content" sandbox="allow-scripts" security="restricted" style="position: absolute; clip: rect(1px, 1px, 1px, 1px);" src="https://hirotatsu.me/newzealand-25/embed/#?secret=36lPL2f908" data-secret="36lPL2f908" width="500" height="282" title="&#8220;今日のWWOOFのお仕事は永遠と黄色い花の草をむしり続ける&#8221; &#8212; 世界のひろたつから" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"></iframe>
 
 <blockquote class="wp-embedded-content" data-secret="TCSzCoRqBl">
 <p>
@@ -162,7 +156,6 @@ tags:
 </p>
 </blockquote>
 
-<iframe class="wp-embedded-content" sandbox="allow-scripts" security="restricted" style="position: absolute; clip: rect(1px, 1px, 1px, 1px);" src="https://hirotatsu.me/newzealand-26/embed/#?secret=TCSzCoRqBl" data-secret="TCSzCoRqBl" width="500" height="282" title="&#8220;【放浪記】今のホームステイ先で最後のWWOOFのお仕事の日&#8221; &#8212; 世界のひろたつから" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"></iframe>
 
 <blockquote class="wp-embedded-content" data-secret="xslKXfSYcA">
 <p>
@@ -170,7 +163,6 @@ tags:
 </p>
 </blockquote>
 
-<iframe class="wp-embedded-content" sandbox="allow-scripts" security="restricted" style="position: absolute; clip: rect(1px, 1px, 1px, 1px);" src="https://hirotatsu.me/newzealand-27/embed/#?secret=xslKXfSYcA" data-secret="xslKXfSYcA" width="500" height="282" title="&#8220;ワイタケレWWOOFの最後の晩餐にコロッケをおもてなし。&#8221; &#8212; 世界のひろたつから" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"></iframe>
 
 <blockquote class="wp-embedded-content" data-secret="WA7GMa3gTd">
 <p>
@@ -178,7 +170,6 @@ tags:
 </p>
 </blockquote>
 
-<iframe class="wp-embedded-content" sandbox="allow-scripts" security="restricted" style="position: absolute; clip: rect(1px, 1px, 1px, 1px);" src="https://hirotatsu.me/newzealand-28/embed/#?secret=WA7GMa3gTd" data-secret="WA7GMa3gTd" width="500" height="282" title="&#8220;【ニュージーランドでヒッチハイク】次のWWOOF先へ。&#8221; &#8212; 世界のひろたつから" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"></iframe>
 
 ## <span id="WWOOF-2">ニュージーランドのWWOOFでは珍しい日本人ホスト</span>
 

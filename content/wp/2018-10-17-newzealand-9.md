@@ -86,7 +86,6 @@ WWOOFの仕事として、鶏小屋の作成をしているので、そのお話
   </p>
 </blockquote>
 
-<iframe class="wp-embedded-content" sandbox="allow-scripts" security="restricted" style="position: absolute; clip: rect(1px, 1px, 1px, 1px);" src="https://hirotatsu.me/newzealand-7/embed/#?secret=0CvZEGDxMy" data-secret="0CvZEGDxMy" width="500" height="282" title="&#8220;【NZ日記】グレートバリア島で一番高い山マットホブソン登頂！&#8221; &#8212; 世界のひろたつから" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"></iframe>
 
 <blockquote class="wp-embedded-content" data-secret="8hrKA2d2eC">
   <p>
@@ -94,7 +93,6 @@ WWOOFの仕事として、鶏小屋の作成をしているので、そのお話
   </p>
 </blockquote>
 
-<iframe class="wp-embedded-content" sandbox="allow-scripts" security="restricted" style="position: absolute; clip: rect(1px, 1px, 1px, 1px);" src="https://hirotatsu.me/newzealand-8/embed/#?secret=8hrKA2d2eC" data-secret="8hrKA2d2eC" width="500" height="282" title="&#8220;【NZ日記】ホットスプリングスでホブソン登山の疲れを癒やす&#8221; &#8212; 世界のひろたつから" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"></iframe>
 
 ## <span id="i-2">おはようございます</span>
 

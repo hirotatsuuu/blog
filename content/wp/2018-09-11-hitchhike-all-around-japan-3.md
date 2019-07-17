@@ -80,7 +80,6 @@ tags:
   </p>
 </blockquote>
 
-<iframe class="wp-embedded-content" sandbox="allow-scripts" security="restricted" style="position: absolute; clip: rect(1px, 1px, 1px, 1px);" src="https://hirotatsu.me/hitchhike-all-around-japan-2/embed/#?secret=ptPISKEdar" data-secret="ptPISKEdar" width="500" height="282" title="&#8220;ヒッチハイク日本一周の旅（九州上陸）&#8221; &#8212; 世界のひろたつから" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"></iframe>
 
 今回は、、最初の目的地である佐多岬に到着したので、そのお話です。
 
@@ -334,7 +333,6 @@ tags:
   </p>
 </blockquote>
 
-<iframe class="wp-embedded-content" sandbox="allow-scripts" security="restricted" style="position: absolute; clip: rect(1px, 1px, 1px, 1px);" src="https://hirotatsu.me/hitchhike-all-around-japan-4/embed/#?secret=5JwOUZD0Rc" data-secret="5JwOUZD0Rc" width="500" height="282" title="&#8220;ヒッチハイク日本一周の旅（宗谷岬到着編）&#8221; &#8212; 世界のひろたつから" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"></iframe>
 
 ここまで読んでくださりありがとうございました。
   

@@ -81,7 +81,6 @@ Final Cut Pro Xの使い方を調べてまとめてみました〜
   </p>
 </blockquote>
 
-<iframe class="wp-embedded-content" sandbox="allow-scripts" security="restricted" style="position: absolute; clip: rect(1px, 1px, 1px, 1px);" src="https://hirotatsu.me/howto-finalcutprox/embed/#?secret=cdI2s3K8qE" data-secret="cdI2s3K8qE" width="500" height="282" title="&#8220;【FCPX】動画編集ソフトFCPXを初めて使う方へ&#8221; &#8212; 世界のひろたつから" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"></iframe>
 
 ## <span id="i-2">音楽の挿入</span>
 

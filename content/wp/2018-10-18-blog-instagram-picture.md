@@ -397,7 +397,6 @@ tags:
     </blockquote>
     
     <p>
-      <iframe class="wp-embedded-content" sandbox="allow-scripts" security="restricted" style="position: absolute; clip: rect(1px, 1px, 1px, 1px);" src="https://hirotatsu.me/newzealand-9/embed/#?secret=aKQmTf6l5i" data-secret="aKQmTf6l5i" width="500" height="282" title="&#8220;WWOOFの仕事で鶏小屋を作っています&#8221; &#8212; 世界のひろたつから" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"></iframe>
     </p>
     
     <p>

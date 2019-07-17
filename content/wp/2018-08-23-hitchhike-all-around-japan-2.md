@@ -82,7 +82,6 @@ tags:
   </p>
 </blockquote>
 
-<iframe class="wp-embedded-content" sandbox="allow-scripts" security="restricted" style="position: absolute; clip: rect(1px, 1px, 1px, 1px);" src="https://hirotatsu.me/hitchhike-all-around-japan-1/embed/#?secret=jiNKmj6rNR" data-secret="jiNKmj6rNR" width="500" height="282" title="&#8220;ヒッチハイク日本一周の旅（スタート編）&#8221; &#8212; 世界のひろたつから" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"></iframe>
 
 今回は、、無事に九州に上陸したので、そのお話です。
 
@@ -372,7 +371,6 @@ tags:
   </p>
 </blockquote>
 
-<iframe class="wp-embedded-content" sandbox="allow-scripts" security="restricted" style="position: absolute; clip: rect(1px, 1px, 1px, 1px);" src="https://hirotatsu.me/hitchhike-all-around-japan-3/embed/#?secret=hv2dR9fmvF" data-secret="hv2dR9fmvF" width="500" height="282" title="&#8220;ヒッチハイク日本一周の旅（佐多岬到着編）&#8221; &#8212; 世界のひろたつから" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"></iframe>
 
 以上、ひろたつでした。
   

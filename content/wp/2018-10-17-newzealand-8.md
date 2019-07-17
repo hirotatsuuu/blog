@@ -85,7 +85,6 @@ tags:
   </p>
 </blockquote>
 
-<iframe class="wp-embedded-content" sandbox="allow-scripts" security="restricted" style="position: absolute; clip: rect(1px, 1px, 1px, 1px);" src="https://hirotatsu.me/newzealand-7/embed/#?secret=2dhnoZ8JVQ" data-secret="2dhnoZ8JVQ" width="500" height="282" title="&#8220;グレートバリア島で一番高い山、ホブソン山登頂！&#8221; &#8212; 世界のひろたつから" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"></iframe>
 
 そして、山小屋（Mt Heale Hut）があるところまで戻ってきて、そこの近くの見晴らしの良い場所でテントを張って寝ました。
 

@@ -137,7 +137,6 @@ tags:
 </p>
 </blockquote>
 
-<iframe class="wp-embedded-content" sandbox="allow-scripts" security="restricted" style="position: absolute; clip: rect(1px, 1px, 1px, 1px);" src="https://hirotatsu.me/newzealand-1/embed/#?secret=PVpAJcm6v7" data-secret="PVpAJcm6v7" width="500" height="282" title="&#8220;【NZ日記】グレートバリア島の生活に慣れてきました&#8221; &#8212; 世界のひろたつから" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"></iframe>
 
 アイキャッチ画像ひどすぎるｗｗ
 
@@ -275,7 +274,6 @@ wwooferとしての仕事も、永遠と同じ作業が多く、正直「つら�
 </p>
 </blockquote>
 
-<iframe class="wp-embedded-content" sandbox="allow-scripts" security="restricted" style="position: absolute; clip: rect(1px, 1px, 1px, 1px);" src="https://hirotatsu.me/wwoof-nz/embed/#?secret=Zt8f6Bgh4C" data-secret="Zt8f6Bgh4C" width="500" height="282" title="&#8220;ニュージーランドでWWOOFを使ってホームステイしてみた&#8221; &#8212; 世界のひろたつから" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"></iframe>
 
 <blockquote class="wp-embedded-content" data-secret="tGXm3ICdOO">
 <p>
@@ -283,7 +281,6 @@ wwooferとしての仕事も、永遠と同じ作業が多く、正直「つら�
 </p>
 </blockquote>
 
-<iframe class="wp-embedded-content" sandbox="allow-scripts" security="restricted" style="position: absolute; clip: rect(1px, 1px, 1px, 1px);" src="https://hirotatsu.me/mt-hobson/embed/#?secret=tGXm3ICdOO" data-secret="tGXm3ICdOO" width="500" height="282" title="&#8220;グレートバリア島で最も高い山マットホブソンってどんな山？&#8221; &#8212; 世界のひろたつから" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"></iframe>
 
 <blockquote class="wp-embedded-content" data-secret="rxddRMywJ7">
 <p>
@@ -291,7 +288,6 @@ wwooferとしての仕事も、永遠と同じ作業が多く、正直「つら�
 </p>
 </blockquote>
 
-<iframe class="wp-embedded-content" sandbox="allow-scripts" security="restricted" style="position: absolute; clip: rect(1px, 1px, 1px, 1px);" src="https://hirotatsu.me/why-english-speaking/embed/#?secret=rxddRMywJ7" data-secret="rxddRMywJ7" width="500" height="282" title="&#8220;なぜ僕が英語を喋れるようになりたいのか？&#8221; &#8212; 世界のひろたつから" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"></iframe>
 
 大きくはこの3つかな〜
 

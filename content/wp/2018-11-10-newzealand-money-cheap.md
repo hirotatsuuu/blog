@@ -171,7 +171,6 @@ WWOOFの他にもhelpxやworkawayといったサービスも存在します。�
 </p>
 </blockquote>
 
-<iframe class="wp-embedded-content" sandbox="allow-scripts" security="restricted" style="position: absolute; clip: rect(1px, 1px, 1px, 1px);" src="https://hirotatsu.me/wwoof-nz/embed/#?secret=foG3CfZdjk" data-secret="foG3CfZdjk" width="500" height="282" title="&#8220;ニュージーランドでWWOOFを使ってホームステイしてみた&#8221; &#8212; 世界のひろたつから" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"></iframe>
 
 そして、このWWOOFというサービスを使うと、お金を使わずに「<span style="color: blue; font-weight: bold;">食事</span>」と「<span style="color: blue; font-weight: bold;">住居</span>」の問題が解決します。
 
@@ -263,7 +262,6 @@ WWOOFとヒッチハイクを駆使することにより、僕は現在「**ゼ�
 </p>
 </blockquote>
 
-<iframe class="wp-embedded-content" sandbox="allow-scripts" security="restricted" style="position: absolute; clip: rect(1px, 1px, 1px, 1px);" src="https://hirotatsu.me/why-english-speaking/embed/#?secret=eUh62kTe7F" data-secret="eUh62kTe7F" width="500" height="282" title="&#8220;なぜ僕が英語を喋れるようになりたいのか？&#8221; &#8212; 世界のひろたつから" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"></iframe>
 
 <div style="font-size: 0px; height: 0px; line-height: 0px; margin: 0; padding: 0; clear: both;">
 </div>

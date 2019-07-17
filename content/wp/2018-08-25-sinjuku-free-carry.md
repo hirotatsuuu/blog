@@ -78,7 +78,6 @@ tags:
   
 ↓↓↓
   
-<span class="embed-youtube" style="text-align:center; display: block;"><iframe class='youtube-player' type='text/html' width='640' height='360' src='https://www.youtube.com/embed/JiexvyILctA?version=3&#038;rel=1&#038;fs=1&#038;autohide=2&#038;showsearch=0&#038;showinfo=1&#038;iv_load_policy=1&#038;wmode=transparent' allowfullscreen='true' style='border:0;'></iframe></span>
 
 今回の動画は、新宿で路上生活者のための配給を実際に食べてみるというものです。
   
@@ -86,7 +85,6 @@ tags:
 
 以前にジョーブログさんがやっていて、僕も食べてみたいなと思いやりました。
   
-<span class="embed-youtube" style="text-align:center; display: block;"><iframe class='youtube-player' type='text/html' width='640' height='360' src='https://www.youtube.com/embed/chLW51kMU8Y?version=3&#038;rel=1&#038;fs=1&#038;autohide=2&#038;showsearch=0&#038;showinfo=1&#038;iv_load_policy=1&#038;wmode=transparent' allowfullscreen='true' style='border:0;'></iframe></span>
 
 配給は、ホームレスの方にとってはとても大切です。
   

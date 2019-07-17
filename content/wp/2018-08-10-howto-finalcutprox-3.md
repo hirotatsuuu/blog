@@ -67,7 +67,6 @@ tags:
   </p>
 </blockquote>
 
-<iframe class="wp-embedded-content" sandbox="allow-scripts" security="restricted" style="position: absolute; clip: rect(1px, 1px, 1px, 1px);" src="https://hirotatsu.me/howto-finalcutprox/embed/#?secret=O3w8pQ4V0Z" data-secret="O3w8pQ4V0Z" width="500" height="282" title="&#8220;【FCPX】動画編集ソフトFCPXを初めて使う方へ&#8221; &#8212; 世界のひろたつから" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"></iframe>
 
 <blockquote class="wp-embedded-content" data-secret="8jpOLjGMMc">
   <p>
@@ -75,7 +74,6 @@ tags:
   </p>
 </blockquote>
 
-<iframe class="wp-embedded-content" sandbox="allow-scripts" security="restricted" style="position: absolute; clip: rect(1px, 1px, 1px, 1px);" src="https://hirotatsu.me/howto-finalcutprox-2/embed/#?secret=8jpOLjGMMc" data-secret="8jpOLjGMMc" width="500" height="282" title="&#8220;【FCPX】動画編集ソフトFCPXを初めて使う方へv2&#8221; &#8212; 世界のひろたつから" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"></iframe>
 
 ## <span id="i">モザイク処理</span>
 

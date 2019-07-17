@@ -65,7 +65,6 @@ tags:
   
 ↓↓↓
   
-<span class="embed-youtube" style="text-align:center; display: block;"><iframe class='youtube-player' type='text/html' width='640' height='360' src='https://www.youtube.com/embed/uQDZEoE0qig?version=3&#038;rel=1&#038;fs=1&#038;autohide=2&#038;showsearch=0&#038;showinfo=1&#038;iv_load_policy=1&#038;wmode=transparent' allowfullscreen='true' style='border:0;'></iframe></span>
 
 ## <span id="i-2">動画の内容</span>
 
@@ -83,7 +82,6 @@ tags:
   
 その方の動画を参考にしています。
 
-<span class="embed-youtube" style="text-align:center; display: block;"><iframe class='youtube-player' type='text/html' width='640' height='360' src='https://www.youtube.com/embed/QJbpJQscn9E?version=3&#038;rel=1&#038;fs=1&#038;autohide=2&#038;showsearch=0&#038;showinfo=1&#038;iv_load_policy=1&#038;wmode=transparent' allowfullscreen='true' style='border:0;'></iframe></span>
 
 全体的に少しカッコよくなるかなと思って、英語ベースで作っています。
   
