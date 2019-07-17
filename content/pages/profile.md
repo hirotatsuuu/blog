@@ -393,7 +393,6 @@ url: /me/
   </p>
 </blockquote>
 
-<iframe class="wp-embedded-content" sandbox="allow-scripts" security="restricted" style="position: absolute; clip: rect(1px, 1px, 1px, 1px);" src="https://hirotatsu.me/hitchhike-all-around-japan-6/embed/#?secret=H9s86JWmHc" data-secret="H9s86JWmHc" width="500" height="282" title="&#8220;ヒッチハイク日本一周の旅（完結編）&#8221; &#8212; 世界のひろたつから" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"></iframe>
 
 ### 英語の重要性を感じてニュージーランドへワーホリする
 
@@ -417,7 +416,6 @@ url: /me/
   </p>
 </blockquote>
 
-<iframe class="wp-embedded-content" sandbox="allow-scripts" security="restricted" style="position: absolute; clip: rect(1px, 1px, 1px, 1px);" src="https://hirotatsu.me/why-english-speaking/embed/#?secret=Re35sW3C6e" data-secret="Re35sW3C6e" width="500" height="282" title="&#8220;なぜ僕が英語を喋れるようになりたいのか？&#8221; &#8212; 世界のひろたつから" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"></iframe>
 
 ### ゼロ円ワーホリでニュージーランドを放浪する
 
@@ -461,7 +459,6 @@ url: /me/
   </p>
 </blockquote>
 
-<iframe class="wp-embedded-content" sandbox="allow-scripts" security="restricted" style="position: absolute; clip: rect(1px, 1px, 1px, 1px);" src="https://hirotatsu.me/wwoof-nz/embed/#?secret=Rt3w0lsAOM" data-secret="Rt3w0lsAOM" width="500" height="282" title="&#8220;ニュージーランドでWWOOFを使ってホームステイしてみた&#8221; &#8212; 世界のひろたつから" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"></iframe>
 
 僕は、ヒッチハイクとWWOOFで文字通り「**お金を使わずに**」ニュージーランドを放浪することできています。
 
