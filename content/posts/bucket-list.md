@@ -7,7 +7,7 @@ categorie:
   - ""
 tags:
   - ""
-draft: true
+draft: false
 ---
 
 みなさん、バケットリストというものを知っていますか？
