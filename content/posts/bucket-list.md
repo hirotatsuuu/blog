@@ -1,6 +1,6 @@
 ---
 title: "Bucket List"
-date: 2019-08-29T22:10:52+12:00
+date: 2019-09-23T12:08:00+12:00
 thumbnail: "images/posts/bucket-list.jpg"
 toc: true
 categorie:
