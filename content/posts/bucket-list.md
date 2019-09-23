@@ -2,7 +2,7 @@
 title: "Bucket List"
 date: 2019-09-23T12:08:00+12:00
 thumbnail: "images/posts/bucket-list.jpg"
-toc: true
+toc: false
 categorie:
   - ""
 tags:
