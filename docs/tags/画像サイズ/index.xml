@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>画像サイズ on 世界のひろたつから</title>
@@ -18,11 +18,8 @@
       
       <guid>https://hirotatsu.me/image-size-small/</guid>
       <description>&lt;p&gt;はいどーもー&lt;/p&gt;
-
 &lt;p&gt;ひろたつです。&lt;/p&gt;
-
 &lt;p&gt;今回は、「MacBookのプレビューで画像のサイズを小さくする方法」です。&lt;/p&gt;
-
 &lt;p&gt;プラスで、Final Cut Pro Xでスクショのようなこと（現在のフレームを保存）をする方法も見ていきます。&lt;/p&gt;</description>
     </item>
     

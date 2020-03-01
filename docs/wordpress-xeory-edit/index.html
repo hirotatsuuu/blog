@@ -6,7 +6,7 @@
 <meta name="viewport" content="width=device-width,minimum-scale=1,initial-scale=1">
 <meta name="theme-color" content="#263238">
 
-<meta name="generator" content="Hugo 0.55.6" />
+<meta name="generator" content="Hugo 0.63.2" />
 
 <link rel="apple-touch-icon" href="https://hirotatsu.me/images/logo.png">
 <link rel="shortcut icon" type="image/x-icon" href="https://hirotatsu.me/favicon.ico">
@@ -778,7 +778,7 @@ section.footer > header a {
 
 
 
-.thumb-b94031eb7cb3d7e059bd253f1dfa26d7 {
+.thumb-f991457469b1a40f511b0bcac7ac654d {
   background-image: url(https://hirotatsu.me/images/posts/1.jpg);
 }
 
@@ -1853,133 +1853,65 @@ if (!doNotTrack) {
 
   
 
-  <div class="article-body">
-
-<p>はいどーもー</p>
-
+  <div class="article-body"><p>はいどーもー</p>
 <p>エンジニアのひろたつです。</p>
-
 <p>今回は、このブログで使用しているXeoryというテーマの改良です。</p>
-
 <p>ソーシャルボタンが重すぎるので、修正して軽量化してみました。</p>
-
-<div id="toc_container" class="toc_transparent no_bullets">
-  <p class="toc_title">
-    本記事の内容
-  </p>
-
-  <ul class="toc_list">
-    <li>
-      <a href="#i"><span class="toc_number toc_depth_1">1</span> はじめに</a>
-    </li>
-    <li>
-      <a href="#snsphp"><span class="toc_number toc_depth_1">2</span> sns.phpの作成</a>
-    </li>
-    <li>
-      <a href="#singlephp"><span class="toc_number toc_depth_1">3</span> single.phpの修正</a>
-    </li>
-    <li>
-      <a href="#i-2"><span class="toc_number toc_depth_1">4</span> おわりに</a>
-    </li>
-    <li>
-      <a href="#i-3"><span class="toc_number toc_depth_1">5</span> 参考</a>
-    </li>
-  </ul>
-</div>
-
-<h2 id="span-id-i-はじめに-span"><span id="i">はじめに</span></h2>
-
+<!-- raw HTML omitted -->
+<!-- raw HTML omitted -->
+<h2 id="span-idiはじめにspan"><!-- raw HTML omitted -->はじめに<!-- raw HTML omitted --></h2>
 <p>わたくし、ひろたつはブログを運営しています。</p>
-
 <p>その中でちょっとしたことなのですが、悩みが、、</p>
-
 <p>いかんせん、ソーシャルボタンの表示がおそい！</p>
-
 <p>本当に遅い！！</p>
-
 <p>調べると、画像を取得するのに時間がかかっているのだとか、、、</p>
-
 <p>そんなのしなくていいよ〜〜〜</p>
-
 <p>と、いうわけで、画像を読み込まないソーシャルボタンを自分で作って、それに変更しちゃいます。</p>
-
 <p>これができたら、一瞬で表示されるブログが完成するぞ〜〜〜</p>
-
 <p>いぇ〜〜い！</p>
-
-<h2 id="span-id-snsphp-sns-phpの作成-span"><span id="snsphp">sns.phpの作成</span></h2>
-
+<h2 id="span-idsnsphpsnsphpの作成span"><!-- raw HTML omitted -->sns.phpの作成<!-- raw HTML omitted --></h2>
 <p>まずは、sns.phpというファイルを作成します！</p>
-
 <p>僕はCUIで操作しているので、、</p>
-
 <pre><code>touch sns.php
 </code></pre>
-
 <p>これで新しいファイルを作成します。</p>
-
 <p>そして、そのファイルを修正します。</p>
-
 <pre><code>vi sns.php
 </code></pre>
-
 <p>こんな感じです。</p>
-
 <p>5行目あたりで勝手に、マージンを入れています。気になる方は、各自で修正してください。</p>
-
 <p>margin-top: -30px;は上に余白がありすぎたので、入れました。</p>
-
 <p>margin-bottom: 20px;は下に余白が全く無かったので入れました。</p>
-
-<h2 id="span-id-singlephp-single-phpの修正-span"><span id="singlephp">single.phpの修正</span></h2>
-
+<h2 id="span-idsinglephpsinglephpの修正span"><!-- raw HTML omitted -->single.phpの修正<!-- raw HTML omitted --></h2>
 <p>sns.phpが完成したら、それを読み込まなくてはいけません。</p>
-
 <p>というわけで、single.phpを修正していきます。</p>
-
 <pre><code>vi single.php
 </code></pre>
-
 <p>と、いっても簡単です。</p>
-
 <p>１．まずは、、、</p>
-
 <p>上記の部分を見つけて削除します。(64行目あたりにあります。)</p>
-
 <ol>
-<li><p>次に、、、</p>
-
-<p>削除したところに以下を追記します。</p></li>
+<li>次に、、、</li>
 </ol>
-
+<pre><code>削除したところに以下を追記します。
+</code></pre>
 <p>以上です。</p>
-
 <p>これで先程作成したsns.phpが読み込まれて、表示されると思います。</p>
-
 <p>ソーシャルボタンがいい感じになったのではないでしょうか〜</p>
-
-<h2 id="span-id-i-2-おわりに-span"><span id="i-2">おわりに</span></h2>
-
+<h2 id="span-idi-2おわりにspan"><!-- raw HTML omitted -->おわりに<!-- raw HTML omitted --></h2>
 <p>簡単でしたよね〜</p>
-
 <p>Xeoryテーマはシンプルで使いやすいですよね。</p>
-
 <p>そして、なんか違うなって思う部分はどんどん修正して、自分色に染めていきましょう〜</p>
-
 <p>以上、ひろたつでした。</p>
-
 <p>ばいなら〜</p>
-
-<h2 id="span-id-i-3-参考-span"><span id="i-3">参考</span></h2>
-
+<h2 id="span-idi-3参考span"><!-- raw HTML omitted -->参考<!-- raw HTML omitted --></h2>
 <blockquote>
-<p><a href="https://soricity.com/social-button-change/" rel="noopener" target="_blank"><a href="https://soricity.com/social-button-change/">https://soricity.com/social-button-change/</a></a></p>
-
-<p><a href="https://sekkakudakara.com/share-buttons/" rel="noopener" target="_blank"><a href="https://sekkakudakara.com/share-buttons/">https://sekkakudakara.com/share-buttons/</a></a></p>
+<p><!-- raw HTML omitted --><a href="https://soricity.com/social-button-change/">https://soricity.com/social-button-change/</a><!-- raw HTML omitted --></p>
 </blockquote>
-
-<div style="font-size: 0px; height: 0px; line-height: 0px; margin: 0; padding: 0; clear: both;">
-</div>
+<blockquote>
+<p><!-- raw HTML omitted --><a href="https://sekkakudakara.com/share-buttons/">https://sekkakudakara.com/share-buttons/</a><!-- raw HTML omitted --></p>
+</blockquote>
+<!-- raw HTML omitted -->
 </div>
 
   <footer class="article-footer">
@@ -2239,7 +2171,7 @@ if (!doNotTrack) {
       <ul class="author-facts">
         <li><a href="https://www.instagram.com/hirotatsuuuu" rel="nofollow" target="_blank"><i class="fab fa-instagram" aria-hidden="true"></i></a></li>
         <li><a href="https://twitter.com/hirotatsuuu" rel="nofollow" target="_blank"><i class="fab fa-twitter" aria-hidden="true"></i></a></li>
-        <li><a href="https://www.youtube.com/channel/UCURchUnO3DM8j-le65hJQJA" rel="nofollow" target="_blank"><i class="fab fa-youtube" aria-hidden="true"></i></a></li>
+        <li><a href="https://www.youtube.com/channel/UCCgkcA0THRctIHDLqhKjqeQ" rel="nofollow" target="_blank"><i class="fab fa-youtube" aria-hidden="true"></i></a></li>
         <li><a href="https://github.com/hirotatsuuu" rel="nofollow" target="_blank"><i class="fab fa-github" aria-hidden="true"></i></a></li>
       </ul>
       <div class="author-description"><p style='text-align: center;'>職業：旅人</p><p style='text-align: center;'><a href='https://hirotatsu.me/me'>→詳しくはこちら</a></p></div>
@@ -2337,8 +2269,8 @@ if (!doNotTrack) {
     <div class="articles sm">
       
       <article class="lism">
-  <a href="https://hirotatsu.me/posts/allaroundtheworld/1/">
-    <div class="thumb thumb-b94031eb7cb3d7e059bd253f1dfa26d7"></div>
+  <a href="https://hirotatsu.me/posts/1/">
+    <div class="thumb thumb-f991457469b1a40f511b0bcac7ac654d"></div>
 
     <div class="inner">
       <div class="title">旅立ちの日</div>
@@ -2442,22 +2374,15 @@ if (!doNotTrack) {
 
 
 
-    <section class="sidebar">
+    
+<section class="sidebar">
   <header>PROJECTS</header>
   <div>
     <div class="articles sm">
+      
+      
       <article class="lism">
-        <a href="https://hirotatsu.site" target="_blank">
-          <div class="inner">
-            <div class="title">hirotatsu.</div>
-            <ul class="facts sm">
-              <li>自己紹介サイト</li>
-            </ul>
-          </div>
-        </a>
-      </article>
-      <article class="lism">
-        <a href="https://hitchhike.work/" target="_blank">
+        <a href="https://hirotatsuuu.github.io/hitchhike-memories/" target="_blank">
           <div class="inner">
             <div class="title">HITCHHIKE MEMORIES</div>
             <ul class="facts sm">
@@ -2466,39 +2391,14 @@ if (!doNotTrack) {
           </div>
         </a>
       </article>
-      <article class="lism">
-        <a href="https://htlp.work/" target="_blank">
-          <div class="inner">
-            <div class="title">LP</div>
-            <ul class="facts sm">
-              <li>ランディングページ</li>
-            </ul>
-          </div>
-        </a>
-      </article>
-      <article class="lism">
-        <a href="https://esekansai.work/" target="_blank">
-          <div class="inner">
-            <div class="title">EKK</div>
-            <ul class="facts sm">
-              <li>エセ関西弁協会の公式サイト</li>
-            </ul>
-          </div>
-        </a>
-      </article>
-      <article class="lism">
-        <a href="https://tatsuppi.work/" target="_blank">
-          <div class="inner">
-            <div class="title">tatsuppi</div>
-            <ul class="facts sm">
-              <li>メモ帳アプリ</li>
-            </ul>
-          </div>
-        </a>
-      </article>
+      
+      
+      
+      
     </div>
   </div>
 </section>
+
     <section class="sidebar">
   <header>OTHERS</header>
   <div>

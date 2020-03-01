@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>サイドバー on 世界のひろたつから</title>
@@ -18,11 +18,8 @@
       
       <guid>https://hirotatsu.me/xeory-category-number/</guid>
       <description>&lt;p&gt;はいどーもー&lt;/p&gt;
-
 &lt;p&gt;絶賛ニート中で家で記事を書いているひろたつです。&lt;/p&gt;
-
 &lt;p&gt;今回は、wordpressのテーマである、xeoryテーマの編集についてです！&lt;/p&gt;
-
 &lt;p&gt;サイドバーにカテゴリーの数を表示させると改行されてしまうので、その修正方法をシェアしようと思います。&lt;/p&gt;</description>
     </item>
     
