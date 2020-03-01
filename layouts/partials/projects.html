@@ -1,9 +1,11 @@
+{{ with .Site.Params.project }}
 <section class="sidebar">
   <header>PROJECTS</header>
   <div>
     <div class="articles sm">
+      {{ with .site }}
       <article class="lism">
-        <a href="https://hirotatsu.site" target="_blank">
+        <a href="{{ . }}" target="_blank">
           <div class="inner">
             <div class="title">hirotatsu.</div>
             <ul class="facts sm">
@@ -12,8 +14,10 @@
           </div>
         </a>
       </article>
+      {{ end }}
+      {{ with .hitchhike }}
       <article class="lism">
-        <a href="https://hitchhike.work/" target="_blank">
+        <a href="{{ . }}" target="_blank">
           <div class="inner">
             <div class="title">HITCHHIKE MEMORIES</div>
             <ul class="facts sm">
@@ -22,8 +26,10 @@
           </div>
         </a>
       </article>
+      {{ end }}
+      {{ with .lp }}
       <article class="lism">
-        <a href="https://htlp.work/" target="_blank">
+        <a href="{{ . }}" target="_blank">
           <div class="inner">
             <div class="title">LP</div>
             <ul class="facts sm">
@@ -32,8 +38,10 @@
           </div>
         </a>
       </article>
+      {{ end }}
+      {{ with .ekk }}
       <article class="lism">
-        <a href="https://esekansai.work/" target="_blank">
+        <a href="{{ . }}" target="_blank">
           <div class="inner">
             <div class="title">EKK</div>
             <ul class="facts sm">
@@ -42,8 +50,10 @@
           </div>
         </a>
       </article>
+      {{ end }}
+      {{ with .tatsuppi }}
       <article class="lism">
-        <a href="https://tatsuppi.work/" target="_blank">
+        <a href="{{ . }}" target="_blank">
           <div class="inner">
             <div class="title">tatsuppi</div>
             <ul class="facts sm">
@@ -52,6 +62,8 @@
           </div>
         </a>
       </article>
+      {{ end }}
     </div>
   </div>
 </section>
+{{ end }}

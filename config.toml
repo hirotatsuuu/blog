@@ -26,6 +26,13 @@ twitter = "https://twitter.com/hirotatsuuu"
 youtube = "https://www.youtube.com/channel/UCCgkcA0THRctIHDLqhKjqeQ"
 github = "https://github.com/hirotatsuuu"
 
+[params.project]
+site = ""
+hitchhike = "https://hirotatsuuu.github.io/hitchhike-memories/"
+lp = ""
+ekk = ""
+tatsuppi = ""
+
 [outputs]
 page = [ "HTML", "AMP" ] # if you want AMP enable.
 
